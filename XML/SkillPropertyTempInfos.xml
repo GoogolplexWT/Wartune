@@ -1,3 +1,6 @@
+<!-- 
+	These templates possibly pertain to the raw stats of some non-player characters.
+-->
 <SkillPropertyTempInfos>
 	<SkillPropertyTempInfo TemplateId="1042" AddType="1" Physique="50"/>
 	<SkillPropertyTempInfo TemplateId="1052" AddType="1" Physique="100"/>

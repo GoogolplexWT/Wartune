@@ -1,3 +1,6 @@
+<!-- 
+	No clue what this pertains to
+-->
 <ProficiencyTemplates>
 	<ProficiencyTemplate Id="1000" Grade="0" Layer="1" Exp="0" Attack="0" PhyDefence="0" MagDefence="0" Live="0"/>
 	<ProficiencyTemplate Id="1001" Grade="1" Layer="1" Exp="44" Attack="100" PhyDefence="100" MagDefence="100" Live="600"/>

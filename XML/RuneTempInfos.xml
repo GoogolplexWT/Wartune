@@ -1,3 +1,6 @@
+<!-- 
+	Rune information
+-->
 <RuneTempInfos>
 	<RuneTempInfo TemplateId="101" TemplateName="Rage Rune" RuneType="1" SonType="91" Job="0" RuneGrade="1" SkillTemplateId="9101" RuneIndex="6" Icon="/rune_rage.png" NextRuneId="102" NeedGp="0" UseCount="1" NeedGrade="35" Description="Immediately restores 30 Rage." Level="0"/>
 	<RuneTempInfo TemplateId="102" TemplateName="Rage Rune" RuneType="1" SonType="91" Job="0" RuneGrade="2" SkillTemplateId="9102" RuneIndex="6" Icon="/rune_rage.png" NextRuneId="103" NeedGp="10000" UseCount="1" NeedGrade="40" Description="Immediately restores 35 Rage." Level="0"/>

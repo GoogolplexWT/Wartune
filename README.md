@@ -2,7 +2,7 @@
 Information that the game should've given to its player base, yet didn't (because they're a$$holes)
 
 ## XML files
-There are directly dumped from the game memory, many of which I've yet to determine the usefulness of. Here are some categories:
+There are directly dumped from the game memory, while on some I've added descriptive comments
 
 ### Warspirit & path/tower
 
@@ -30,3 +30,7 @@ There are directly dumped from the game memory, many of which I've yet to determ
 - [Holy Sword level information](/XML/PetHallowsTempInfos.xml)
 - [Dimension information](/XML/PlanesTemplates.xml)
 - [Troop Enlightenment information](/XML/SpecialTempInfos.xml)
+- [Rune information](/XML/RuneTempInfos.xml)
+- [Non-player character skill-set](/XML/HeroAis.xml)
+- [Theseus Jewel Core information](/XML/TheseusJewelCoreTemplate.xml)
+- [Willpower creation requirements](/XML/ChildComposeTempInfos.xml)

@@ -1,5 +1,10 @@
 <!--
-	BreachItemNum = Amount of Breakthrough stones required to lvl up
+	> Theseus Jewel Core information
+
+	StrengthenItem 		= Id of item required to lvl-up, 2127023 = Core Enchantment stones
+	StrengthenItemNum 	= Amount of Core Enchantment stones to lvl-up
+	BreachItem 			= Id of item required to break through certain levels, 2127024 = Breakthrough stones
+	BreachItemNum 		= Amount of Breakthrough stones required to lvl up
 -->
 <TheseusTreasureCoreTemplates>
 	<TheseusTreasureCoreTemplate TemplateId="3001" Level="1" Profile="1" Description="Love of Aegeus" StrengthenItem="2127023" StrengthenItemNum="36" BreachItem="0" BreachItemNum="0" CoreSkills="" Icon="/item_treasurecore_1.png" SecretLevel="0" Property1="0" PhyAttack="79" PhyDefence="15" MagicAttack="79" MagicDefence="15" ForceHit="39" Live="553" Parry="39" Penetrate="39" ReduceResi="0" FireResi="0" WaterResi="0" ElectResi="0" WindResi="0" DarkResi="0" LightResi="0" ReduceResiAgainst="9" ResiPenetrate="9"/>

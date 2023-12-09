@@ -1,3 +1,6 @@
+<!--
+	> Sylph information
+-->
 <PetTempInfos>
 	<PetTempInfo TemplateId="101101" TemplateName="Amazon Queen" PetAvatar="/pet_amazon" SonType="10101" PetType="101" Quality="1" Power="10" Intel="10" Physi="10" Armor="10" PowerApt="1179,2625" IntelApt="180,431" PhysiApt="1180,2635" ArmorApt="752,1869" MaxHp="1000" GrowthRate="615" FireResi="165" WaterResi="0" ElectResi="110" WindResi="110" DarkResi="55" LightResi="55" FollowSkills="701101,702101,703101" ChangeSkills="704001,708101,706101,704201" DefaultSkills="701000" NeedGrade="1" Description="1" Property1="0" Property2="0" Property3="0" Property4="" Property5="" Property6=""/>
 	<PetTempInfo TemplateId="101102" TemplateName="Amazon Queen" PetAvatar="/pet_amazon" SonType="10101" PetType="101" Quality="2" Power="20" Intel="10" Physi="50" Armor="10" PowerApt="1410,3149" IntelApt="226,516" PhysiApt="1420,3161" ArmorApt="891,2241" MaxHp="1000" GrowthRate="769" FireResi="245" WaterResi="0" ElectResi="165" WindResi="165" DarkResi="80" LightResi="80" FollowSkills="701101,702101,703101" ChangeSkills="704001,708101,706101,704201" DefaultSkills="701000" NeedGrade="1" Description="1" Property1="0" Property2="0" Property3="0" Property4="" Property5="" Property6=""/>

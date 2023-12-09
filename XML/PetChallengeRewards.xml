@@ -1,0 +1,50 @@
+<!--
+	No clue what this is
+-->
+<PetChallengeRewards>
+	<PetChallengeReward Type="2" Ranking="2|1" RewardType="1" TemplateId="208065" Count="350"/>
+	<PetChallengeReward Type="2" Ranking="2|2,50" RewardType="1" TemplateId="208065" Count="300"/>
+	<PetChallengeReward Type="2" Ranking="2|51,1000000" RewardType="1" TemplateId="208065" Count="290"/>
+	<PetChallengeReward Type="2" Ranking="3|1" RewardType="1" TemplateId="208065" Count="290"/>
+	<PetChallengeReward Type="2" Ranking="3|2,50" RewardType="1" TemplateId="208065" Count="285"/>
+	<PetChallengeReward Type="2" Ranking="3|51,1000000" RewardType="1" TemplateId="208065" Count="280"/>
+	<PetChallengeReward Type="2" Ranking="4|1" RewardType="1" TemplateId="208065" Count="285"/>
+	<PetChallengeReward Type="2" Ranking="4|2,50" RewardType="1" TemplateId="208065" Count="270"/>
+	<PetChallengeReward Type="2" Ranking="4|51,1000000" RewardType="1" TemplateId="208065" Count="265"/>
+	<PetChallengeReward Type="2" Ranking="5|1" RewardType="1" TemplateId="208065" Count="270"/>
+	<PetChallengeReward Type="2" Ranking="5|2,50" RewardType="1" TemplateId="208065" Count="255"/>
+	<PetChallengeReward Type="2" Ranking="5|51,1000000" RewardType="1" TemplateId="208065" Count="240"/>
+	<PetChallengeReward Type="2" Ranking="6|1" RewardType="1" TemplateId="208065" Count="200"/>
+	<PetChallengeReward Type="2" Ranking="6|2,50" RewardType="1" TemplateId="208065" Count="180"/>
+	<PetChallengeReward Type="2" Ranking="6|51,1000000" RewardType="1" TemplateId="208065" Count="150"/>
+	<PetChallengeReward Type="2" Ranking="4|1" RewardType="1" TemplateId="3040001" Count="600"/>
+	<PetChallengeReward Type="2" Ranking="4|2,50" RewardType="1" TemplateId="3040001" Count="540"/>
+	<PetChallengeReward Type="2" Ranking="4|51,1000000" RewardType="1" TemplateId="3040001" Count="500"/>
+	<PetChallengeReward Type="2" Ranking="5|1" RewardType="1" TemplateId="3040001" Count="450"/>
+	<PetChallengeReward Type="2" Ranking="5|2,50" RewardType="1" TemplateId="3040001" Count="420"/>
+	<PetChallengeReward Type="2" Ranking="5|51,1000000" RewardType="1" TemplateId="3040001" Count="400"/>
+	<PetChallengeReward Type="2" Ranking="6|1" RewardType="1" TemplateId="3040001" Count="360"/>
+	<PetChallengeReward Type="2" Ranking="6|2,50" RewardType="1" TemplateId="3040001" Count="340"/>
+	<PetChallengeReward Type="2" Ranking="6|51,1000000" RewardType="1" TemplateId="3040001" Count="280"/>
+	<PetChallengeReward Type="2" Ranking="2|1" RewardType="1" TemplateId="3040002" Count="400"/>
+	<PetChallengeReward Type="2" Ranking="2|2,50" RewardType="1" TemplateId="3040002" Count="360"/>
+	<PetChallengeReward Type="2" Ranking="2|51,1000000" RewardType="1" TemplateId="3040002" Count="340"/>
+	<PetChallengeReward Type="2" Ranking="3|1" RewardType="1" TemplateId="3040002" Count="300"/>
+	<PetChallengeReward Type="2" Ranking="3|2,50" RewardType="1" TemplateId="3040002" Count="270"/>
+	<PetChallengeReward Type="2" Ranking="3|51,1000000" RewardType="1" TemplateId="3040002" Count="250"/>
+	<PetChallengeReward Type="2" Ranking="2|1" RewardType="1" TemplateId="3101091" Count="165"/>
+	<PetChallengeReward Type="2" Ranking="2|2,50" RewardType="1" TemplateId="3101091" Count="160"/>
+	<PetChallengeReward Type="2" Ranking="2|51,1000000" RewardType="1" TemplateId="3101091" Count="140"/>
+	<PetChallengeReward Type="2" Ranking="3|1" RewardType="1" TemplateId="3101091" Count="135"/>
+	<PetChallengeReward Type="2" Ranking="3|2,50" RewardType="1" TemplateId="3101091" Count="130"/>
+	<PetChallengeReward Type="2" Ranking="3|51,1000000" RewardType="1" TemplateId="3101091" Count="110"/>
+	<PetChallengeReward Type="2" Ranking="4|1" RewardType="1" TemplateId="3101091" Count="105"/>
+	<PetChallengeReward Type="2" Ranking="4|2,50" RewardType="1" TemplateId="3101091" Count="100"/>
+	<PetChallengeReward Type="2" Ranking="4|51,1000000" RewardType="1" TemplateId="3101091" Count="80"/>
+	<PetChallengeReward Type="2" Ranking="5|1" RewardType="1" TemplateId="3101091" Count="75"/>
+	<PetChallengeReward Type="2" Ranking="5|2,50" RewardType="1" TemplateId="3101091" Count="70"/>
+	<PetChallengeReward Type="2" Ranking="5|51,1000000" RewardType="1" TemplateId="3101091" Count="50"/>
+	<PetChallengeReward Type="2" Ranking="6|1" RewardType="1" TemplateId="3101091" Count="45"/>
+	<PetChallengeReward Type="2" Ranking="6|2,50" RewardType="1" TemplateId="3101091" Count="40"/>
+	<PetChallengeReward Type="2" Ranking="6|51,1000000" RewardType="1" TemplateId="3101091" Count="20"/>
+</PetChallengeRewards>
