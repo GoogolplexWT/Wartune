@@ -1,3 +1,28 @@
+<!-- 
+	> Warspirit Enchantment table
+
+	WarsoulId 			= concatenation of two integers
+	- 1st integer = The Warspirit element
+		- 1 = Water
+		- 2 = Fire
+		- 3 = Wind
+		- 4 = Electro
+		- 5 = Light
+		- 6 = Dark
+		- 7 = Ocean
+		- 8 = Earth
+		- 9 = Sky
+	- 2nd integer = The color
+		- 1 = White
+		- 2 = Green
+		- 3 = Blue
+		- 4 = Purple
+		- 5 = Orange
+		- 6 = Red
+	Grades 				= Star value (6 = 1x blue star, 11 = 1x gold star, 16 = 1x ?? colored-star)
+	OpenActiveSkill 	= Active Warspirit skill id
+	OpenPassiveSkill 	= Warspirit skill effect id's
+-->
 <WarSoulStrengthenTmpls>
 	<WarSoulStrengthenTmpl Id="11000" WarSoulId="11" Grades="0" OpenActiveSkill="76001101" OpenPassiveSkill="76001201,76001301" NeedItem="7620100,1" SkillStrengthening="0" DecompositionReturn="0" Attack="0" Defence="0" MagicAttack="0" MagicDefence="0" Live="0"/>
 	<WarSoulStrengthenTmpl Id="11001" WarSoulId="11" Grades="1" OpenActiveSkill="76001101" OpenPassiveSkill="76001201,76001301" NeedItem="7620100,3" SkillStrengthening="0" DecompositionReturn="1" Attack="10" Defence="1" MagicAttack="10" MagicDefence="1" Live="80"/>

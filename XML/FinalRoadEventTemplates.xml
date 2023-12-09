@@ -1,3 +1,6 @@
+<!-- 
+	> Warspirit Path stage information
+-->
 <FinalRoadEventTemplates>
 	<FinalRoadEventTemplate EventId="11010101" BelongLevel="10101" EventType="1" Para1="81010101,5" Para2="71010101,1|71010102,3" Para3="0" Para4="boss006"/>
 	<FinalRoadEventTemplate EventId="11010102" BelongLevel="10101" EventType="1" Para1="81010102,5" Para2="71010101,1|71010102,3" Para3="0" Para4="boss008"/>

@@ -1,3 +1,6 @@
+<!-- 
+	> Vengeful soul information
+-->
 <AvengerBodyTemplates>
 	<AvengerBodyTemplate Id="50000" BodyType="0" BodyGrade="0" NeedItem="5010001" NeedItemNum="5" PhyAttack="0" PhyDefence="0" MagAttack="0" MagDefence="0" Health="0"/>
 	<AvengerBodyTemplate Id="50001" BodyType="0" BodyGrade="1" NeedItem="5010001" NeedItemNum="10" PhyAttack="800" PhyDefence="800" MagAttack="800" MagDefence="800" Health="4800"/>

@@ -1,3 +1,28 @@
+<!-- 
+	> Warspirit information
+
+	WarsoulId 			= concatenation of two integers
+	- 1st integer = The Warspirit element
+		- 1 = Water
+		- 2 = Fire
+		- 3 = Wind
+		- 4 = Electro
+		- 5 = Light
+		- 6 = Dark
+		- 7 = Ocean
+		- 8 = Earth
+		- 9 = Sky
+	- 2nd integer = The color
+		- 1 = White
+		- 2 = Green
+		- 3 = Blue
+		- 4 = Purple
+		- 5 = Orange
+		- 6 = Red
+	MaxStar 			= Max star value (e.g. grade in WarSoulStarTmpls)
+	Decompose 			= The returned materials from recycling
+		- ItemId(Warspirit soul), amount | for all diff colored Warspirits that have been integrated
+-->
 <WarSoulTmpls>
 	<WarSoulTmpl WarSoulId="11" Name="Water Warspirit" Description="" Icon="11.png" Profile="1" MainType="1" SonType="1" MaxStar="5" ClearSkill="76401" ClearItem="7620200,10" Decompose="7620100,1" Attack="5" Defence="5" MagicAttack="5" MagicDefence="5" Live="40"/>
 	<WarSoulTmpl WarSoulId="12" Name="Water Warspirit" Description="" Icon="12.png" Profile="2" MainType="1" SonType="1" MaxStar="10" ClearSkill="76402" ClearItem="7620200,20" Decompose="7620100,1" Attack="10" Defence="10" MagicAttack="10" MagicDefence="10" Live="80"/>

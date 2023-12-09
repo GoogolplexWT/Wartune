@@ -1,3 +1,6 @@
+<!-- 
+	> Troop Enlightenment information
+-->
 <SpecialTempInfos>
 	<SpecialTempInfo TemplateId="100" TemplateName="HP Transformation" Description="Increases player HP the equivalent of 1% of troop HP." MasterType="5" Grades="1" CurProperty="4" TarProperty="4" ChangeRandom="0" ChangeNumber="5" PawnMasterType="1" ResPath="/special_HP.png" TakeRandom="1294"/>
 	<SpecialTempInfo TemplateId="101" TemplateName="PATK Transformation" Description="Boosts player PATK by 1% of troop PATK." MasterType="1" Grades="1" CurProperty="0" TarProperty="0" ChangeRandom="0" ChangeNumber="1" PawnMasterType="1" ResPath="/special_AT.png" TakeRandom="1294"/>

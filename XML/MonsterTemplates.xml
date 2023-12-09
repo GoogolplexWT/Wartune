@@ -1,3 +1,6 @@
+<!-- 
+	> Cuties templates
+-->
 <MonsterTemplates>
 	<MonsterTemplate TemplateId="101" Name="Wolf" Type="1" Star="1" MaxLevel="40" PropertyId="84010101" SkillSonTypes="830101" PassiveSkillSonTypes="830001,830002" Icon="/head_monster002A.jpg" ResPath="monster002B" ResType="2114" DefaultSkill="83010001" Scale="100" Offset="-19" DefaultAttack="Attack02"/>
 	<MonsterTemplate TemplateId="102" Name="Wolf" Type="1" Star="2" MaxLevel="80" PropertyId="84010201" SkillSonTypes="830101,830102" PassiveSkillSonTypes="830001,830002" Icon="/head_monster002A.jpg" ResPath="monster002B" ResType="2114" DefaultSkill="83010001" Scale="100" Offset="-19" DefaultAttack="Attack02"/>

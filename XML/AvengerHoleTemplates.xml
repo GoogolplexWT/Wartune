@@ -1,3 +1,6 @@
+<!-- 
+	> Devil Armor slot information
+-->
 <AvengerHoleTemplates>
 	<AvengerHoleTemplate Id="10001" Type="1" Grade="1" NeedItem="6920001" NeedItemNum="50" PhyAttack="1800" PhyDefence="1800" MagAttack="1800" MagDefence="1800" Health="10800"/>
 	<AvengerHoleTemplate Id="10002" Type="1" Grade="2" NeedItem="6920001" NeedItemNum="150" PhyAttack="3600" PhyDefence="3600" MagAttack="3600" MagDefence="3600" Health="21600"/>

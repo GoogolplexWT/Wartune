@@ -1,3 +1,6 @@
+<!-- 
+	> Demon Continent stage information
+-->
 <EvilLandTemplates>
 	<EvilLandTemplate ChapterId="1" NodeId="1" Name="Murmur Coast" Bosses="" Npcs="385010101,1|385010101,3|385010101,7|385010101,9" Cost="10" AttackCount="0" DialogId="1" FirstDropId="3840101" AttackDropId="3850101"/>
 	<EvilLandTemplate ChapterId="1" NodeId="2" Name="Murmur Coast" Bosses="" Npcs="385010202,3|385010202,9|385010201,1|385010201,7" Cost="10" AttackCount="0" DialogId="0" FirstDropId="3840102" AttackDropId="3850102"/>

@@ -1,5 +1,7 @@
 <!-- 
-	WarsoulId = concatenation of two integers
+	> Warspirit star table
+	
+	WarsoulId 			= concatenation of two integers
 	- 1st integer = The Warspirit element
 		- 1 = Water
 		- 2 = Fire
@@ -17,13 +19,13 @@
 		- 4 = Purple
 		- 5 = Orange
 		- 6 = Red
-	Grades = Star value (6 = 1x blue star, 11 = 1x gold star, 16 = 1x ?? colored-star)
-	MaxClear = Warspirit skill lvl, 0 = lvl 1, 5 = lvl 6
-	MaxGrade = Max +enchant value
-	MaxReform = Amount of endow stages
-	NeedWarSoul = Data structure that defines the required Warspirits to star-upgrade
+	Grades 				= Star value (6 = 1x blue star, 11 = 1x gold star, 16 = 1x ?? colored-star)
+	MaxClear 			= Warspirit skill lvl, 0 = lvl 1, 5 = lvl 6
+	MaxGrade 			= Max +enchant value
+	MaxReform 			= Amount of endow stages
+	NeedWarSoul 		= Data structure that defines the required Warspirits to star-upgrade
 		- WarSoulId, Grades, amount | for all diff required Warspirit types to the one upgrade
-	Decompose = The returned materials from recycling
+	Decompose 			= The returned materials from recycling
 		- ItemId(Warspirit soul), amount | for all diff colored Warspirits that have been integrated
 -->
 <WarSoulStarTmpls>

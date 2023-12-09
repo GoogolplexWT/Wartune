@@ -1,3 +1,17 @@
+<!-- 
+	> Holy Sword level information
+
+	TemplateId 			= Pertains to the record of values from every Holy Sword lvl
+	TemplateName 		= Name of the Holy Sword
+	HallowType 			= Holy Sword type
+	Grades 				= Holy Sword lvl
+	NeedItemCount1 		= Required amount of Polishing Orbs to lvl up
+	NeedItemCount2 		= Required amount of Breakthrough Orbs, required once per 10 lvls
+	PropertyDatas 		= Array of values, "Attack, PDEF, MDEF, HP, Resistance 1, Resistance 2"
+	SkillTempId 		= Holy Sword skill Id
+	EquipPetSonTypes 	= Id's of Sylphs that can wield the respective sword
+
+-->
 <PetHallowsTempInfos>
 	<PetHallowsTempInfo TemplateId="101001" TemplateName="Light &amp; Dark Claymore" HallowType="1" Grades="1" NeedItemCount1="20" NeedItemCount2="0" PropertyDatas="0,0,0,0,0,0" SkillTempId="41210101" EquipPetSonTypes="11702,11703"/>
 	<PetHallowsTempInfo TemplateId="101002" TemplateName="Light &amp; Dark Claymore" HallowType="1" Grades="2" NeedItemCount1="20" NeedItemCount2="0" PropertyDatas="500,500,500,3000,100,100" SkillTempId="41210101" EquipPetSonTypes="11702,11703"/>

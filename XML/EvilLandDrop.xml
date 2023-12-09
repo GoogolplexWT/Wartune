@@ -1,3 +1,6 @@
+<!-- 
+	> Demon Continent drop table
+-->
 <EvilLandDrop>
 	<EvilLandDropInfo DropId="3840101" ItemId="212029" Count="3" IsBind="1" ValidDate="0"/>
 	<EvilLandDropInfo DropId="3840102" ItemId="212029" Count="3" IsBind="1" ValidDate="0"/>

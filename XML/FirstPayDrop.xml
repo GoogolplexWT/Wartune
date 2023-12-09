@@ -1,3 +1,6 @@
+<!--
+	> First recharge rewards table
+-->
 <FirstPayDrop>
 	<FirstPayDropInfo id="2020110101" dropId="20201101" site="1" para2="1,1,0" itemId="1011205" count="1" isBind="1" appearType="1" validDate="0" isShow="0"/>
 	<FirstPayDropInfo id="2020110102" dropId="20201101" site="1" para2="1,1,0" itemId="21260731" count="10" isBind="1" appearType="1" validDate="0" isShow="0"/>

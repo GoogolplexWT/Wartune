@@ -1,3 +1,6 @@
+<!-- 
+	> Warspirit Endow table
+-->
 <WarSoulReformTmpls>
 	<WarSoulReformTmpl Id="11000" WarSoulId="11" Grades="0" MaxWarpath="0" NeedItem="7620401,10" Attack="0" Defence="0" MagicAttack="0" MagicDefence="0" Live="0" NeedStone="7620301" MaxRageGrades="0" MinRageGrades="0" FailProbability="0" UnchangedProbability="0" SuccessProbability="100"/>
 	<WarSoulReformTmpl Id="11001" WarSoulId="11" Grades="1" MaxWarpath="2" NeedItem="7620401,20" Attack="0" Defence="0" MagicAttack="0" MagicDefence="0" Live="0" NeedStone="7620301" MaxRageGrades="2" MinRageGrades="1" FailProbability="0" UnchangedProbability="95" SuccessProbability="5"/>

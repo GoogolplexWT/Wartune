@@ -1,3 +1,6 @@
+<!-- 
+	> Dimension information
+-->
 <PlanesTemplates>
 	<PlanesTemplate PlanesTempId="11" PlanesName="Basic Fire Dimension" TotalLayer="5" LifePoint="1600" AddLifeItem="2131060"/>
 	<PlanesTemplate PlanesTempId="12" PlanesName="Basic Water Dimension" TotalLayer="5" LifePoint="1600" AddLifeItem="2131060"/>

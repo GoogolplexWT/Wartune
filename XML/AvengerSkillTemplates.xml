@@ -1,3 +1,6 @@
+<!-- 
+	> Nemesis skill information
+-->
 <AvengerSkillTemplates>
 	<AvengerSkillTemplate Id="51101" SkillSonType="511" JobType="1" SkillGrade="1" NeedBodyGrade="33" NeedItem1="5001101" NeedItemNum1="10" NeedItem2="5001102" NeedItemNum2="10" NeedItem3="5001103" NeedItemNum3="10" NeedItem4="5001104" NeedItemNum4="10" NeedItem5="5001105" NeedItemNum5="10" NeedItem6="5001106" NeedItemNum6="10"/>
 	<AvengerSkillTemplate Id="51102" SkillSonType="511" JobType="1" SkillGrade="2" NeedBodyGrade="55" NeedItem1="5001201" NeedItemNum1="10" NeedItem2="5001202" NeedItemNum2="10" NeedItem3="5001203" NeedItemNum3="10" NeedItem4="5001104" NeedItemNum4="10" NeedItem5="5001105" NeedItemNum5="10" NeedItem6="5001106" NeedItemNum6="10"/>

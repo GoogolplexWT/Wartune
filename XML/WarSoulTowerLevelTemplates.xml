@@ -1,6 +1,8 @@
 <!-- 
-	Heroes="BossId, Position" 
-	Pawns="MobId, Position | that for all 4 mobs"
+	> Warspirit Tower stage information
+
+	Heroes 			="BossId, Position" 
+	Pawns 			="MobId, Position | that for all 4 mobs"
 -->
 <WarSoulTowerLevelTemplates>
 	<WarSoulTowerLevelTemplate LevelId="1" Heroes="8100001,5" Pawns="8200101,1|8200102,3|8200103,7|8200104,9" NeedArmourValue="432" BossSkill="84101001" FirstRewardItemId1="7620100" FirstRewardItemNum1="10" FirstRewardItemId2="7620401" FirstRewardItemNum2="5" FirstRewardItemId3="0" FirstRewardItemNum3="0" RepeatRewardItemId1="7620100" RepeatRewardItemNum1="5" RepeatRewardItemId2="7620401" RepeatRewardItemNum2="1" RepeatRewardItemId3="0" RepeatRewardItemNum3="0"/>
