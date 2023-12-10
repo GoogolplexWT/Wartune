@@ -1,0 +1,59 @@
+<ExploreEventTemplates>
+	<ExploreEventTemplate EventId="101" EventType="1" Name="Mob 1" Desc="Consume Holy STA to eliminate the mob and receive Secret Medals." Icon="2105" RangeMin="1" RangeMax="2"/>
+	<ExploreEventTemplate EventId="102" EventType="1" Name="Mob 2" Desc="Consume Holy STA to eliminate the mob and receive Secret Medals." Icon="2105" RangeMin="1" RangeMax="2"/>
+	<ExploreEventTemplate EventId="103" EventType="1" Name="Mob 3" Desc="Consume Holy STA to eliminate the mob and receive Secret Medals." Icon="2134" RangeMin="3" RangeMax="4"/>
+	<ExploreEventTemplate EventId="104" EventType="1" Name="Mob 4" Desc="Consume Holy STA to eliminate the mob and receive Secret Medals." Icon="2134" RangeMin="3" RangeMax="4"/>
+	<ExploreEventTemplate EventId="105" EventType="1" Name="Mob 5" Desc="Consume Holy STA to eliminate the mob and receive Secret Medals." Icon="2107" RangeMin="4" RangeMax="6"/>
+	<ExploreEventTemplate EventId="106" EventType="1" Name="Mob 6" Desc="Consume Holy STA to eliminate the mob and receive Secret Medals." Icon="2107" RangeMin="4" RangeMax="6"/>
+	<ExploreEventTemplate EventId="107" EventType="1" Name="Mob 7" Desc="Consume Holy STA to eliminate the mob and receive Secret Medals." Icon="2182" RangeMin="6" RangeMax="7"/>
+	<ExploreEventTemplate EventId="108" EventType="1" Name="Mob 8" Desc="Consume Holy STA to eliminate the mob and receive Secret Medals." Icon="2182" RangeMin="6" RangeMax="7"/>
+	<ExploreEventTemplate EventId="109" EventType="1" Name="Mob 9" Desc="Consume Holy STA to eliminate the mob and receive Secret Medals." Icon="2406" RangeMin="7" RangeMax="9"/>
+	<ExploreEventTemplate EventId="110" EventType="1" Name="Mob 10" Desc="Consume Holy STA to eliminate the mob and receive Secret Medals." Icon="2406" RangeMin="7" RangeMax="9"/>
+	<ExploreEventTemplate EventId="111" EventType="1" Name="Mob 11" Desc="Consume Holy STA to eliminate the mob and receive Secret Medals." Icon="2408" RangeMin="10" RangeMax="12"/>
+	<ExploreEventTemplate EventId="112" EventType="1" Name="Mob 12" Desc="Consume Holy STA to eliminate the mob and receive Secret Medals." Icon="2408" RangeMin="10" RangeMax="12"/>
+	<ExploreEventTemplate EventId="201" EventType="2" Name="Lvl. 5 Dreamland Chest" Desc="A rare chest containing Secret Medals." Icon="" RangeMin="0" RangeMax="0"/>
+	<ExploreEventTemplate EventId="202" EventType="2" Name="Lvl. 10 Dreamland Chest" Desc="A rare chest containing Secret Medals." Icon="" RangeMin="0" RangeMax="0"/>
+	<ExploreEventTemplate EventId="203" EventType="2" Name="Lvl. 15 Dreamland Chest" Desc="A rare chest containing Secret Medals." Icon="" RangeMin="0" RangeMax="0"/>
+	<ExploreEventTemplate EventId="204" EventType="2" Name="Lvl. 20 Dreamland Chest" Desc="A rare chest containing Secret Medals." Icon="" RangeMin="0" RangeMax="0"/>
+	<ExploreEventTemplate EventId="205" EventType="2" Name="Lvl. 1 Dreamland Chest" Desc="A rare chest containing Secret Medals." Icon="" RangeMin="0" RangeMax="0"/>
+	<ExploreEventTemplate EventId="206" EventType="2" Name="Lvl. 2 Dreamland Chest" Desc="A rare chest containing Secret Medals." Icon="" RangeMin="0" RangeMax="0"/>
+	<ExploreEventTemplate EventId="207" EventType="2" Name="Lvl. 3 Dreamland Chest" Desc="A rare chest containing Secret Medals." Icon="" RangeMin="0" RangeMax="0"/>
+	<ExploreEventTemplate EventId="208" EventType="2" Name="Lvl. 4 Dreamland Chest" Desc="A rare chest containing Secret Medals." Icon="" RangeMin="0" RangeMax="0"/>
+	<ExploreEventTemplate EventId="209" EventType="2" Name="Lvl. 5 Dreamland Chest" Desc="A rare chest containing Secret Medals." Icon="" RangeMin="0" RangeMax="0"/>
+	<ExploreEventTemplate EventId="301" EventType="3" Name="Healing Potion 1" Desc="Pick up to recover some Holy STA." Icon="" RangeMin="1" RangeMax="2"/>
+	<ExploreEventTemplate EventId="302" EventType="3" Name="Healing Potion 2" Desc="Pick up to recover some Holy STA." Icon="" RangeMin="1" RangeMax="2"/>
+	<ExploreEventTemplate EventId="303" EventType="3" Name="Healing Potion 3" Desc="Pick up to recover some Holy STA." Icon="" RangeMin="1" RangeMax="2"/>
+	<ExploreEventTemplate EventId="304" EventType="3" Name="Healing Potion 4" Desc="Pick up to recover some Holy STA." Icon="" RangeMin="2" RangeMax="3"/>
+	<ExploreEventTemplate EventId="305" EventType="3" Name="Healing Potion 5" Desc="Pick up to recover some Holy STA." Icon="" RangeMin="2" RangeMax="3"/>
+	<ExploreEventTemplate EventId="306" EventType="3" Name="Healing Potion 6" Desc="Pick up to recover some Holy STA." Icon="" RangeMin="2" RangeMax="3"/>
+	<ExploreEventTemplate EventId="307" EventType="3" Name="Healing Potion 7" Desc="Pick up to recover some Holy STA." Icon="" RangeMin="4" RangeMax="6"/>
+	<ExploreEventTemplate EventId="308" EventType="3" Name="Healing Potion 8" Desc="Pick up to recover some Holy STA." Icon="" RangeMin="4" RangeMax="6"/>
+	<ExploreEventTemplate EventId="401" EventType="4" Name="Transfer Gate 1" Desc="Enter the next level through the Transfer Gate. (Cannot return)" Icon="" RangeMin="0" RangeMax="0"/>
+	<ExploreEventTemplate EventId="501" EventType="5" Name="Trap 1" Desc="Oops! Injured by a giant rock, you lost some Holy STA." Icon="" RangeMin="3" RangeMax="5"/>
+	<ExploreEventTemplate EventId="502" EventType="5" Name="Trap 2" Desc="Oops! Injured by a giant rock, you lost some Holy STA." Icon="" RangeMin="5" RangeMax="8"/>
+	<ExploreEventTemplate EventId="601" EventType="6" Name="Longinus' Gun" Desc="Longinus' Gun
+Active Skill: Eliminate an discovered mob with the highest HP without consuming Holy STA." Icon="601" RangeMin="0" RangeMax="0"/>
+	<ExploreEventTemplate EventId="602" EventType="6" Name="Holy Light
+" Desc="Holy Light
+Active Skill: Recovers 50% of lost Holy STA." Icon="602" RangeMin="50" RangeMax="50"/>
+	<ExploreEventTemplate EventId="603" EventType="6" Name="Judgment" Desc="Judgment
+Active Skill: Halves all discovered mobs' HP." Icon="603" RangeMin="50" RangeMax="50"/>
+	<ExploreEventTemplate EventId="604" EventType="6" Name="Deep Gaze
+" Desc="Deep Gaze
+Active Skill: Removes the fog above all existing potions and chests so that they can be seen." Icon="604" RangeMin="50" RangeMax="50"/>
+	<ExploreEventTemplate EventId="605" EventType="6" Name="Holy Ring" Desc="Holy Ring
+Active Skill: A teleport will appear after defeating a mob next time." Icon="605" RangeMin="50" RangeMax="50"/>
+	<ExploreEventTemplate EventId="701" EventType="7" Name="Mandrake" Desc="Mandrake
+Passive Skill: Recovers an extra 2 Holy STA every time you pick up a potion." Icon="701" RangeMin="2" RangeMax="2"/>
+	<ExploreEventTemplate EventId="702" EventType="7" Name="Praying
+" Desc="Praying
+Passive Skill: 25% chance to recover 1 Holy STA every time you remove fog." Icon="702" RangeMin="25" RangeMax="25"/>
+	<ExploreEventTemplate EventId="703" EventType="7" Name="Dendrobium
+" Desc="Dendrobium
+Passive Skill: Raises Holy STA capacity by 20%." Icon="703" RangeMin="20" RangeMax="20"/>
+	<ExploreEventTemplate EventId="704" EventType="7" Name="Cornucopia" Desc="Cornucopia
+Passive Skill: Recovers 5 Holy STA every time you pass through a teleport gate." Icon="704" RangeMin="5" RangeMax="5"/>
+	<ExploreEventTemplate EventId="705" EventType="7" Name="Bathsheba's Treasure
+" Desc="Bathsheba's Treasure
+Passive Skill: 25% chance to receive double rewards every time you defeat a mob or open a chest." Icon="705" RangeMin="25" RangeMax="25"/>
+</ExploreEventTemplates>

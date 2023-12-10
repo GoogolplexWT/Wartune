@@ -1,0 +1,17 @@
+<!--
+	> Zodiac Palace imformation
+-->
+<EclipticPalaceTempInfos>
+	<EclipticPalaceTempInfo Layer="1" LayerName="Aries" SpiritCost="10" BossAdditionSkillId="90001,90002,90003,90004"/>
+	<EclipticPalaceTempInfo Layer="2" LayerName="Taurus" SpiritCost="15" BossAdditionSkillId="90001,90002,90003,90004"/>
+	<EclipticPalaceTempInfo Layer="3" LayerName="Gemini" SpiritCost="20" BossAdditionSkillId="90001,90002,90003,90004"/>
+	<EclipticPalaceTempInfo Layer="4" LayerName="Cancer" SpiritCost="25" BossAdditionSkillId="90001,90002,90003,90004"/>
+	<EclipticPalaceTempInfo Layer="5" LayerName="Leo" SpiritCost="30" BossAdditionSkillId="90001,90002,90003,90004"/>
+	<EclipticPalaceTempInfo Layer="6" LayerName="Virgo" SpiritCost="35" BossAdditionSkillId="90001,90002,90003,90004"/>
+	<EclipticPalaceTempInfo Layer="7" LayerName="Libra" SpiritCost="40" BossAdditionSkillId="90001,90002,90003,90004"/>
+	<EclipticPalaceTempInfo Layer="8" LayerName="Scorpio" SpiritCost="45" BossAdditionSkillId="90001,90002,90003,90004"/>
+	<EclipticPalaceTempInfo Layer="9" LayerName="Sagittarius" SpiritCost="50" BossAdditionSkillId="90001,90002,90003,90004"/>
+	<EclipticPalaceTempInfo Layer="10" LayerName="Capricorn" SpiritCost="55" BossAdditionSkillId="90001,90002,90003,90004"/>
+	<EclipticPalaceTempInfo Layer="11" LayerName="Aquarius" SpiritCost="60" BossAdditionSkillId="90001,90002,90003,90004"/>
+	<EclipticPalaceTempInfo Layer="12" LayerName="Pisces" SpiritCost="65" BossAdditionSkillId="90001,90002,90003,90004"/>
+</EclipticPalaceTempInfos>

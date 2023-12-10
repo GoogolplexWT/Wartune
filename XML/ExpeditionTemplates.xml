@@ -1,5 +1,5 @@
 <!--
-	No clue which PvE activity this is
+	Unreleased Willpower Expedition
 -->
 <ExpeditionTemplates>
 	<ExpeditionTemplate Id="101" AreaId="1" NodeId="1" Star="1" Bosses="" Npcs="390010101,1|390010101,3|390010101,7|390010101,9"/>
