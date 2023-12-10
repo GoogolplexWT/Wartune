@@ -1,0 +1,7 @@
+<GameHallTemplates>
+	<GameHallTemplate GameId="1" GameName="Speed Clearance" Group="1" GroupName="Perm" StartDate="2020-01-24 00:00:00" StopDate="2050-01-30 23:59:59" OpenGrade="36" OpenDays="1,4,7" ResetDays="1,2,3,4,5,6,7" Count="1" Tag="0" ShowItems="2131517,2131518,2131519" Recommend="Level Requirement: 36"/>
+	<GameHallTemplate GameId="2" GameName="Minesweeper" Group="1" GroupName="Perm" StartDate="2020-01-24 00:00:00" StopDate="2050-01-30 23:59:59" OpenGrade="80" OpenDays="2,5,7" ResetDays="1,2,3,4,5,6,7" Count="1" Tag="0" ShowItems="208055,2030102,208059,208060" Recommend="Unlock Level: Class Advancement"/>
+	<GameHallTemplate GameId="3" GameName="Dimension Crisis" Group="1" GroupName="Perm" StartDate="2020-01-24 00:00:00" StopDate="2050-01-30 23:59:59" OpenGrade="80" OpenDays="3,6,7" ResetDays="1,2,3,4,5,6,7" Count="1" Tag="0" ShowItems="208101,-300,1580000,1580003|208102,-300,1580001,1580004" Recommend="Recommended Level for Difficulty 1: 80
+Recommended Level for Difficulty 2: Class Advancement"/>
+	<GameHallTemplate GameId="4" GameName="Collect Prize Eggs" Group="2" GroupName="Easter" StartDate="2020-04-10 00:00:00" StopDate="2020-04-16 23:59:59" OpenGrade="160" OpenDays="1,2,3,4,5,6,7" ResetDays="1,2,3,4,5,6,7" Count="1" Tag="1" ShowItems="" Recommend=""/>
+</GameHallTemplates>
