@@ -1,0 +1,9 @@
+<!--
+	Unreleased game system
+-->
+<RemainsExploreChapterTemps>
+	<RemainsExploreChapterTemp ChapterId="1" ChapterName="Plague Wilds" ChapterDescription="Plague Wilds (Temporarily Damaged)"/>
+	<RemainsExploreChapterTemp ChapterId="2" ChapterName="Mysterious Forest" ChapterDescription="Mysterious Forest (Temporarily Damaged)"/>
+	<RemainsExploreChapterTemp ChapterId="3" ChapterName="Abyssal Swamp" ChapterDescription="Abyssal Swamp (Temporarily Damaged)"/>
+	<RemainsExploreChapterTemp ChapterId="4" ChapterName="Abandoned Cliff" ChapterDescription="Abandoned Cliff (Temporarily Damaged)"/>
+</RemainsExploreChapterTemps>

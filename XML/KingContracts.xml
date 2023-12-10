@@ -1,0 +1,20 @@
+<KingContracts>
+	<KingContract Id="2" Name="Bounty Helper" Description="You can complete the bounty quest the moment you accept it." Duration="44640" NeedPoint="90" CanAdd="true"/>
+	<KingContract Id="4" Name="Lord of Time" Description="No Balens will be used when ending cooldowns for Forgotten Catacombs and Solo Dungeon blitz." Duration="44640" NeedPoint="80" CanAdd="true"/>
+	<KingContract Id="6" Name="Warrior's Call" Description="A powerful buff that lasts 30 minutes. Can only be used in dungeons and the Crypt." Duration="44640" NeedPoint="50" CanAdd="true"/>
+	<KingContract Id="7" Name="Warrior's Call" Description="PATK +10%
+PDEF +10%
+MATK +10%
+MDEF +10%
+HP +10%
+Troop Count +10%
+
+Only applies in dungeons, the Forgotten Catacombs and the Tormented Necropolis." Duration="30" NeedPoint="50" CanAdd="true"/>
+	<KingContract Id="9" Name="Skill Master" Description="Used to reset skills and talents for free." Duration="44640" NeedPoint="50" CanAdd="true"/>
+	<KingContract Id="10" Name="Monster Radar" Description="Used to locate BOSSes' coordinate in the Wild." Duration="44640" NeedPoint="50" CanAdd="true"/>
+	<KingContract Id="11" Name="BOSS Attack" Description="Used to automatically navigate in the World BOSS." Duration="44640" NeedPoint="50" CanAdd="true"/>
+	<KingContract Id="12" Name="Circuit Master" Description="Auto accepts a new Circuit Quest." Duration="44640" NeedPoint="50" CanAdd="true"/>
+	<KingContract Id="13" Name="Archaeology Auto-path" Description="Click to automatically move to the archaeological spot." Duration="44640" NeedPoint="50" CanAdd="true"/>
+	<KingContract Id="14" Name="Cuties Biltz" Description="Can quickly blitz finished levels" Duration="44640" NeedPoint="50" CanAdd="true"/>
+	<KingContract Id="15" Name="Auto Routing in Forbidden Land" Description="Auto Routing to BOSS location in Forbidden Land" Duration="44640" NeedPoint="50" CanAdd="true"/>
+</KingContracts>

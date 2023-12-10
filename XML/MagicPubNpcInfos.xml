@@ -1,0 +1,7 @@
+<MagicPubNpcInfos>
+	<MagicPubNpcInfo TemplateId="1" TemplateName="Blacksmith Demit" IconPath="/magicpubnpc_1000305.png" ResourcePath="/1000305.swf"/>
+	<MagicPubNpcInfo TemplateId="2" TemplateName="Berdim" IconPath="/magicpubnpc_19.png" ResourcePath="/19.swf"/>
+	<MagicPubNpcInfo TemplateId="3" TemplateName="Fina" IconPath="/magicpubnpc_430133.png" ResourcePath="/430133.swf"/>
+	<MagicPubNpcInfo TemplateId="4" TemplateName="Cindy" IconPath="/magicpubnpc_26.png" ResourcePath="/26.swf"/>
+	<MagicPubNpcInfo TemplateId="5" TemplateName="Brad" IconPath="/magicpubnpc_25.png" ResourcePath="/25.swf"/>
+</MagicPubNpcInfos>

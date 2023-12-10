@@ -1,0 +1,4 @@
+<PlanesFuncTempInfos>
+	<PlanesFuncTempInfo TemplateId="101" Type="1" NeedEnergy="100" NeedPoint="100" Icon="1.png" Desc="Consume Balens or Energy to remove all barriers on the map. This skill only works on this level."/>
+	<PlanesFuncTempInfo TemplateId="201" Type="2" NeedEnergy="100" NeedPoint="100" Icon="2.png" Desc="Consume Balens or Energy to show the Eudaemon Officer on the map. This skill only works on this level."/>
+</PlanesFuncTempInfos>

@@ -1,0 +1,33 @@
+<!--
+	Even more unreleased stuff
+-->
+<StelaTemplates>
+	<StelaTemplate TemplateId="1101" TemplateName="Royal Light Armor" Description="Royal Light Armor" Icon="stela_1101.png" Rarity="1" StepLimit="2" Exp="10" MasterType="1"/>
+	<StelaTemplate TemplateId="1102" TemplateName="Clan Shield" Description="Clan Shield" Icon="stela_1102.png" Rarity="1" StepLimit="2" Exp="10" MasterType="1"/>
+	<StelaTemplate TemplateId="1103" TemplateName="Light Greaves" Description="Light Greaves" Icon="stela_1103.png" Rarity="1" StepLimit="2" Exp="10" MasterType="1"/>
+	<StelaTemplate TemplateId="1201" TemplateName="Jungle Armor" Description="Jungle Armor" Icon="stela_1201.png" Rarity="2" StepLimit="6" Exp="20" MasterType="1"/>
+	<StelaTemplate TemplateId="1202" TemplateName="Gem Shield" Description="Gem Shield" Icon="stela_1202.png" Rarity="2" StepLimit="6" Exp="20" MasterType="1"/>
+	<StelaTemplate TemplateId="1203" TemplateName="Crystal Greaves" Description="Crystal Greaves" Icon="stela_1203.png" Rarity="2" StepLimit="6" Exp="20" MasterType="1"/>
+	<StelaTemplate TemplateId="1301" TemplateName="Heavy Blade" Description="Heavy Blade" Icon="stela_1301.png" Rarity="3" StepLimit="10" Exp="30" MasterType="1"/>
+	<StelaTemplate TemplateId="1302" TemplateName="Barbarian Plate" Description="Barbarian Plate" Icon="stela_1302.png" Rarity="3" StepLimit="10" Exp="30" MasterType="1"/>
+	<StelaTemplate TemplateId="1303" TemplateName="Glory Shield" Description="Glory Shield" Icon="stela_1303.png" Rarity="3" StepLimit="10" Exp="30" MasterType="1"/>
+	<StelaTemplate TemplateId="1304" TemplateName="Conjurer Boots" Description="Conjurer Boots" Icon="stela_1304.png" Rarity="3" StepLimit="10" Exp="30" MasterType="1"/>
+	<StelaTemplate TemplateId="1305" TemplateName="Firescale Ring" Description="Firescale Ring" Icon="stela_1305.png" Rarity="3" StepLimit="10" Exp="30" MasterType="1"/>
+	<StelaTemplate TemplateId="1306" TemplateName="Nobleman's Helmet" Description="Nobleman's Helmet" Icon="stela_1306.png" Rarity="3" StepLimit="10" Exp="30" MasterType="1"/>
+	<StelaTemplate TemplateId="1401" TemplateName="Imperial Cutlass" Description="Imperial Cutlass" Icon="stela_1401.png" Rarity="4" StepLimit="15" Exp="40" MasterType="1"/>
+	<StelaTemplate TemplateId="1402" TemplateName="Honor Plate" Description="Honor Plate" Icon="stela_1402.png" Rarity="4" StepLimit="15" Exp="40" MasterType="1"/>
+	<StelaTemplate TemplateId="1403" TemplateName="Devil Shield" Description="Devil Shield" Icon="stela_1403.png" Rarity="4" StepLimit="15" Exp="40" MasterType="1"/>
+	<StelaTemplate TemplateId="1404" TemplateName="Golden Boots" Description="Golden Boots" Icon="stela_1404.png" Rarity="4" StepLimit="15" Exp="40" MasterType="1"/>
+	<StelaTemplate TemplateId="1405" TemplateName="Crystal Ring" Description="Crystal Ring" Icon="stela_1405.png" Rarity="4" StepLimit="15" Exp="40" MasterType="1"/>
+	<StelaTemplate TemplateId="1406" TemplateName="Necromancer Helmet" Description="Necromancer Helmet" Icon="stela_1406.png" Rarity="4" StepLimit="15" Exp="40" MasterType="1"/>
+	<StelaTemplate TemplateId="1501" TemplateName="Primeval Sword" Description="Primeval Sword" Icon="stela_1501.png" Rarity="5" StepLimit="20" Exp="50" MasterType="1"/>
+	<StelaTemplate TemplateId="1502" TemplateName="Golden Regalia" Description="Golden Regalia" Icon="stela_1502.png" Rarity="5" StepLimit="20" Exp="50" MasterType="1"/>
+	<StelaTemplate TemplateId="1503" TemplateName="Illumination Shield" Description="Illumination Shield" Icon="stela_1503.png" Rarity="5" StepLimit="20" Exp="50" MasterType="1"/>
+	<StelaTemplate TemplateId="1504" TemplateName="Quick Boots" Description="Quick Boots" Icon="stela_1504.png" Rarity="5" StepLimit="20" Exp="50" MasterType="1"/>
+	<StelaTemplate TemplateId="1505" TemplateName="Circle of Authority" Description="Circle of Authority" Icon="stela_1505.png" Rarity="5" StepLimit="20" Exp="50" MasterType="1"/>
+	<StelaTemplate TemplateId="1506" TemplateName="Plume Helmet" Description="Plume Helmet" Icon="stela_1506.png" Rarity="5" StepLimit="20" Exp="50" MasterType="1"/>
+	<StelaTemplate TemplateId="1601" TemplateName="Honor Ring" Description="Honor Ring" Icon="stela_1601.png" Rarity="6" StepLimit="25" Exp="60" MasterType="1"/>
+	<StelaTemplate TemplateId="1602" TemplateName="Mysterious Amulet" Description="Mysterious Amulet" Icon="stela_1602.png" Rarity="6" StepLimit="25" Exp="60" MasterType="1"/>
+	<StelaTemplate TemplateId="1603" TemplateName="Imperial Helmet" Description="Imperial Helmet" Icon="stela_1603.png" Rarity="6" StepLimit="25" Exp="60" MasterType="1"/>
+	<StelaTemplate TemplateId="2101" TemplateName="Enchanted Heritage - Uncommon" Description="1 Uncommon Enchanted Heritage gives 1 Enchant EXP." Icon="stela_2101.png" Rarity="1" StepLimit="0" Exp="1" MasterType="2"/>
+</StelaTemplates>

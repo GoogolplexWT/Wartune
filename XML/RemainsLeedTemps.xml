@@ -1,0 +1,17 @@
+<!--
+	Unreleased game system tasks
+-->
+<RemainsLeedTemps>
+	<RemainsLeedTemp TemplateId="1001" MasterType="1" Description="Explore any stage in Remains Exploration 3 times" EventType="1" GaintPoint="20" Param1="3" Param2="0" Param3="0"/>
+	<RemainsLeedTemp TemplateId="1002" MasterType="1" Description="Defeat any Boss in Remains Exploration 3 times" EventType="2" GaintPoint="20" Param1="3" Param2="0" Param3="0"/>
+	<RemainsLeedTemp TemplateId="1003" MasterType="1" Description="Defeat any Final Boss in Remains Exploration 3 times" EventType="3" GaintPoint="20" Param1="3" Param2="0" Param3="0"/>
+	<RemainsLeedTemp TemplateId="1004" MasterType="1" Description="Defeat any monster in Remains Exploration 3 times" EventType="4" GaintPoint="20" Param1="3" Param2="0" Param3="0"/>
+	<RemainsLeedTemp TemplateId="1005" MasterType="1" Description="Defeat any mirror image in Remains Exploration 3 times" EventType="5" GaintPoint="20" Param1="3" Param2="0" Param3="0"/>
+	<RemainsLeedTemp TemplateId="1006" MasterType="1" Description="Obtain any treasure from Remains Exploration 3 times." EventType="6" GaintPoint="20" Param1="3" Param2="0" Param3="0"/>
+	<RemainsLeedTemp TemplateId="2001" MasterType="2" Description="Explore any stage in Remains Exploration 10 times" EventType="1" GaintPoint="20" Param1="10" Param2="0" Param3="0"/>
+	<RemainsLeedTemp TemplateId="2002" MasterType="2" Description="Defeat any Boss in Remains Exploration 10 times" EventType="2" GaintPoint="20" Param1="10" Param2="0" Param3="0"/>
+	<RemainsLeedTemp TemplateId="2003" MasterType="2" Description="Defeat any Final Boss in Remains Exploration 10 times" EventType="3" GaintPoint="20" Param1="10" Param2="0" Param3="0"/>
+	<RemainsLeedTemp TemplateId="2004" MasterType="2" Description="Defeat any monster in Remains Exploration 10 times" EventType="4" GaintPoint="20" Param1="10" Param2="0" Param3="0"/>
+	<RemainsLeedTemp TemplateId="2005" MasterType="2" Description="Defeat any mirror image in Remains Exploration 10 times" EventType="5" GaintPoint="20" Param1="10" Param2="0" Param3="0"/>
+	<RemainsLeedTemp TemplateId="2006" MasterType="2" Description="Obtain any treasure from Remains Exploration 10 times." EventType="6" GaintPoint="20" Param1="10" Param2="0" Param3="0"/>
+</RemainsLeedTemps>

@@ -1,0 +1,20 @@
+<FirstPayTemplates>
+	<FirstPayTemplate Id="100101" PayQuality="1" Jobs="1_0" AvatarPath="equip_show/activity/sword_fb/0.swf" ImagePath="images/activity/gg1.png"/>
+	<FirstPayTemplate Id="100102" PayQuality="1" Jobs="1_1" AvatarPath="equip_show/activity/sword_fb/1.swf" ImagePath="images/activity/gg1.png"/>
+	<FirstPayTemplate Id="100201" PayQuality="1" Jobs="2_0" AvatarPath="equip_show/activity/crossbows_fb/0.swf" ImagePath="images/activity/gg1.png"/>
+	<FirstPayTemplate Id="100202" PayQuality="1" Jobs="2_1" AvatarPath="equip_show/activity/crossbows_fb/1.swf" ImagePath="images/activity/gg1.png"/>
+	<FirstPayTemplate Id="100301" PayQuality="1" Jobs="3_0" AvatarPath="equip_show/activity/rod_fb/0.swf" ImagePath="images/activity/gg1.png"/>
+	<FirstPayTemplate Id="100302" PayQuality="1" Jobs="3_1" AvatarPath="equip_show/activity/rod_fb/1.swf" ImagePath="images/activity/gg1.png"/>
+	<FirstPayTemplate Id="200101" PayQuality="2" Jobs="1_0" AvatarPath="equip_show/activity/wizard/2.swf" ImagePath="images/activity/gg2.png"/>
+	<FirstPayTemplate Id="200102" PayQuality="2" Jobs="1_1" AvatarPath="equip_show/activity/wizard/2.swf" ImagePath="images/activity/gg2.png"/>
+	<FirstPayTemplate Id="200201" PayQuality="2" Jobs="2_0" AvatarPath="equip_show/activity/wizard/2.swf" ImagePath="images/activity/gg2.png"/>
+	<FirstPayTemplate Id="200202" PayQuality="2" Jobs="2_1" AvatarPath="equip_show/activity/wizard/2.swf" ImagePath="images/activity/gg2.png"/>
+	<FirstPayTemplate Id="200301" PayQuality="2" Jobs="3_0" AvatarPath="equip_show/activity/wizard/2.swf" ImagePath="images/activity/gg2.png"/>
+	<FirstPayTemplate Id="200302" PayQuality="2" Jobs="3_1" AvatarPath="equip_show/activity/wizard/2.swf" ImagePath="images/activity/gg2.png"/>
+	<FirstPayTemplate Id="300101" PayQuality="3" Jobs="1_0" AvatarPath="equip_show/activity/pet_gaia/2.swf" ImagePath="images/activity/gg3.png"/>
+	<FirstPayTemplate Id="300102" PayQuality="3" Jobs="1_1" AvatarPath="equip_show/activity/pet_gaia/2.swf" ImagePath="images/activity/gg3.png"/>
+	<FirstPayTemplate Id="300201" PayQuality="3" Jobs="2_0" AvatarPath="equip_show/activity/pet_gaia/2.swf" ImagePath="images/activity/gg3.png"/>
+	<FirstPayTemplate Id="300202" PayQuality="3" Jobs="2_1" AvatarPath="equip_show/activity/pet_gaia/2.swf" ImagePath="images/activity/gg3.png"/>
+	<FirstPayTemplate Id="300301" PayQuality="3" Jobs="3_0" AvatarPath="equip_show/activity/pet_gaia/2.swf" ImagePath="images/activity/gg3.png"/>
+	<FirstPayTemplate Id="300302" PayQuality="3" Jobs="3_1" AvatarPath="equip_show/activity/pet_gaia/2.swf" ImagePath="images/activity/gg3.png"/>
+</FirstPayTemplates>

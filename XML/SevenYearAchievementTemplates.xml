@@ -1,0 +1,44 @@
+<SevenYearAchievementTemplates>
+	<SevenYearAchievementTemplate TemplateId="101" TemplateName="Gaming Enthusiast" IconPath="/7year_achievement_1_1.png" Desc="Complete Daily Games 7 times" Type="1" Grade="1" Target="7" Score="100"/>
+	<SevenYearAchievementTemplate TemplateId="102" TemplateName="Pro Gamer" IconPath="/7year_achievement_1_2.png" Desc="Complete Daily Games 14 times" Type="1" Grade="2" Target="14" Score="350"/>
+	<SevenYearAchievementTemplate TemplateId="103" TemplateName="Gaben" IconPath="/7year_achievement_1_3.png" Desc="Complete Daily Games 28 times" Type="1" Grade="3" Target="28" Score="550"/>
+	<SevenYearAchievementTemplate TemplateId="201" TemplateName="Quiz Student" IconPath="/7year_achievement_2_1.png" Desc="Earn a total of 1000 Points in Quiz" Type="2" Grade="1" Target="1000" Score="100"/>
+	<SevenYearAchievementTemplate TemplateId="202" TemplateName="Quiz Scholar" IconPath="/7year_achievement_2_2.png" Desc="Earn a total of 5000 Points in Quiz" Type="2" Grade="2" Target="5000" Score="350"/>
+	<SevenYearAchievementTemplate TemplateId="203" TemplateName="Quiz Master" IconPath="/7year_achievement_2_3.png" Desc="Earn a total of 10000 Points in Quiz" Type="2" Grade="3" Target="10000" Score="550"/>
+	<SevenYearAchievementTemplate TemplateId="601" TemplateName="Time Challenger" IconPath="/7year_achievement_6_1.png" Desc="Explore 20 nodes in Time Travel." Type="6" Grade="1" Target="20" Score="100"/>
+	<SevenYearAchievementTemplate TemplateId="602" TemplateName="Time Explorer" IconPath="/7year_achievement_6_2.png" Desc="Explore 40 nodes in Time Travel." Type="6" Grade="2" Target="40" Score="350"/>
+	<SevenYearAchievementTemplate TemplateId="603" TemplateName="Time Master" IconPath="/7year_achievement_6_3.png" Desc="Explore 80 nodes in Time Travel." Type="6" Grade="3" Target="80" Score="550"/>
+	<SevenYearAchievementTemplate TemplateId="701" TemplateName="Time Cruiser" IconPath="/7year_achievement_7_1.png" Desc="Reach 1 destination in Time Travel." Type="7" Grade="1" Target="1" Score="100"/>
+	<SevenYearAchievementTemplate TemplateId="702" TemplateName="Time Traveler" IconPath="/7year_achievement_7_2.png" Desc="Reach 2 destinations in Time Travel." Type="7" Grade="2" Target="2" Score="350"/>
+	<SevenYearAchievementTemplate TemplateId="703" TemplateName="Time Ranger" IconPath="/7year_achievement_7_3.png" Desc="Reach 4 destinations in Time Travel." Type="7" Grade="3" Target="4" Score="550"/>
+	<SevenYearAchievementTemplate TemplateId="801" TemplateName="Time Contender" IconPath="/7year_achievement_8_1.png" Desc="Fight 10 times in Time Travel." Type="8" Grade="1" Target="10" Score="100"/>
+	<SevenYearAchievementTemplate TemplateId="802" TemplateName="Time Predator" IconPath="/7year_achievement_8_2.png" Desc="Fight 20 times in Time Travel." Type="8" Grade="2" Target="20" Score="350"/>
+	<SevenYearAchievementTemplate TemplateId="803" TemplateName="Time Lord" IconPath="/7year_achievement_8_3.png" Desc="Fight 30 times in Time Travel." Type="8" Grade="3" Target="30" Score="550"/>
+	<SevenYearAchievementTemplate TemplateId="901" TemplateName="Secret Spy" IconPath="/7year_achievement_9_1.png" Desc="Predict 1 team correctly in Struggle for Glory" Type="9" Grade="1" Target="1" Score="100"/>
+	<SevenYearAchievementTemplate TemplateId="902" TemplateName="Strategic Scout" IconPath="/7year_achievement_9_2.png" Desc="Predict 3 teams correctly in Struggle for Glory" Type="9" Grade="2" Target="3" Score="350"/>
+	<SevenYearAchievementTemplate TemplateId="903" TemplateName="Eye of Insight" IconPath="/7year_achievement_9_3.png" Desc="Predict 5 teams correctly in Struggle for Glory" Type="9" Grade="3" Target="5" Score="550"/>
+	<SevenYearAchievementTemplate TemplateId="6660101" TemplateName="Urn I Hunter" IconPath="/7year_achievement_16_1.png" Desc="Unlock Urn I x1" Type="6660011" Grade="1" Target="1" Score="1500"/>
+	<SevenYearAchievementTemplate TemplateId="6660102" TemplateName="Urn I Collector" IconPath="/7year_achievement_16_2.png" Desc="Unlock Urn I x4" Type="6660011" Grade="2" Target="4" Score="6000"/>
+	<SevenYearAchievementTemplate TemplateId="6660103" TemplateName="Urn I Hoarder" IconPath="/7year_achievement_16_3.png" Desc="Unlock Urn I x8" Type="6660011" Grade="3" Target="8" Score="12000"/>
+	<SevenYearAchievementTemplate TemplateId="6660201" TemplateName="Urn II Hunter" IconPath="/7year_achievement_17_1.png" Desc="Unlock Urn II x1" Type="6660012" Grade="1" Target="1" Score="1500"/>
+	<SevenYearAchievementTemplate TemplateId="6660202" TemplateName="Urn II Collector" IconPath="/7year_achievement_17_2.png" Desc="Unlock Urn II x4" Type="6660012" Grade="2" Target="4" Score="6000"/>
+	<SevenYearAchievementTemplate TemplateId="6660203" TemplateName="Urn II Hoarder" IconPath="/7year_achievement_17_3.png" Desc="Unlock Urn II x8" Type="6660012" Grade="3" Target="8" Score="12000"/>
+	<SevenYearAchievementTemplate TemplateId="6660301" TemplateName="Urn III Hunter" IconPath="/7year_achievement_18_1.png" Desc="Unlock Urn III x1" Type="6660013" Grade="1" Target="1" Score="1500"/>
+	<SevenYearAchievementTemplate TemplateId="6660302" TemplateName="Urn III Collector" IconPath="/7year_achievement_18_2.png" Desc="Unlock Urn III x4" Type="6660013" Grade="2" Target="4" Score="6000"/>
+	<SevenYearAchievementTemplate TemplateId="6660303" TemplateName="Urn III Hoarder" IconPath="/7year_achievement_18_3.png" Desc="Unlock Urn III x8" Type="6660013" Grade="3" Target="8" Score="12000"/>
+	<SevenYearAchievementTemplate TemplateId="6660401" TemplateName="Urn IV Hunter" IconPath="/7year_achievement_19_1.png" Desc="Unlock Urn IV x1" Type="6660014" Grade="1" Target="1" Score="4500"/>
+	<SevenYearAchievementTemplate TemplateId="6660402" TemplateName="Urn IV Collector" IconPath="/7year_achievement_19_2.png" Desc="Unlock Urn IV x4" Type="6660014" Grade="2" Target="4" Score="18000"/>
+	<SevenYearAchievementTemplate TemplateId="6660403" TemplateName="Urn IV Hoarder" IconPath="/7year_achievement_19_3.png" Desc="Unlock Urn IV x8" Type="6660014" Grade="3" Target="8" Score="36000"/>
+	<SevenYearAchievementTemplate TemplateId="6670101" TemplateName="Treasure Cache I Hunter" IconPath="/7year_achievement_12_1.png" Desc="Unlock Treasure Cache I x1" Type="6670011" Grade="1" Target="1" Score="100"/>
+	<SevenYearAchievementTemplate TemplateId="6670102" TemplateName="Treasure Cache I Collector" IconPath="/7year_achievement_12_2.png" Desc="Unlock Treasure Cache I x2" Type="6670011" Grade="2" Target="2" Score="350"/>
+	<SevenYearAchievementTemplate TemplateId="6670103" TemplateName="Treasure Cache I Hoarder" IconPath="/7year_achievement_12_3.png" Desc="Unlock Treasure Cache I x4" Type="6670011" Grade="3" Target="4" Score="550"/>
+	<SevenYearAchievementTemplate TemplateId="6670201" TemplateName="Treasure Cache II Hunter" IconPath="/7year_achievement_13_1.png" Desc="Unlock Treasure Cache II x1" Type="6670012" Grade="1" Target="1" Score="100"/>
+	<SevenYearAchievementTemplate TemplateId="6670202" TemplateName="Treasure Cache II Collector" IconPath="/7year_achievement_13_2.png" Desc="Unlock Treasure Cache II x2" Type="6670012" Grade="2" Target="2" Score="350"/>
+	<SevenYearAchievementTemplate TemplateId="6670203" TemplateName="Treasure Cache II Hoarder" IconPath="/7year_achievement_13_3.png" Desc="Unlock Treasure Cache II x4" Type="6670012" Grade="3" Target="4" Score="550"/>
+	<SevenYearAchievementTemplate TemplateId="6670301" TemplateName="Treasure Cache III Hunter" IconPath="/7year_achievement_14_1.png" Desc="Unlock Treasure Cache III x1" Type="6670013" Grade="1" Target="1" Score="100"/>
+	<SevenYearAchievementTemplate TemplateId="6670302" TemplateName="Treasure Cache III Collector" IconPath="/7year_achievement_14_2.png" Desc="Unlock Treasure Cache III x2" Type="6670013" Grade="2" Target="2" Score="350"/>
+	<SevenYearAchievementTemplate TemplateId="6670303" TemplateName="Treasure Cache III Hoarder" IconPath="/7year_achievement_14_3.png" Desc="Unlock Treasure Cache III x4" Type="6670013" Grade="3" Target="4" Score="550"/>
+	<SevenYearAchievementTemplate TemplateId="6670401" TemplateName="Treasure Cache IV Hunter" IconPath="/7year_achievement_15_1.png" Desc="Unlock Treasure Cache IV x1" Type="6670014" Grade="1" Target="1" Score="100"/>
+	<SevenYearAchievementTemplate TemplateId="6670402" TemplateName="Treasure Cache IV Collector" IconPath="/7year_achievement_15_2.png" Desc="Unlock Treasure Cache IV x2" Type="6670014" Grade="2" Target="2" Score="350"/>
+	<SevenYearAchievementTemplate TemplateId="6670403" TemplateName="Treasure Cache IV Hoarder" IconPath="/7year_achievement_15_3.png" Desc="Unlock Treasure Cache IV x4" Type="6670014" Grade="3" Target="4" Score="550"/>
+</SevenYearAchievementTemplates>

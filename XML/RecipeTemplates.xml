@@ -1,0 +1,22 @@
+<RecipeTemplates>
+	<RecipeTemplate TemplateId="0" Name="Summon of Cuties" Desc="Sacrifices: 
+anything you thing fit. 
+Cuties: 
+random Cuties"/>
+	<RecipeTemplate TemplateId="1" Name="Summon of Cuties - Autaric Plains" Desc="Sacrifices: 
+items x4 collected from Autaric Plains. 
+Cuties: 
+random Cuties living in Autaric Plains."/>
+	<RecipeTemplate TemplateId="2" Name="Summon of Cuties - Murken Forest" Desc="Sacrifices: 
+items x4 collected from Murken Forest. 
+Cuties: 
+random Cuties living in Murken Forest."/>
+	<RecipeTemplate TemplateId="3" Name="Summon of Cuties - Fetid Swap" Desc="Sacrifices: 
+items x4 collected from Fetid Swap. 
+Cuties: 
+random Cuties living in Fetid Swap."/>
+	<RecipeTemplate TemplateId="4" Name="Deathly Sands Cuties Sacrifice" Desc="Sacrifices: 
+items x4 collected from Deathly Sands. 
+Cuties: 
+random Cuties living in Deathly Sands."/>
+</RecipeTemplates>

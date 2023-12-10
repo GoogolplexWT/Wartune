@@ -1,0 +1,8 @@
+<!--
+	> Wedding types
+-->
+<MarrySpecTempInfos>
+	<MarrySpecTempInfo TemplateId="1" TemplateName="Thousand Year Love" Points="14999" CampaignId="4303" Gift="2000000" DiscountTime="72" Discount="80" Rewards="1122401,1|1102401,1|208034,6888|208036,388|208057,888|208058,388" Path="34,81|41,88|163,88|194,119|194,144|209,159|278,159|278,135|262,119|194,119|163,88|41,88|34,81"/>
+	<MarrySpecTempInfo TemplateId="2" TemplateName="Noble Wedding" Points="8999" CampaignId="4302" Gift="1000000" DiscountTime="72" Discount="80" Rewards="1122401,1|1102401,1|208034,6888|208036,388" Path=""/>
+	<MarrySpecTempInfo TemplateId="3" TemplateName="Common Wedding" Points="3999" CampaignId="4301" Gift="500000" DiscountTime="72" Discount="80" Rewards="208034,1888|208036,188" Path=""/>
+</MarrySpecTempInfos>

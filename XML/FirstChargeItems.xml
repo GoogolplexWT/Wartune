@@ -1,0 +1,20 @@
+<FirstChargeItems>
+	<FirstChageItem job="1" itemid="2030102" counts="100"/>
+	<FirstChageItem job="1" itemid="2013004" counts="2"/>
+	<FirstChageItem job="1" itemid="2050605" counts="1"/>
+	<FirstChageItem job="1" itemid="208014" counts="3000"/>
+	<FirstChageItem job="1" itemid="1011205" counts="1"/>
+	<FirstChageItem job="1" itemid="1098002" counts="1"/>
+	<FirstChageItem job="2" itemid="2030102" counts="100"/>
+	<FirstChageItem job="2" itemid="2013004" counts="2"/>
+	<FirstChageItem job="2" itemid="2050605" counts="1"/>
+	<FirstChageItem job="2" itemid="208014" counts="3000"/>
+	<FirstChageItem job="2" itemid="1012205" counts="1"/>
+	<FirstChageItem job="2" itemid="1098002" counts="1"/>
+	<FirstChageItem job="3" itemid="2030102" counts="100"/>
+	<FirstChageItem job="3" itemid="2013004" counts="2"/>
+	<FirstChageItem job="3" itemid="2050605" counts="1"/>
+	<FirstChageItem job="3" itemid="208014" counts="3000"/>
+	<FirstChageItem job="3" itemid="1013205" counts="1"/>
+	<FirstChageItem job="3" itemid="1098002" counts="1"/>
+</FirstChargeItems>
