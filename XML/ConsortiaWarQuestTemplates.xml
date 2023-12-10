@@ -1,0 +1,15 @@
+<!--
+	> Guild Siege harass requirements
+-->
+<ConsortiaWarQuestTemplates>
+	<ConsortiaWarQuestTemplate TemplateId="10101" Type="1" Description="Battle with Fire Sylph" Para1="101" Para2="0"/>
+	<ConsortiaWarQuestTemplate TemplateId="10102" Type="1" Description="Battle with Water Sylph" Para1="102" Para2="0"/>
+	<ConsortiaWarQuestTemplate TemplateId="10103" Type="1" Description="Battle with Electro Sylph" Para1="103" Para2="0"/>
+	<ConsortiaWarQuestTemplate TemplateId="10104" Type="1" Description="Battle with Wind Sylph" Para1="104" Para2="0"/>
+	<ConsortiaWarQuestTemplate TemplateId="10105" Type="1" Description="Battle with Dark Sylph" Para1="105" Para2="0"/>
+	<ConsortiaWarQuestTemplate TemplateId="10106" Type="1" Description="Battle with Light Sylph" Para1="106" Para2="0"/>
+	<ConsortiaWarQuestTemplate TemplateId="20001" Type="2" Description="Battle with Sacred Knight" Para1="1" Para2="0"/>
+	<ConsortiaWarQuestTemplate TemplateId="20002" Type="2" Description="Battle with Sanctuary Hunter" Para1="2" Para2="0"/>
+	<ConsortiaWarQuestTemplate TemplateId="20003" Type="2" Description="Battle with Battle Oracle" Para1="3" Para2="0"/>
+	<ConsortiaWarQuestTemplate TemplateId="30001" Type="3" Description="Battle with Hecate" Para1="1" Para2="0"/>
+</ConsortiaWarQuestTemplates>

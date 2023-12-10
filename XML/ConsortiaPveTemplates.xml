@@ -1,3 +1,6 @@
+<!--
+	> Guild Dungeon information
+-->
 <ConsortiaPveTemplates>
 	<ConsortiaPveTemplate NodeId="1" AreaId="1" Difficulty="0" NextNodeId="2" Name="[1-1] Autaric Plains" AreaDropId="3860001" NodeDropId="3860101"/>
 	<ConsortiaPveTemplate NodeId="2" AreaId="1" Difficulty="0" NextNodeId="3" Name="[1-2] Autaric Plains" AreaDropId="3860001" NodeDropId="3860102"/>

@@ -1,0 +1,31 @@
+<!--
+	> Guild Quest academy
+-->
+<ConsortiaQuestConditionTempInfos>
+	<ConsortiaQuestConditionTempInfo ConditionId="11" QuestTemplateId="11" ConditionType="1" ConditionDetail="Reach 120 Devotion daily" Target="120" Param1="0" Param2="0"/>
+	<ConsortiaQuestConditionTempInfo ConditionId="12" QuestTemplateId="12" ConditionType="1" ConditionDetail="Reach 180 Devotion daily" Target="180" Param1="0" Param2="0"/>
+	<ConsortiaQuestConditionTempInfo ConditionId="13" QuestTemplateId="13" ConditionType="1" ConditionDetail="Reach 240 Devotion daily" Target="240" Param1="0" Param2="0"/>
+	<ConsortiaQuestConditionTempInfo ConditionId="21" QuestTemplateId="21" ConditionType="2" ConditionDetail="Spend 30 Balens" Target="30" Param1="0" Param2="0"/>
+	<ConsortiaQuestConditionTempInfo ConditionId="22" QuestTemplateId="22" ConditionType="2" ConditionDetail="Spend 50 Balens" Target="50" Param1="0" Param2="0"/>
+	<ConsortiaQuestConditionTempInfo ConditionId="23" QuestTemplateId="23" ConditionType="2" ConditionDetail="Spend 100 Balens" Target="100" Param1="0" Param2="0"/>
+	<ConsortiaQuestConditionTempInfo ConditionId="31" QuestTemplateId="31" ConditionType="3" ConditionDetail="Enter the guild dungeon once" Target="1" Param1="0" Param2="0"/>
+	<ConsortiaQuestConditionTempInfo ConditionId="41" QuestTemplateId="41" ConditionType="4" ConditionDetail="Get 10 guild members to lvl. 80 this month" Target="10" Param1="80" Param2="0"/>
+	<ConsortiaQuestConditionTempInfo ConditionId="51" QuestTemplateId="51" ConditionType="5" ConditionDetail="Get 5 guild members to their 1st class advancement this month" Target="5" Param1="0" Param2="0"/>
+	<ConsortiaQuestConditionTempInfo ConditionId="61" QuestTemplateId="61" ConditionType="6" ConditionDetail="Get 5 guild members to each reach 120 Devotion daily" Target="5" Param1="120" Param2="0"/>
+	<ConsortiaQuestConditionTempInfo ConditionId="62" QuestTemplateId="62" ConditionType="6" ConditionDetail="Get 10 guild members to each reach 150 Devotion daily" Target="10" Param1="150" Param2="0"/>
+	<ConsortiaQuestConditionTempInfo ConditionId="63" QuestTemplateId="63" ConditionType="6" ConditionDetail="Get 15 guild members to each reach 180 Devotion daily" Target="15" Param1="180" Param2="0"/>
+	<ConsortiaQuestConditionTempInfo ConditionId="64" QuestTemplateId="64" ConditionType="6" ConditionDetail="Get 20 guild members to each reach 210 Devotion daily" Target="20" Param1="210" Param2="0"/>
+	<ConsortiaQuestConditionTempInfo ConditionId="65" QuestTemplateId="65" ConditionType="6" ConditionDetail="Get 25 guild members to each reach 240 Devotion daily" Target="25" Param1="240" Param2="0"/>
+	<ConsortiaQuestConditionTempInfo ConditionId="66" QuestTemplateId="66" ConditionType="6" ConditionDetail="Get 30 guild members to each reach 250 Devotion daily" Target="30" Param1="270" Param2="0"/>
+	<ConsortiaQuestConditionTempInfo ConditionId="71" QuestTemplateId="71" ConditionType="7" ConditionDetail="Have your guild members reach a total of 500 Devotion daily" Target="500" Param1="0" Param2="0"/>
+	<ConsortiaQuestConditionTempInfo ConditionId="72" QuestTemplateId="72" ConditionType="7" ConditionDetail="Have your guild members reach a total of 1000 Devotion daily" Target="1000" Param1="0" Param2="0"/>
+	<ConsortiaQuestConditionTempInfo ConditionId="73" QuestTemplateId="73" ConditionType="7" ConditionDetail="Have your guild members reach a total of 1500 Devotion daily" Target="1500" Param1="0" Param2="0"/>
+	<ConsortiaQuestConditionTempInfo ConditionId="74" QuestTemplateId="74" ConditionType="7" ConditionDetail="Have your guild members reach a total of 2000 Devotion daily" Target="2000" Param1="0" Param2="0"/>
+	<ConsortiaQuestConditionTempInfo ConditionId="75" QuestTemplateId="75" ConditionType="7" ConditionDetail="Have your guild members reach a total of 2500 Devotion daily" Target="2500" Param1="0" Param2="0"/>
+	<ConsortiaQuestConditionTempInfo ConditionId="76" QuestTemplateId="76" ConditionType="7" ConditionDetail="Have your guild members reach a total of 3000 Devotion daily" Target="3000" Param1="0" Param2="0"/>
+	<ConsortiaQuestConditionTempInfo ConditionId="81" QuestTemplateId="81" ConditionType="8" ConditionDetail="Collect 1 Guild Treasure" Target="1" Param1="0" Param2="0"/>
+	<ConsortiaQuestConditionTempInfo ConditionId="82" QuestTemplateId="82" ConditionType="8" ConditionDetail="Collect 2 Guild Treasures" Target="2" Param1="0" Param2="0"/>
+	<ConsortiaQuestConditionTempInfo ConditionId="83" QuestTemplateId="83" ConditionType="8" ConditionDetail="Collect 3 Guild Treasures" Target="3" Param1="0" Param2="0"/>
+	<ConsortiaQuestConditionTempInfo ConditionId="91" QuestTemplateId="91" ConditionType="9" ConditionDetail="Buy once from the Guild Merchant" Target="1" Param1="0" Param2="0"/>
+	<ConsortiaQuestConditionTempInfo ConditionId="101" QuestTemplateId="101" ConditionType="10" ConditionDetail="Buy once from the Dwarven Silver Shop" Target="1" Param1="0" Param2="0"/>
+</ConsortiaQuestConditionTempInfos>

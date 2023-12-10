@@ -1,3 +1,6 @@
+<!--
+	Eternal & Returner shop information
+-->
 <AllianceShopInfos>
 	<AllianceShopInfo Id="1101" PlayerType="1" JobType="1" CommodityNum="1" CommodityId="2210015" CommodityAmount="1" MoneyNum="100" Limited="1,1,1,1,1,1,1,1,1"/>
 	<AllianceShopInfo Id="1102" PlayerType="1" JobType="1" CommodityNum="2" CommodityId="2250001" CommodityAmount="20" MoneyNum="1" Limited="2500,2500,2500,2500,2500,2500,2500,2500,2500"/>

@@ -1,0 +1,104 @@
+<!--
+	> Daily Devo information
+-->
+<ActivityDailyTemplates>
+	<ActivityDailyTemplate Id="10101" MasterType="1" SonType="1" TaskType="1" Para1="0" Para2="0" TaskTime="All Day" Title="Daily Login" Description="Daily First Login" RewardDes="" PassCount="1" Num="5" Sort="1101"/>
+	<ActivityDailyTemplate Id="10102" MasterType="1" SonType="1" TaskType="25" Para1="0" Para2="0" TaskTime="All Day" Title="Farm/Pasture" Description="Farm/Pasture Harvest 1 time" RewardDes="" PassCount="1" Num="10" Sort="1102"/>
+	<ActivityDailyTemplate Id="10103" MasterType="1" SonType="1" TaskType="46" Para1="0" Para2="0" TaskTime="All Day" Title="Magic Inn" Description="Speak with each of the 5 NPCs in Magic Inn" RewardDes="" PassCount="5" Num="5" Sort="1103"/>
+	<ActivityDailyTemplate Id="10104" MasterType="1" SonType="1" TaskType="24" Para1="0" Para2="0" TaskTime="All Day" Title="Bounty Quests" Description="Complete 5 Bounty Quests" RewardDes="" PassCount="5" Num="5" Sort="1104"/>
+	<ActivityDailyTemplate Id="10105" MasterType="1" SonType="1" TaskType="56" Para1="0" Para2="0" TaskTime="All Day" Title="Circuit" Description="Complete 5 Circuit Quests" RewardDes="" PassCount="5" Num="5" Sort="1105"/>
+	<ActivityDailyTemplate Id="10106" MasterType="1" SonType="1" TaskType="103" Para1="0" Para2="0" TaskTime="All Day" Title="Game Box" Description="Challenge Game Box once" RewardDes="" PassCount="1" Num="10" Sort="1106"/>
+	<ActivityDailyTemplate Id="10107" MasterType="1" SonType="1" TaskType="98" Para1="0" Para2="0" TaskTime="All Day" Title="VIP Login" Description="Daily VIP Login" RewardDes="" PassCount="1" Num="0" Sort="1107"/>
+	<ActivityDailyTemplate Id="10201" MasterType="1" SonType="2" TaskType="23" Para1="0" Para2="0" TaskTime="All Day" Title="Forgotten Catacombs" Description="Enter Forgotten Catacombs once" RewardDes="" PassCount="1" Num="5" Sort="1201"/>
+	<ActivityDailyTemplate Id="10202" MasterType="1" SonType="2" TaskType="19" Para1="0" Para2="0" TaskTime="All Day" Title="Road to Glory" Description="Challenge Road to Glory once" RewardDes="" PassCount="1" Num="5" Sort="1202"/>
+	<ActivityDailyTemplate Id="10203" MasterType="1" SonType="2" TaskType="42" Para1="0" Para2="0" TaskTime="All Day" Title="Dimensional War" Description="Join Dimensional War once" RewardDes="" PassCount="1" Num="5" Sort="1203"/>
+	<ActivityDailyTemplate Id="10301" MasterType="1" SonType="3" TaskType="27" Para1="0" Para2="0" TaskTime="Multi-round During
+11:00~22:30" Title="Battleground" Description="Join Battleground once" RewardDes="" PassCount="1" Num="10" Sort="1301"/>
+	<ActivityDailyTemplate Id="10302" MasterType="1" SonType="3" TaskType="5" Para1="0" Para2="0" TaskTime="All Day" Title="MP Dungeon" Description="Finish 1 MP dungeon in Hall of Heroes" RewardDes="" PassCount="1" Num="15" Sort="1302"/>
+	<ActivityDailyTemplate Id="10303" MasterType="1" SonType="3" TaskType="18" Para1="0" Para2="0" TaskTime="11:35~12:35
+22:30~23:30" Title="World Boss" Description="Challenge world boss once" RewardDes="" PassCount="1" Num="15" Sort="1303"/>
+	<ActivityDailyTemplate Id="10501" MasterType="1" SonType="5" TaskType="8" Para1="0" Para2="0" TaskTime="All Day" Title="Guild Contribution" Description="Contribute to your guild 1 once" RewardDes="" PassCount="1" Num="5" Sort="1501"/>
+	<ActivityDailyTemplate Id="10502" MasterType="1" SonType="5" TaskType="12" Para1="0" Para2="0" TaskTime="All Day" Title="Guild Blessing" Description="Perform guild blessing twice" RewardDes="" PassCount="2" Num="5" Sort="1502"/>
+	<ActivityDailyTemplate Id="10503" MasterType="1" SonType="5" TaskType="71" Para1="0" Para2="0" TaskTime="All Day" Title="Guild Treasure" Description="Collect 1 Guild Treasure" RewardDes="" PassCount="1" Num="5" Sort="1503"/>
+	<ActivityDailyTemplate Id="10504" MasterType="1" SonType="5" TaskType="59" Para1="0" Para2="0" TaskTime="Open by Guild Master" Title="Guild Chamber" Description="Join Guild Chamber once" RewardDes="" PassCount="1" Num="5" Sort="1504"/>
+	<ActivityDailyTemplate Id="10505" MasterType="1" SonType="5" TaskType="55" Para1="0" Para2="0" TaskTime="16:30~17:00" Title="Castle Wars" Description="Join Castle Wars once" RewardDes="" PassCount="1" Num="10" Sort="1505"/>
+	<ActivityDailyTemplate Id="20102" MasterType="2" SonType="1" TaskType="64" Para1="0" Para2="0" TaskTime="All Day" Title="Archaeology Astrology" Description="Join Archaeology or Astrology 5 times in Wilds" RewardDes="" PassCount="5" Num="10" Sort="2102"/>
+	<ActivityDailyTemplate Id="20103" MasterType="2" SonType="1" TaskType="80" Para1="0" Para2="0" TaskTime="All Day" Title="Game Hall" Description="Play 1 game in Game Hall" RewardDes="" PassCount="1" Num="10" Sort="2103"/>
+	<ActivityDailyTemplate Id="20104" MasterType="2" SonType="1" TaskType="69" Para1="0" Para2="0" TaskTime="All Day" Title="Henna Lab" Description="Harvest Henna once in Henna Lab" RewardDes="" PassCount="1" Num="5" Sort="2104"/>
+	<ActivityDailyTemplate Id="20105" MasterType="2" SonType="1" TaskType="98" Para1="0" Para2="0" TaskTime="All Day" Title="VIP Login" Description="Daily VIP Login" RewardDes="" PassCount="1" Num="0" Sort="2105"/>
+	<ActivityDailyTemplate Id="20201" MasterType="2" SonType="2" TaskType="19" Para1="0" Para2="0" TaskTime="All Day" Title="Road to Glory" Description="Challenge Road to Glory once" RewardDes="" PassCount="1" Num="10" Sort="2201"/>
+	<ActivityDailyTemplate Id="20202" MasterType="2" SonType="2" TaskType="42" Para1="0" Para2="0" TaskTime="All Day" Title="Dimensional War" Description="Join Dimensional War once" RewardDes="" PassCount="1" Num="5" Sort="2202"/>
+	<ActivityDailyTemplate Id="20203" MasterType="2" SonType="2" TaskType="83" Para1="0" Para2="0" TaskTime="All Day" Title="Cuties Expedition" Description="Join Cuties Expedition once" RewardDes="" PassCount="1" Num="10" Sort="2203"/>
+	<ActivityDailyTemplate Id="20204" MasterType="2" SonType="2" TaskType="86" Para1="0" Para2="0" TaskTime="All Day" Title="Time Vortex" Description="Challenge Time Vortex once" RewardDes="" PassCount="1" Num="10" Sort="2204"/>
+	<ActivityDailyTemplate Id="20205" MasterType="2" SonType="2" TaskType="85" Para1="0" Para2="0" TaskTime="All Day" Title="Demon Continent" Description="Challenge Demon Continent once" RewardDes="" PassCount="1" Num="10" Sort="2205"/>
+	<ActivityDailyTemplate Id="20206" MasterType="2" SonType="2" TaskType="104" Para1="0" Para2="0" TaskTime="All Day" Title="Outland Exploration" Description="Consume 200 Exploration Points" RewardDes="" PassCount="200" Num="10" Sort="2206"/>
+	<ActivityDailyTemplate Id="20301" MasterType="2" SonType="3" TaskType="27" Para1="0" Para2="0" TaskTime="Multi-round During
+11:00~22:30" Title="Battleground" Description="Join Battleground once" RewardDes="" PassCount="1" Num="15" Sort="2301"/>
+	<ActivityDailyTemplate Id="20302" MasterType="2" SonType="3" TaskType="5" Para1="0" Para2="0" TaskTime="All Day" Title="MP Dungeon" Description="Finish 1 MP dungeon in Hall of Heroes" RewardDes="" PassCount="1" Num="20" Sort="2302"/>
+	<ActivityDailyTemplate Id="20303" MasterType="2" SonType="3" TaskType="99" Para1="0" Para2="0" TaskTime="All Day" Title="Event Dungeon" Description="Finish 1 event dungeon in Hall of Heroes" RewardDes="" PassCount="1" Num="10" Sort="2303"/>
+	<ActivityDailyTemplate Id="20304" MasterType="2" SonType="3" TaskType="100" Para1="0" Para2="0" TaskTime="All Day" Title="Weekly Dungeon" Description="Finish 1 weekly dungeon in Hall of Heroes" RewardDes="" PassCount="1" Num="10" Sort="2304"/>
+	<ActivityDailyTemplate Id="20305" MasterType="2" SonType="3" TaskType="18" Para1="0" Para2="0" TaskTime="11:35~12:35
+22:30~23:30" Title="World Boss" Description="Challenge world boss once" RewardDes="" PassCount="1" Num="10" Sort="2305"/>
+	<ActivityDailyTemplate Id="20306" MasterType="2" SonType="3" TaskType="13" Para1="0" Para2="0" TaskTime="12:00~14:00
+18:00~20:00" Title="Arena" Description="Join Multi-player Arena 5 times" RewardDes="" PassCount="5" Num="10" Sort="2306"/>
+	<ActivityDailyTemplate Id="20501" MasterType="2" SonType="5" TaskType="71" Para1="0" Para2="0" TaskTime="All Day" Title="Guild Treasure" Description="Collect 1 Guild Treasure" RewardDes="" PassCount="1" Num="10" Sort="2501"/>
+	<ActivityDailyTemplate Id="20502" MasterType="2" SonType="5" TaskType="60" Para1="0" Para2="0" TaskTime="Open by Guild Master" Title="Emeraldia" Description="Join Emeraldia once" RewardDes="" PassCount="1" Num="10" Sort="2502"/>
+	<ActivityDailyTemplate Id="20503" MasterType="2" SonType="5" TaskType="55" Para1="0" Para2="0" TaskTime="16:30~17:00" Title="Castle Wars" Description="Join Castle Wars once" RewardDes="" PassCount="1" Num="10" Sort="2503"/>
+	<ActivityDailyTemplate Id="20504" MasterType="2" SonType="5" TaskType="101" Para1="0" Para2="0" TaskTime="10:00~22:30
+Open every 3 hours" Title="The Outlands" Description="Consume 100 Outland Power" RewardDes="" PassCount="100" Num="5" Sort="2504"/>
+	<ActivityDailyTemplate Id="20601" MasterType="2" SonType="6" TaskType="30" Para1="0" Para2="0" TaskTime="All Day" Title="Sylph Arena" Description="Join Sylph Arena 5 times" RewardDes="" PassCount="5" Num="10" Sort="2601"/>
+	<ActivityDailyTemplate Id="20602" MasterType="2" SonType="6" TaskType="39" Para1="0" Para2="0" TaskTime="01:00~23:00" Title="Sylph Expedition" Description="Join Sylph Expedition once" RewardDes="" PassCount="1" Num="5" Sort="2602"/>
+	<ActivityDailyTemplate Id="20603" MasterType="2" SonType="6" TaskType="40" Para1="0" Para2="0" TaskTime="All Day" Title="Sky Trail" Description="Join Sky Trail once" RewardDes="" PassCount="1" Num="5" Sort="2603"/>
+	<ActivityDailyTemplate Id="20604" MasterType="2" SonType="6" TaskType="61" Para1="0" Para2="0" TaskTime="Open every 3 hours" Title="Defend Sylph Atoll" Description="Defend Sylph Atoll once" RewardDes="" PassCount="1" Num="10" Sort="2604"/>
+	<ActivityDailyTemplate Id="20605" MasterType="2" SonType="6" TaskType="51" Para1="0" Para2="0" TaskTime="All Day" Title="Eudaemon Patrol" Description="Join Eudaemon Patrol once" RewardDes="" PassCount="1" Num="10" Sort="2605"/>
+	<ActivityDailyTemplate Id="20606" MasterType="2" SonType="6" TaskType="43" Para1="0" Para2="0" TaskTime="All Day" Title="Bounty Targets" Description="Complete Bounty Targets once" RewardDes="" PassCount="1" Num="10" Sort="2606"/>
+	<ActivityDailyTemplate Id="20607" MasterType="2" SonType="6" TaskType="47" Para1="0" Para2="0" TaskTime="19:01~00:00" Title="Eudaemon Domain" Description="Sign up for Eudaemon Domain once" RewardDes="" PassCount="1" Num="10" Sort="2607"/>
+	<ActivityDailyTemplate Id="30101" MasterType="3" SonType="1" TaskType="15" Para1="0" Para2="0" TaskTime="All Day" Title="Spend Balens" Description="Consume Balens/Bound Balens once" RewardDes="" PassCount="1" Num="5" Sort="3101"/>
+	<ActivityDailyTemplate Id="30102" MasterType="3" SonType="1" TaskType="66" Para1="0" Para2="0" TaskTime="All Day" Title="Voyage" Description="Trade once in Voyage" RewardDes="" PassCount="1" Num="5" Sort="3102"/>
+	<ActivityDailyTemplate Id="30103" MasterType="3" SonType="1" TaskType="98" Para1="0" Para2="0" TaskTime="All Day" Title="VIP Login" Description="Daily VIP Login" RewardDes="" PassCount="1" Num="0" Sort="3103"/>
+	<ActivityDailyTemplate Id="30201" MasterType="3" SonType="2" TaskType="19" Para1="0" Para2="0" TaskTime="All Day" Title="Road to Glory" Description="Challenge Road to Glory once" RewardDes="" PassCount="1" Num="5" Sort="3201"/>
+	<ActivityDailyTemplate Id="30202" MasterType="3" SonType="2" TaskType="86" Para1="0" Para2="0" TaskTime="All Day" Title="Time Vortex" Description="Challenge Time Vortex once" RewardDes="" PassCount="1" Num="5" Sort="3202"/>
+	<ActivityDailyTemplate Id="30203" MasterType="3" SonType="2" TaskType="85" Para1="0" Para2="0" TaskTime="All Day" Title="Demon Continent" Description="Challenge Demon Continent once" RewardDes="" PassCount="1" Num="5" Sort="3203"/>
+	<ActivityDailyTemplate Id="30204" MasterType="3" SonType="2" TaskType="87" Para1="0" Para2="0" TaskTime="All Day" Title="Lord's Trial" Description="Challenge Lord's Trial once" RewardDes="" PassCount="1" Num="10" Sort="3204"/>
+	<ActivityDailyTemplate Id="30205" MasterType="3" SonType="2" TaskType="88" Para1="0" Para2="0" TaskTime="All Day" Title="Zodiac Palace" Description="Challenge Zodiac Palace once" RewardDes="" PassCount="1" Num="10" Sort="3205"/>
+	<ActivityDailyTemplate Id="30206" MasterType="3" SonType="2" TaskType="72" Para1="0" Para2="0" TaskTime="06:00~23:00" Title="Titan Temple" Description="Challenge Titan Temple once" RewardDes="" PassCount="1" Num="10" Sort="3206"/>
+	<ActivityDailyTemplate Id="30301" MasterType="3" SonType="3" TaskType="27" Para1="0" Para2="0" TaskTime="Multi-round During
+11:00~22:30" Title="Battleground" Description="Join Battleground once" RewardDes="" PassCount="1" Num="15" Sort="3301"/>
+	<ActivityDailyTemplate Id="30302" MasterType="3" SonType="3" TaskType="99" Para1="0" Para2="0" TaskTime="All Day" Title="Event Dungeon" Description="Finish 1 event dungeon in Hall of Heroes" RewardDes="" PassCount="1" Num="10" Sort="3302"/>
+	<ActivityDailyTemplate Id="30303" MasterType="3" SonType="3" TaskType="100" Para1="0" Para2="0" TaskTime="All Day" Title="Weekly Dungeon" Description="Finish 1 weekly dungeon in Hall of Heroes" RewardDes="" PassCount="1" Num="10" Sort="3303"/>
+	<ActivityDailyTemplate Id="30304" MasterType="3" SonType="3" TaskType="18" Para1="0" Para2="0" TaskTime="11:35~12:35
+22:30~23:30" Title="World Boss" Description="Challenge world boss once" RewardDes="" PassCount="1" Num="5" Sort="3304"/>
+	<ActivityDailyTemplate Id="30305" MasterType="3" SonType="3" TaskType="13" Para1="0" Para2="0" TaskTime="12:00~14:00
+18:00~20:00" Title="Arena" Description="Join Multi-player Arena 5 times" RewardDes="" PassCount="5" Num="15" Sort="3305"/>
+	<ActivityDailyTemplate Id="30306" MasterType="3" SonType="3" TaskType="96" Para1="0" Para2="0" TaskTime="08:00~00:00" Title="Forbidden Land Boss" Description="Challenge Forbidden Land Boss once" RewardDes="" PassCount="1" Num="5" Sort="3306"/>
+	<ActivityDailyTemplate Id="30501" MasterType="3" SonType="5" TaskType="89" Para1="0" Para2="0" TaskTime="All Day" Title="Guild Dungeon" Description="Challenge Guild Dungeon once" RewardDes="" PassCount="1" Num="5" Sort="3501"/>
+	<ActivityDailyTemplate Id="30502" MasterType="3" SonType="5" TaskType="97" Para1="0" Para2="0" TaskTime="Open by Guild Master" Title="Guild Boss" Description="Join Guild Boss once" RewardDes="" PassCount="1" Num="10" Sort="3502"/>
+	<ActivityDailyTemplate Id="30503" MasterType="3" SonType="5" TaskType="101" Para1="0" Para2="0" TaskTime="10:00~22:30
+Open every 3 hours" Title="The Outlands" Description="Consume 100 Outland Power" RewardDes="" PassCount="100" Num="5" Sort="3503"/>
+	<ActivityDailyTemplate Id="30504" MasterType="3" SonType="5" TaskType="102" Para1="0" Para2="0" TaskTime="11:00~11:30
+19:00~19:30" Title="Post Grab" Description="Join Post Grab once" RewardDes="" PassCount="1" Num="10" Sort="3504"/>
+	<ActivityDailyTemplate Id="30601" MasterType="3" SonType="6" TaskType="30" Para1="0" Para2="0" TaskTime="All Day" Title="Sylph Arena" Description="Join Sylph Arena 5 times" RewardDes="" PassCount="5" Num="5" Sort="3601"/>
+	<ActivityDailyTemplate Id="30602" MasterType="3" SonType="6" TaskType="39" Para1="0" Para2="0" TaskTime="01:00~23:00" Title="Sylph Expedition" Description="Join Sylph Expedition once" RewardDes="" PassCount="1" Num="5" Sort="3602"/>
+	<ActivityDailyTemplate Id="30603" MasterType="3" SonType="6" TaskType="73" Para1="0" Para2="0" TaskTime="All Day" Title="Time Portal" Description="Challenge Time Portal once" RewardDes="" PassCount="1" Num="10" Sort="3603"/>
+	<ActivityDailyTemplate Id="30604" MasterType="3" SonType="6" TaskType="95" Para1="0" Para2="0" TaskTime="All Day" Title="Eudaemon Signet" Description="Join Eudaemon Signet once" RewardDes="" PassCount="1" Num="5" Sort="3604"/>
+	<ActivityDailyTemplate Id="30605" MasterType="3" SonType="6" TaskType="47" Para1="0" Para2="0" TaskTime="19:01~00:00" Title="Eudaemon Domain" Description="Sign up for Eudaemon Domain once" RewardDes="" PassCount="1" Num="5" Sort="3605"/>
+	<ActivityDailyTemplate Id="30606" MasterType="3" SonType="6" TaskType="74" Para1="0" Para2="0" TaskTime="All Day" Title="Endless Abyss" Description="Challenge Endless Abyss once" RewardDes="" PassCount="1" Num="5" Sort="3606"/>
+	<ActivityDailyTemplate Id="40201" MasterType="4" SonType="2" TaskType="87" Para1="0" Para2="0" TaskTime="All Day" Title="Lord's Trial" Description="Challenge Lord's Trial once" RewardDes="" PassCount="1" Num="5" Sort="4201"/>
+	<ActivityDailyTemplate Id="40202" MasterType="4" SonType="2" TaskType="88" Para1="0" Para2="0" TaskTime="All Day" Title="Zodiac Palace" Description="Challenge Zodiac Palace once" RewardDes="" PassCount="1" Num="5" Sort="4202"/>
+	<ActivityDailyTemplate Id="40203" MasterType="4" SonType="2" TaskType="72" Para1="0" Para2="0" TaskTime="06:00~23:00" Title="Titan Temple" Description="Challenge Titan Temple once" RewardDes="" PassCount="1" Num="5" Sort="4203"/>
+	<ActivityDailyTemplate Id="40204" MasterType="4" SonType="2" TaskType="81" Para1="0" Para2="0" TaskTime="All Day" Title="Road to Revenge" Description="Challenge Road to Revenge once" RewardDes="" PassCount="1" Num="10" Sort="4204"/>
+	<ActivityDailyTemplate Id="40205" MasterType="4" SonType="2" TaskType="90" Para1="0" Para2="0" TaskTime="All Day" Title="Path to Redemption" Description="Challenge Path to Redemption once" RewardDes="" PassCount="1" Num="10" Sort="4205"/>
+	<ActivityDailyTemplate Id="40206" MasterType="4" SonType="2" TaskType="91" Para1="0" Para2="0" TaskTime="All Day" Title="Lych's Road" Description="Challenge Lych's Road once" RewardDes="" PassCount="1" Num="20" Sort="4206"/>
+	<ActivityDailyTemplate Id="40301" MasterType="4" SonType="3" TaskType="27" Para1="0" Para2="0" TaskTime="Multi-round During
+11:00~22:30" Title="Battleground" Description="Join Battleground once" RewardDes="" PassCount="1" Num="10" Sort="4301"/>
+	<ActivityDailyTemplate Id="40302" MasterType="4" SonType="3" TaskType="13" Para1="0" Para2="0" TaskTime="12:00~14:00
+18:00~20:00" Title="Arena" Description="Join Multi-player Arena 5 times" RewardDes="" PassCount="5" Num="20" Sort="4302"/>
+	<ActivityDailyTemplate Id="40303" MasterType="4" SonType="3" TaskType="96" Para1="0" Para2="0" TaskTime="08:00~00:00" Title="Forbidden Land Boss" Description="Challenge Forbidden Land Boss once" RewardDes="" PassCount="1" Num="10" Sort="4303"/>
+	<ActivityDailyTemplate Id="40501" MasterType="4" SonType="5" TaskType="97" Para1="0" Para2="0" TaskTime="Open by Guild Master" Title="Guild Boss" Description="Challenge Guild Boss once" RewardDes="" PassCount="1" Num="10" Sort="4501"/>
+	<ActivityDailyTemplate Id="40502" MasterType="4" SonType="5" TaskType="101" Para1="0" Para2="0" TaskTime="10:00~22:30
+Open every 3 hours" Title="The Outlands" Description="Consume 100 Outland Power" RewardDes="" PassCount="100" Num="10" Sort="4502"/>
+	<ActivityDailyTemplate Id="40503" MasterType="4" SonType="5" TaskType="102" Para1="0" Para2="0" TaskTime="11:00~11:30
+19:00~19:30" Title="Post Grab" Description="Join Post Grab once" RewardDes="" PassCount="1" Num="10" Sort="4503"/>
+	<ActivityDailyTemplate Id="40601" MasterType="4" SonType="6" TaskType="73" Para1="0" Para2="0" TaskTime="All Day" Title="Time Portal" Description="Challenge Time Portal once" RewardDes="" PassCount="1" Num="5" Sort="4601"/>
+	<ActivityDailyTemplate Id="40602" MasterType="4" SonType="6" TaskType="74" Para1="0" Para2="0" TaskTime="All Day" Title="Endless Abyss" Description="Challenge Endless Abyss once" RewardDes="" PassCount="1" Num="5" Sort="4602"/>
+</ActivityDailyTemplates>
