@@ -1,0 +1,15 @@
+<CarnivalDailyChallengeTemplates>
+	<CarnivalDailyChallengeTemplate Id="100101" TaskType="1" Title="Daily Login" Description="Log into the game 1 time" Para1="1" Para2="0" Para3="0" Para4="" Points="3"/>
+	<CarnivalDailyChallengeTemplate Id="100201" TaskType="2" Title="Merry Land" Description="Play games in Merry Land for 3 times" Para1="3" Para2="0" Para3="0" Para4="" Points="3"/>
+	<CarnivalDailyChallengeTemplate Id="100301" TaskType="3" Title="Lucky Draw" Description="Join Lucky Draw 5 times" Para1="5" Para2="0" Para3="0" Para4="" Points="5"/>
+	<CarnivalDailyChallengeTemplate Id="100401" TaskType="4" Title="Balens Top-Up" Description="Recharge any amount of Balens to receive points" Para1="1" Para2="0" Para3="0" Para4="" Points="3"/>
+	<CarnivalDailyChallengeTemplate Id="100501" TaskType="5" Title="Online Rewards" Description="Collect Online Rewards 3 times" Para1="3" Para2="0" Para3="0" Para4="" Points="3"/>
+	<CarnivalDailyChallengeTemplate Id="100601" TaskType="6" Title="Holiday Packs" Description="Purchase 2 Holiday Packs" Para1="2" Para2="0" Para3="0" Para4="" Points="3"/>
+	<CarnivalDailyChallengeTemplate Id="100701" TaskType="7" Title="Tree of Ancients" Description="Energize a friend's Tree of Ancients once" Para1="1" Para2="0" Para3="0" Para4="" Points="5"/>
+	<CarnivalDailyChallengeTemplate Id="100801" TaskType="8" Title="Archaeology Astrology" Description="Join Archaeology or Astrology 5 times in Wilds" Para1="5" Para2="0" Para3="0" Para4="" Points="5"/>
+	<CarnivalDailyChallengeTemplate Id="100901" TaskType="9" Title="Sylph Arena" Description="Win a fight in Sylph Arena twice" Para1="2" Para2="0" Para3="0" Para4="" Points="5"/>
+	<CarnivalDailyChallengeTemplate Id="101001" TaskType="10" Title="Game Hall" Description="Play 1 game in Game Hall" Para1="1" Para2="0" Para3="0" Para4="" Points="5"/>
+	<CarnivalDailyChallengeTemplate Id="101101" TaskType="11" Title="MP Dungeon" Description="Finish 1 MP dungeon in Hall of Heroes" Para1="1" Para2="0" Para3="0" Para4="" Points="5"/>
+	<CarnivalDailyChallengeTemplate Id="101201" TaskType="12" Title="World Boss" Description="Challenge world boss once" Para1="1" Para2="0" Para3="0" Para4="" Points="5"/>
+	<CarnivalDailyChallengeTemplate Id="101301" TaskType="13" Title="Battleground" Description="Join Battleground once" Para1="1" Para2="0" Para3="0" Para4="" Points="5"/>
+</CarnivalDailyChallengeTemplates>

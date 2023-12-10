@@ -1,0 +1,26 @@
+<TheseusPvpRewardTmpls>
+	<TheseusPvpRewardTmpl Id="10001" Name="Complete 5 Matches" Area="1" TaskType="1" TaskNum="5" Reward="7640002,50" Sort="1"/>
+	<TheseusPvpRewardTmpl Id="10002" Name="Complete 10 Matches" Area="1" TaskType="1" TaskNum="10" Reward="7640002,100" Sort="2"/>
+	<TheseusPvpRewardTmpl Id="10003" Name="Win 1 Match" Area="1" TaskType="2" TaskNum="1" Reward="7640002,2" Sort="3"/>
+	<TheseusPvpRewardTmpl Id="10004" Name="Win 2 Matches" Area="1" TaskType="2" TaskNum="2" Reward="7640002,2" Sort="4"/>
+	<TheseusPvpRewardTmpl Id="10005" Name="Win 3 Matches" Area="1" TaskType="2" TaskNum="3" Reward="7640002,2" Sort="5"/>
+	<TheseusPvpRewardTmpl Id="10006" Name="Win 4 Matches" Area="1" TaskType="2" TaskNum="4" Reward="7640002,2" Sort="6"/>
+	<TheseusPvpRewardTmpl Id="10007" Name="Win 5 Matches" Area="1" TaskType="2" TaskNum="5" Reward="7640002,2" Sort="7"/>
+	<TheseusPvpRewardTmpl Id="10008" Name="Win 6 Matches" Area="1" TaskType="2" TaskNum="6" Reward="7640002,2" Sort="8"/>
+	<TheseusPvpRewardTmpl Id="10009" Name="Win 7 Matches" Area="1" TaskType="2" TaskNum="7" Reward="7640002,2" Sort="9"/>
+	<TheseusPvpRewardTmpl Id="10010" Name="Win 8 Matches" Area="1" TaskType="2" TaskNum="8" Reward="7640002,2" Sort="10"/>
+	<TheseusPvpRewardTmpl Id="10011" Name="Win 9 Matches" Area="1" TaskType="2" TaskNum="9" Reward="7640002,2" Sort="11"/>
+	<TheseusPvpRewardTmpl Id="10012" Name="Win 10 Matches" Area="1" TaskType="2" TaskNum="10" Reward="7640002,2" Sort="12"/>
+	<TheseusPvpRewardTmpl Id="20001" Name="Reach Gold Tier" Area="2" TaskType="6" TaskNum="21" Reward="7640001,400" Sort="1"/>
+	<TheseusPvpRewardTmpl Id="20002" Name="Reach Platinum Tier" Area="2" TaskType="6" TaskNum="31" Reward="7640001,800" Sort="2"/>
+	<TheseusPvpRewardTmpl Id="20003" Name="Reach Diamond Tier" Area="2" TaskType="6" TaskNum="41" Reward="7640001,1200" Sort="3"/>
+	<TheseusPvpRewardTmpl Id="20004" Name="Reach Master Tier" Area="2" TaskType="6" TaskNum="51" Reward="7640001,1600" Sort="4"/>
+	<TheseusPvpRewardTmpl Id="20005" Name="Reach Legend Tier" Area="2" TaskType="6" TaskNum="61" Reward="7640001,2000" Sort="5"/>
+	<TheseusPvpRewardTmpl Id="30001" Name="1st place" Area="3" TaskType="7" TaskNum="1" Reward="7620100,1500|7640101,1" Sort="1"/>
+	<TheseusPvpRewardTmpl Id="30002" Name="2nd place" Area="3" TaskType="7" TaskNum="2" Reward="7620100,1200|7640102,1" Sort="2"/>
+	<TheseusPvpRewardTmpl Id="30003" Name="3rd place" Area="3" TaskType="7" TaskNum="3" Reward="7620100,1000|7640103,1" Sort="3"/>
+	<TheseusPvpRewardTmpl Id="30004" Name="4th - 10th" Area="3" TaskType="7" TaskNum="4,10" Reward="7620100,500" Sort="4"/>
+	<TheseusPvpRewardTmpl Id="30005" Name="11th - 20th" Area="3" TaskType="7" TaskNum="11,20" Reward="7620100,400" Sort="5"/>
+	<TheseusPvpRewardTmpl Id="30006" Name="21st - 50th" Area="3" TaskType="7" TaskNum="21,50" Reward="7620100,300" Sort="6"/>
+	<TheseusPvpRewardTmpl Id="30007" Name="51st - 999th" Area="3" TaskType="7" TaskNum="51,9999" Reward="7620100,200" Sort="7"/>
+</TheseusPvpRewardTmpls>
