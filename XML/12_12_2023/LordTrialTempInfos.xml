@@ -13,8 +13,8 @@
 	<LordTrialDropInfo id="14900901" para1="2" para2="6,9" itemId="212018" count="10" isBind="1" appearType="1" validDate="0"/>
 	<LordTrialDropInfo id="14901002" para1="0" para2="10" itemId="212015" count="5" isBind="1" appearType="1" validDate="0"/>
 	<LordTrialDropInfo id="14901001" para1="0" para2="10" itemId="212018" count="8" isBind="1" appearType="1" validDate="0"/>
-	<LordTrialDropInfo id="14901102" para1="1" para2="10" itemId="212016" count="3" isBind="1" appearType="1" validDate="0"/>
 	<LordTrialDropInfo id="14901101" para1="1" para2="10" itemId="212018" count="10" isBind="1" appearType="1" validDate="0"/>
+	<LordTrialDropInfo id="14901102" para1="1" para2="10" itemId="212016" count="3" isBind="1" appearType="1" validDate="0"/>
 	<LordTrialDropInfo id="14901202" para1="2" para2="10" itemId="212017" count="1" isBind="1" appearType="1" validDate="0"/>
 	<LordTrialDropInfo id="14901201" para1="2" para2="10" itemId="212018" count="12" isBind="1" appearType="1" validDate="0"/>
 	<LordTrialDropInfo id="14901301" para1="0" para2="11,14" itemId="212018" count="8" isBind="1" appearType="1" validDate="0"/>
@@ -24,8 +24,8 @@
 	<LordTrialDropInfo id="14901601" para1="0" para2="15" itemId="212018" count="10" isBind="1" appearType="1" validDate="0"/>
 	<LordTrialDropInfo id="14901702" para1="1" para2="15" itemId="212016" count="3" isBind="1" appearType="1" validDate="0"/>
 	<LordTrialDropInfo id="14901701" para1="1" para2="15" itemId="212018" count="12" isBind="1" appearType="1" validDate="0"/>
-	<LordTrialDropInfo id="14901802" para1="2" para2="15" itemId="212017" count="1" isBind="1" appearType="1" validDate="0"/>
 	<LordTrialDropInfo id="14901801" para1="2" para2="15" itemId="212018" count="15" isBind="1" appearType="1" validDate="0"/>
+	<LordTrialDropInfo id="14901802" para1="2" para2="15" itemId="212017" count="1" isBind="1" appearType="1" validDate="0"/>
 	<LordTrialDropInfo id="14901901" para1="0" para2="16,19" itemId="212018" count="10" isBind="1" appearType="1" validDate="0"/>
 	<LordTrialDropInfo id="14902001" para1="1" para2="16,19" itemId="212018" count="12" isBind="1" appearType="1" validDate="0"/>
 	<LordTrialDropInfo id="14902101" para1="2" para2="16,19" itemId="212018" count="15" isBind="1" appearType="1" validDate="0"/>
@@ -57,8 +57,8 @@
 	<LordTrialDropInfo id="14903701" para1="100" para2="1,10" itemId="212018" count="50" isBind="1" appearType="1" validDate="0"/>
 	<LordTrialDropInfo id="14903802" para1="101" para2="1,10" itemId="212018" count="100" isBind="1" appearType="1" validDate="0"/>
 	<LordTrialDropInfo id="14903801" para1="101" para2="1,10" itemId="212016" count="10" isBind="1" appearType="1" validDate="0"/>
-	<LordTrialDropInfo id="14903901" para1="102" para2="1,10" itemId="212018" count="150" isBind="1" appearType="1" validDate="0"/>
 	<LordTrialDropInfo id="14903902" para1="102" para2="1,10" itemId="212017" count="5" isBind="1" appearType="1" validDate="0"/>
+	<LordTrialDropInfo id="14903901" para1="102" para2="1,10" itemId="212018" count="150" isBind="1" appearType="1" validDate="0"/>
 	<LordTrialDropInfo id="14904002" para1="100" para2="11,20" itemId="212015" count="15" isBind="1" appearType="1" validDate="0"/>
 	<LordTrialDropInfo id="14904001" para1="100" para2="11,20" itemId="212018" count="30" isBind="1" appearType="1" validDate="0"/>
 	<LordTrialDropInfo id="14904102" para1="101" para2="11,20" itemId="212016" count="8" isBind="1" appearType="1" validDate="0"/>
