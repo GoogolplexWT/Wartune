@@ -1,5 +1,5 @@
 # Wartune
-Information that the game should've given to its player base, yet didn't (because they're a$$holes)
+[Information that the game should've given to its player base, yet didn't (because they're a$$holes)](https://youtu.be/msumWLbq1Dk)
 
 ## XML files
 There are directly dumped from the game memory, while on some I've added descriptive comments
