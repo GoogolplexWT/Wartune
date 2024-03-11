@@ -159,3 +159,4 @@ E.g. morals that 'the weak' needs to have perks, hence (even) those that pretend
 9. Indeed, he responds with more willful ignorance + self-reflection + more attempts to rewrite his invalid initial statement: https://www.youtube.com/watch?v=2QFJLszvDwg&lc=Ugwd2NYdGOu-1lXlWtF4AaABAg.A0lrV9ye_DcA0p0J2NUtrv
 10. My final response: https://www.youtube.com/watch?v=2QFJLszvDwg&lc=Ugwd2NYdGOu-1lXlWtF4AaABAg.A0lrV9ye_DcA0p7l18iZ2H
 11. The bonus content: https://www.youtube.com/watch?v=2QFJLszvDwg&lc=Ugwd2NYdGOu-1lXlWtF4AaABAg.A0lrV9ye_DcA0oj2jWY5ss
+
