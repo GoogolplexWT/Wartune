@@ -117,12 +117,12 @@ Using this tactic, the guy has essentially attempted to fully dodge/neglect the 
 > **Hence by his alleged logic:** *"If former said thing were dodged, then 'surely' those factual-supportive arguments (which are 1 linguistic & conceptual step further) wouldn't need to be refuted to claim myself non-willful ignorant, right?!?!"*
 
 #### Wrong!!
-![p2_start](screens/Topic1_4.PNG)
+![p2_end](screens/Topic1_4.PNG)
 **Because** I had yet to gather the proof that the typical willful ignorance discussion is never-ending, so again I had to subject myself to...
 1. Blatantly point out the fact that he's committing to said weasely non-arguments *(with objective support-arguments against nothingness.)*
 2. Add insult to injury by (re-)affirming the fact that his most-recent arguments (by themselves) aren't wrong, but non-substantial to refute my declaration of him committing to willful ignorance.
 
-![p2_start](screens/Topic1_5.PNG)
+![p3_and_so_on](screens/Topic1_5.PNG)
 **Of course!** The only way he could respond is via <ins>even more</ins> willful ignorance.<br>
 As if my previous comment wasn't obvious enough, *in exposing him for stating 'new aspects' that are off-topic to the branced sub-topic we were in*, he'd **obviously** feel the urge to continue the shameless segue-narrative.
 
