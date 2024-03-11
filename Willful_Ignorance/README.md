@@ -104,7 +104,7 @@ Seeing that I've gathered enough pointless back-and-forth comments, it became ti
 2. (optionally) add insult to injury, as a reward for spending precious milliseconds on someone that despicable.
 
 You can read the bonus content if you want, but it doesn't really have any substance to it. (You can skip to the next section.)
-![p1_end](screens/Topic1_666.PNG)
+![p1_bonus](screens/Topic1_666.PNG)
 
 ### Phase 2 - The much-expected cycle of lunacy (Important!!!)
 ![p2_start](screens/Topic1_3.PNG)
