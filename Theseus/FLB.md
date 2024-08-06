@@ -5,8 +5,6 @@ Missing:
 - C1
 - C3
 - Azzar
-- Gau
-- Say (Had bad footage due to effect icons)
 - Baha (Want to survive 'till OTK)
 
 ## Normal
@@ -22,6 +20,35 @@ Missing:
 6. **Invisible Strike**: 1 hitsplat `~2.25DMG`
 
 ## Hero
+
+### Lakras (player 1st; OTK:13)
+1. **Chaos Mark**: 1 hitsplat<br>
+*Enemy debuff: Applies Chaos, lasts 2 turns, cannot be removed!*
+2. **Nerf Mark**: 1 hitsplat<br>
+*Enemy debuff: DMG taken +20%, lasts 1K turns.*
+3. **Massive Pain**: 1 hitsplat `~4DMG`<br>
+*Enemy debuff: Applies Chaos, lasts 2 turns, cannot be removed!*
+4. **Chaos Mark**: 1 hitsplat<br>
+*Enemy debuff: Applies Chaos, lasts 2 turns, cannot be removed!*
+5. **Chaos Mark**: 1 hitsplat<br>
+*Enemy debuff: Applies Chaos, lasts 2 turns, cannot be removed!*
+6. **Massive Pain**: 1 hitsplat `~4DMG`
+
+### Tree Monster Zukin (boss 1st; OTK:13)
+1. **Tree Arm**: 1 hitsplat
+2. **Ground Root**: 1 hitsplat
+3. **Tree Arm**: 1 hitsplat
+4. **Tree Arm**: 1 hitsplat
+5. **Arm Swing**: 1 hitsplat<br>
+*Enemy debuff: Applies 2K Bleed, lasts 5 turns, stackable to 5.*
+6. **Tree Arm**: 1 hitsplat
+7. **Arm Swing**: 1 hitsplat<br>
+*Enemy debuff: Applies 2K Bleed, lasts 5 turns, stackable to 5.*
+8. **Tree Arm**: 1 hitsplat
+9. **Tree Arm**: 1 hitsplat
+10. **Arm Swing**: 1 hitsplat<br>
+*Enemy debuff: Applies 2K Bleed, lasts 5 turns, stackable to 5.*
+<br>-- OTK after **Ground Root** --
 
 ### Kazlorol (player 1st; OTK:13)
 1. **Flail Swing**: 2 hitsplats
@@ -134,11 +161,33 @@ Missing:
 6. Shadow Swipe: 1 hitsplat `~0.5DMG`<br>
 *Self-buff: All Elemental RES +300, lasts 2 turns.*
 
-### Gauguin (player 1st; OTK:?)
-...
+### Gauguin (player 1st; OTK:13)
+1. **Lava Explosion**: 1 hitsplat<br>
+*Enemy debuff: -100 Fire RES, lasts 3 turns.*
+2. **Ground Slam + Bleed**: 1 hitsplat<br>
+*Enemy debuff: 3% Bleed, lasts 3 turns.*
+3. **Fiery Claw**: 1 hitsplat
+4. **Fiery Claw + Reflect**: 1 hitsplat<br>
+*Self-buff: Reflect 30% of DMG taken, lasts 3 turns.*
+5. **Nothing**: 0 hitsplat
+6. **Fiery Claw**: 1 hitsplat
+7. **Ground Slam**: 1 hitsplat
+8. **DMG Buff**: 0 hitsplat<br>
+*Self-buff: DMG dealt +100%, lasts 3 turns.*
+<br>-- OTK after **Fiery Claw + Reflect** --
 
-### Saydi ()
-...
+### Saydi (player 1st; OTK:13)
+1. **Thunder Blade + buff**: 1 hitsplat<br>
+*Self-buff: DMG dealt +10%, lasts 2 turns.*
+2. **Flash Storm**: 1 hitsplat<br>
+*Enemy debuff: DMG dealt -15%, lasts 3 turns.*
+3. **Thunder Blade**: 1 hitsplat
+4. **Thunder Blade**: 1 hitsplat
+5. **DMG Buff**: 0 hitsplat<br>
+*Self-buff: DMG dealt +100%, lasts 3 turns.*
+6. **Thunder Blade**: 1 hitsplat
+7. **Thunder Blade**: 1 hitsplat
+<br>-- OTK after **DMG Buff** --
 
 ### Bragi (player 1st; OTK:13)
 1. **Light Arrows**: 3 hitsplats<br>
