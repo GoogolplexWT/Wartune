@@ -6,7 +6,7 @@
 ### [Janale] (player 1st; OTK:6)
 1. **Auto Attack**: 1 hitsplat
 
-### [King Haraz] (player 1st; OTK:13)
+### [King Haraz] (player 1st; OTK:13; DEF≈-2K)
 1. **Slasher**: 1 hitsplat
 2. **Invisible Strike**: 1 hitsplat `~2.25DMG`
 3. **Slasher**: 1 hitsplat
@@ -71,7 +71,7 @@
 2. **Mouth Beam**: 1 hitsplat
 3. **Explosion**: 1 hitsplat
 
-### [Kazlorol] (player 1st; OTK:13; DEF≈-1.2K)
+### [Kazlorol] (player 1st; OTK:13; DEF≈1.2K)
 1. **Flail Swing**: 2 hitsplats
 2. **Flail Slam**: 1 hitsplat
 3. **Flail Slam**: 1 hitsplat
@@ -166,7 +166,7 @@
 
 ## Forbidden Abyss
 
-### [Aibolamu] (player 1st; OTK:9)
+### [Aibolamu] (player 1st; OTK:9; DEF≈6.7K)
 1. **Thunder Wave**: 1 hitsplat
 2. **Thunder Wave**: 1 hitsplat
 3. **Flash Storm**: 1 hitsplat
@@ -200,7 +200,7 @@
 6. Shadow Swipe: 1 hitsplat `~0.5DMG`<br>
 *Self-buff: All Elemental RES +300, lasts 2 turns.*
 
-### [Gauguin] (player 1st; OTK:13)
+### [Gauguin] (player 1st; OTK:13; DEF≈8.1K)
 1. **Lava Explosion**: 1 hitsplat<br>
 *Enemy debuff: -100 Fire RES, lasts 3 turns.*
 2. **Ground Slam + Bleed**: 1 hitsplat<br>
@@ -272,13 +272,13 @@
 10. **Nothing**: 0 hitsplat `might be quicker`
 <br>-- OTK after 2nd **Piercing Strike** --
 
-### [Clander] (player 1st; OTK:13)
+### [Clander] (player 1st; OTK:13; DEF≈16.5K)
 1. **Goliath Smash**: 1 hitsplat
 2. **Whirlwind Spin**: 3 hitsplats `3x ~0.45DMG`<br>
 *Enemy buff: Increases cast speed by 25%, lasts 15 turns, stackable to 6.*
 3. **Goliath Smash**: 1 hitsplat
 
-### [Minotaur] (player 1st; OTK:13)
+### [Minotaur] (player 1st; OTK:13; DEF≈20.8K)
 1. **Axe Swing**: 1 hitsplat
 2. **Axe Swing**: 1 hitsplat
 3. **Double Axe**: 2 hitsplats `2x ~0.65DMG`
