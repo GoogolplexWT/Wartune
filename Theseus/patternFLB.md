@@ -133,7 +133,7 @@ Abyss hour bosses left to bleed check:
 *(Enemy debuff: Randomly locks up to 4 skills, lasts 5 turns, **cannot be removed!**)*
 <br>-- OTK after **Tornado** --
 
-### [Velez] (player 1st; OTK:13)
+### [Velez] (player 1st; OTK:13; DEF≈4.28K)
 1. **Cross Slam**: 1 hitsplat<br>
 *Enemy debuff: 5% Bleed, stackable to 10, lasts 50 turns.*
 2. **Cross Slam**: 1 hitsplat<br>
