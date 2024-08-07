@@ -172,7 +172,7 @@
 3. **Flash Storm**: 1 hitsplat
 <br>-- OTK after 2nd **Thunder Wave** --
 
-### Azzar (; OTK:?)
+### Azzar (boss 1st?; OTK:13)
 1. **Dark Claws**: 2 hitsplats
 2. **Smash**: 1 hitsplat<br>
 *Enemy debuff: 3K Bleed, lasts 5 turns, stackable to 5.*
@@ -187,6 +187,7 @@
 9. **Dark Claws**: 2 hitsplats
 10. **Smash**: 1 hitsplat<br>
 *Enemy debuff: 3K Bleed, lasts 5 turns, stackable to 5.*
+<br>-- OTK after 1st **Smash** --
 
 ### Nevermore (player 1st; OTK:13)
 1. **Scythe Swing Stab**: 1 hitsplat *(vague animation from Final Reaper)*<br>
