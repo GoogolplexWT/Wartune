@@ -2,10 +2,8 @@
 > Or at least whenever I get to doing them all
 
 Missing:
-- C1
 - C3
 - Azzar
-- Baha (Want to survive 'till OTK)
 
 ## Normal
 
@@ -128,8 +126,10 @@ Missing:
 
 ## Cave
 
-### Karegos (player 1st; OTK:?)
-...
+### Karegos (player 1st; OTK:13)
+1. **Purple Piercing**: 1 hitsplat
+2. **Chaos Lightning**: 1 hitsplat `~1.33DMG`<br>
+*Enemy debuff: 2,5K Bleed, lasts 2 turns.*
 
 ### Brutalus (boss 1st; OTK:13)
 1. **Fiery Swipe**: 1 hitsplat
@@ -200,8 +200,15 @@ Missing:
 6. **Rear Ray**: 1 hitsplat<br>
 *Self-buff: All Elemental RES +300, lasts 3 turns.*
 
-### Bahamut ()
-...
+### Bahamut (player 1st; OTK:13)
+1. **Ground Slash**: 1 hitsplat
+2. **Invisible Strike**: 1 hitsplat `~2.75DMG`
+3. **Ground Slash**: 1 hitsplat
+4. **Invisible Strike**: 1 hitsplat `~2.75DMG`
+5. **Dragon Breath**: 3 hitsplats `3x ~250DMG`<br>
+*Enemy debuff: -40% PDEF, lasts 3 turns.*<br>
+*Enemy debuff: (>50% RNG) 6M Bleed, lasts 'up to 5 turns. Status removes itself upon resolving Bleed effect once.*
+6. **Invisible Strike**: 1 hitsplat `~2.75DMG`
 
 ### Cyclopes (player 1st; OTK:13)
 1. **Eye Glow**: 1 hitsplat
