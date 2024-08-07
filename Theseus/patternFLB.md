@@ -7,6 +7,9 @@ Missing:
 
 ## Normal
 
+### Janale (player 1st; OTK:6)
+1. **Auto Attack**: 1 hitsplat
+
 ### King Haraz (player 1st; OTK:13)
 1. **Slasher**: 1 hitsplat
 2. **Invisible Strike**: 1 hitsplat `~2.25DMG`
@@ -47,6 +50,14 @@ Missing:
 10. **Arm Swing**: 1 hitsplat<br>
 *Enemy debuff: Applies 2K Bleed, lasts 5 turns, stackable to 5.*
 <br>-- OTK after **Ground Root** --
+
+### Rekki (player 1st; OTK:13)
+1. **Lava whip**: 1 hitsplat
+
+### Anacaino (player 1st; OTK:9)
+1. **Mouth Beam**: 1 hitsplat
+2. **Mouth Beam**: 1 hitsplat
+3. **Explosion**: 1 hitsplat
 
 ### Kazlorol (player 1st; OTK:13)
 1. **Flail Swing**: 2 hitsplats
@@ -147,7 +158,7 @@ Missing:
 3. **Flash Storm**: 1 hitsplat
 <br>-- OTK after 2nd **Thunder Wave** --
 
-### Azzar ()
+### Azzar (; OTK:?)
 ...
 
 ### Nevermore (player 1st; OTK:13)
