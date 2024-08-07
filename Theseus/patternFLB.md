@@ -3,10 +3,10 @@
 
 ## Normal
 
-### Janale (player 1st; OTK:6)
+### [Janale] (player 1st; OTK:6)
 1. **Auto Attack**: 1 hitsplat
 
-### King Haraz (player 1st; OTK:13)
+### [King Haraz] (player 1st; OTK:13)
 1. **Slasher**: 1 hitsplat
 2. **Invisible Strike**: 1 hitsplat `~2.25DMG`
 3. **Slasher**: 1 hitsplat
@@ -18,7 +18,7 @@
 
 ## Hero
 
-### Lakras (player 1st; OTK:13)
+### [Lakras] (player 1st; OTK:13; DEF≈-1.8K)
 1. **Chaos Mark**: 1 hitsplat<br>
 *Enemy debuff: Applies Chaos, lasts 2 turns, cannot be removed!*
 2. **Nerf Mark**: 1 hitsplat<br>
@@ -31,7 +31,7 @@
 *Enemy debuff: Applies Chaos, lasts 2 turns, cannot be removed!*
 6. **Massive Pain**: 1 hitsplat `~4DMG`
 
-### Tree Monster Zukin (boss 1st; OTK:13)
+### [Tree Monster Zukin] (boss 1st; OTK:13; DEF≈-1.58K)
 1. **Tree Arm**: 1 hitsplat
 2. **Ground Root**: 1 hitsplat
 3. **Tree Arm**: 1 hitsplat
@@ -47,31 +47,31 @@
 *Enemy debuff: Applies 2K Bleed, lasts 5 turns, stackable to 5.*
 <br>-- OTK after **Ground Root** --
 
-### Lucas (boss 1st; OTK:13)
+### [Lucas] (boss 1st; OTK:13; DEF≈-1.35K)
 1. **Punch**: 1 hitsplat
 2. **Purple Blast**: 2 hitsplats `2x ~0.4DMG`
 3. **DMG Buff**: 0 hitsplat<br>
 *Self-buff: DMG dealt +20%, lasts 3 turns.*
 
-### Karaseth (boss 1st; OTK:13)
+### [Karaseth] (boss 1st; OTK:13; DEF≈-1.1K)
 1. **Lava Palm**: 1 hitsplat
 2. **Lava Slam**: 1 hitsplat `~1.5DMG`
 3. **Lava Slam**: 1 hitsplat `~1.5DMG`
 
-### Morogre (player 1st; OTK:13)
+### [Morogre] (player 1st; OTK:13; DEF≈-883)
 1. **Headbang**: 1 hitsplat
 2. **Headbang**: 1 hitsplat
 3. **Explosion**: 1 hitsplat
 
-### Rekki (player 1st; OTK:13)
+### [Rekki] (player 1st; OTK:13; DEF≈650)
 1. **Lava whip**: 1 hitsplat
 
-### Anacaino (player 1st; OTK:9)
+### [Anacaino] (player 1st; OTK:9; DEF≈814)
 1. **Mouth Beam**: 1 hitsplat
 2. **Mouth Beam**: 1 hitsplat
 3. **Explosion**: 1 hitsplat
 
-### Kazlorol (player 1st; OTK:13)
+### [Kazlorol] (player 1st; OTK:13; DEF≈-1.2K)
 1. **Flail Swing**: 2 hitsplats
 2. **Flail Slam**: 1 hitsplat
 3. **Flail Slam**: 1 hitsplat
@@ -85,34 +85,34 @@
 
 ## Nightmare
 
-### Azgalo (boss 1st; OTK:13)
+### [Azgalo] (boss 1st; OTK:13)
 1. **Scythe swipe**: 3 hitsplats
 2. **Skull-Deto**: 3 hitsplats<br>
-*Enemy debuff: (RNG) -40% PDEF, lasts 3 turns.*
+*Enemy debuff:] (RNG) -40% PDEF, lasts 3 turns.*
 3. **Scythe Swipe**: 3 hitsplats
 4. **Nerf Strike**: 1 hitsplat<br>
 *Enemy debuff: Reduces cast speed by 100%, e.g. twice as long, lasts 2 turns.*
 5. **Scythe Swipe**: 3 hitsplats
 6. **Blood Strike**: 1 hitsplat<br>
-*Enemy debuff: (RNG?) 1K Bleed, lasts 3 turns.*
+*Enemy debuff:] (RNG?) 1K Bleed, lasts 3 turns.*
 
-### Acklena (boss 1st; OTK:13)
+### [Acklena] (boss 1st; OTK:13)
 1. **Electric Shard**: 1 hitsplat
 2. **Electric Shards**: 2 hitsplats `~2x 1.5DMG`
 3. **Electric Swipe**: 1 hitsplat
 4. **Electric Shard**: 1 hitsplat
 
-### Garcillo (player 1st; OTK:13)
+### [Garcillo] (player 1st; OTK:13; DEF≈2.35K)
 1. **Twin Tornado**: 2 hitsplats<br>
 *Enemy debuff: Reduces DMG dealt by 5%, last 10 turns, stackable to 18.*
 2. **Tornado**: 1 hitsplat
 3. **Wind Shot**: 1 hitsplat
 4. **Twin Tornado**: 2 hitsplats `~1.2DMG`<br>
-*Enemy debuff: (RNG?) Reduces cast speed by 100%, e.g. twice as long, lasts 2 turns.*
+*Enemy debuff:] (RNG?) Reduces cast speed by 100%, e.g. twice as long, lasts 2 turns.*
 5. **Tornado**: 1 hitsplat
 <br>-- OTK after **Tornado** --
 
-### Selger (player 1st; OTK:13)
+### [Selger] (player 1st; OTK:13; DEF≈2.35K)
 1. **Breeze Blade**: 1 hitsplat
 2. **Tornado**: 2 hitsplats
 3. **Amnesia Windblade**: 2 hitsplats<br>
@@ -124,7 +124,7 @@
 *(Enemy debuff: Randomly locks up to 4 skills, lasts 5 turns, **cannot be removed!**)*
 <br>-- OTK after **Tornado** --
 
-### Velez (player 1st; OTK:13)
+### [Velez] (player 1st; OTK:13)
 1. **Cross Slam**: 1 hitsplat<br>
 *Enemy debuff: 5% Bleed, stackable to 10, lasts 50 turns.*
 2. **Cross Slam**: 1 hitsplat<br>
@@ -138,7 +138,7 @@
 6. **Endless Engulf**: 2 hitsplats<br>
 *Enemy debuff: 5% Bleed, stackable to 10, lasts 50 turns.*
 
-### Krach (boss 1st; OTK:13)
+### [Krach] (boss 1st; OTK:13; DEF≈4.8K)
 1. **Piercing Lance**: 1 hitsplat
 2. **Magic Buff**: 0 hitsplats<br>
 *Self-buff: MATK +15%, lasts 3 turns.*
@@ -149,30 +149,30 @@
 
 ## Forbidden Cave
 
-### Karegos (player 1st; OTK:13)
+### [Karegos] (player 1st; OTK:13; DEF≈5.35K)
 1. **Purple Piercing**: 1 hitsplat
 2. **Chaos Lightning**: 1 hitsplat `~1.33DMG`<br>
 *Enemy debuff: 2,5K Bleed, lasts 2 turns.*
 
-### Brutalus (boss 1st; OTK:13)
+### [Brutalus] (boss 1st; OTK:13)
 1. **Fiery Swipe**: 1 hitsplat
 2. **Fiery Swipe**: 1 hitsplat
 3. **Fiery Whirl**: 1 hitsplat `~1.15DMG`
 
-### Kuros (player 1st; OTK:?)
+### [Kuros] (player 1st; OTK:13; DEF≈7.4K)
 1. **Goliath Smash**: 1 hitsplat
 2. **Goliath Smash**: 1 hitsplat
 3. **Whirlwind Spin**: 3 hitsplats `3x ~0.25DMG`
 
 ## Forbidden Abyss
 
-### Aibolamu (player 1st; OTK:9)
+### [Aibolamu] (player 1st; OTK:9)
 1. **Thunder Wave**: 1 hitsplat
 2. **Thunder Wave**: 1 hitsplat
 3. **Flash Storm**: 1 hitsplat
 <br>-- OTK after 2nd **Thunder Wave** --
 
-### Azzar (boss 1st?; OTK:13)
+### [Azzar] (boss 1st; OTK:13; DEF≈7.4K)
 1. **Dark Claws**: 2 hitsplats
 2. **Smash**: 1 hitsplat<br>
 *Enemy debuff: 3K Bleed, lasts 5 turns, stackable to 5.*
@@ -189,7 +189,7 @@
 *Enemy debuff: 3K Bleed, lasts 5 turns, stackable to 5.*
 <br>-- OTK after 1st **Smash** --
 
-### Nevermore (player 1st; OTK:13)
+### [Nevermore] (player 1st; OTK:13)
 1. **Scythe Swing Stab**: 1 hitsplat *(vague animation from Final Reaper)*<br>
 *Self-buff: DMG dealt +10%, lasts 4 turns, stackable to 10.*
 2. Invisible Strikes: 3 hitsplats `3x ~1/3DMG`
@@ -200,7 +200,7 @@
 6. Shadow Swipe: 1 hitsplat `~0.5DMG`<br>
 *Self-buff: All Elemental RES +300, lasts 2 turns.*
 
-### Gauguin (player 1st; OTK:13)
+### [Gauguin] (player 1st; OTK:13)
 1. **Lava Explosion**: 1 hitsplat<br>
 *Enemy debuff: -100 Fire RES, lasts 3 turns.*
 2. **Ground Slam + Bleed**: 1 hitsplat<br>
@@ -215,7 +215,7 @@
 *Self-buff: DMG dealt +100%, lasts 3 turns.*
 <br>-- OTK after **Fiery Claw + Reflect** --
 
-### Saydi (player 1st; OTK:13)
+### [Saydi] (player 1st; OTK:13)
 1. **Thunder Blade + buff**: 1 hitsplat<br>
 *Self-buff: DMG dealt +10%, lasts 2 turns.*
 2. **Flash Storm**: 1 hitsplat<br>
@@ -228,7 +228,7 @@
 7. **Thunder Blade**: 1 hitsplat
 <br>-- OTK after **DMG Buff** --
 
-### Bragi (player 1st; OTK:13)
+### [Bragi] (player 1st; OTK:13)
 1. **Light Arrows**: 3 hitsplats<br>
 *Enemy debuff: DMG dealt -15%, lasts 3 turns.*
 2. **Light Beam**: 1 hitsplat<br>
@@ -239,17 +239,17 @@
 6. **Rear Ray**: 1 hitsplat<br>
 *Self-buff: All Elemental RES +300, lasts 3 turns.*
 
-### Bahamut (player 1st; OTK:13)
+### [Bahamut] (player 1st; OTK:13)
 1. **Ground Slash**: 1 hitsplat
 2. **Invisible Strike**: 1 hitsplat `~2.75DMG`
 3. **Ground Slash**: 1 hitsplat
 4. **Invisible Strike**: 1 hitsplat `~2.75DMG`
 5. **Dragon Breath**: 3 hitsplats `3x ~250DMG`<br>
 *Enemy debuff: -40% PDEF, lasts 3 turns.*<br>
-*Enemy debuff: (>50% RNG) 6M Bleed, lasts 'up to 5 turns. Status removes itself upon resolving Bleed effect once.*
+*Enemy debuff:] (>50% RNG) 6M Bleed, lasts 'up to 5 turns. Status removes itself upon resolving Bleed effect once.*
 6. **Invisible Strike**: 1 hitsplat `~2.75DMG`
 
-### Cyclopes (player 1st; OTK:13)
+### [Cyclopes] (player 1st; OTK:13)
 1. **Eye Glow**: 1 hitsplat
 2. **Triple Hit**: 3 hitsplats `3x ~1/3DMG`<br>
 *Enemy debuff: Reduces cast speed by 100%, lasts 5 turns.*
@@ -259,7 +259,7 @@
 3. **Eye Glow**: 1 hitsplat
 4. **Eye Beam**: 1 hitsplat `~2.5DMG`
 
-### Arthas (boss 1st; OTK:13)
+### [Arthas] (boss 1st; OTK:13)
 1. **Piercing Strike**: 1 hitsplat
 2. **Piercing Strike**: 1 hitsplat
 3. **Chaos Lightning**: 1 hitsplat
@@ -272,13 +272,13 @@
 10. **Nothing**: 0 hitsplat `might be quicker`
 <br>-- OTK after 2nd **Piercing Strike** --
 
-### Clander (player 1st; OTK:13)
+### [Clander] (player 1st; OTK:13)
 1. **Goliath Smash**: 1 hitsplat
 2. **Whirlwind Spin**: 3 hitsplats `3x ~0.45DMG`<br>
 *Enemy buff: Increases cast speed by 25%, lasts 15 turns, stackable to 6.*
 3. **Goliath Smash**: 1 hitsplat
 
-### Minotaur (player 1st; OTK:13)
+### [Minotaur] (player 1st; OTK:13)
 1. **Axe Swing**: 1 hitsplat
 2. **Axe Swing**: 1 hitsplat
 3. **Double Axe**: 2 hitsplats `2x ~0.65DMG`
@@ -290,14 +290,14 @@
 8. **Axe Swing**: 1 hitsplat
 <br>-- OTK after 3rd **Axe Swing** --
 
-### Thurside (player 1st; OTK:13)
+### [Thurside] (player 1st; OTK:13)
 1. **Spear Stab**: 1 hitsplat
 2. **Spear Stab**: 1 hitsplat
 3. **Quick-Protection**: 0 hitsplat `quicker than slow-cast`<br>
 *Self-buff: DMG received -30%, lasts 2 turns.*
 4. **Spear Stab**: 1 hitsplat
 
-### Pallasdine (boss 1st; OTK:13)
+### [Pallasdine] (boss 1st; OTK:13; DEF≈25.6K)
 1. **Slash**: 1 hitsplat
 2. **Slash**: 1 hitsplat
 3. **Blade Swipe**: 1 hitsplat `~1.4DMG`
@@ -308,7 +308,7 @@
 *Enemy debuff: Reduces cast speed by 50%, lasts 2 turns.*
 <br>-- OTK after 3rd **Slash** --
 
-### Laki (player 1st; OTK:13)
+### [Laki] (player 1st; OTK:13)
 1. **Tsunami**: 1 hitsplat `~0.8DMG`<br>
 *Enemy debuff: -40% MDEF, lasts 5 turns.*
 2. **Hydro Slam**: 1 hitsplat<br>
