@@ -51,6 +51,22 @@ Missing:
 *Enemy debuff: Applies 2K Bleed, lasts 5 turns, stackable to 5.*
 <br>-- OTK after **Ground Root** --
 
+### Lucas (boss 1st; OTK:13)
+1. **Punch**: 1 hitsplat
+2. **Purple Blast**: 2 hitsplats `2x ~0.4DMG`
+3. **DMG Buff**: 0 hitsplat<br>
+*Self-buff: DMG dealt +20%, lasts 3 turns.*
+
+### Karaseth (boss 1st; OTK:13)
+1. **Lava Palm**: 1 hitsplat
+2. **Lava Slam**: 1 hitsplat `~1.5DMG`
+3. **Lava Slam**: 1 hitsplat `~1.5DMG`
+
+### Morogre (player 1st; OTK:13)
+1. **Headbang**: 1 hitsplat
+2. **Headbang**: 1 hitsplat
+3. **Explosion**: 1 hitsplat
+
 ### Rekki (player 1st; OTK:13)
 1. **Lava whip**: 1 hitsplat
 
@@ -148,7 +164,9 @@ Missing:
 3. **Fiery Whirl**: 1 hitsplat `~1.15DMG`
 
 ### Kuros (player 1st; OTK:?)
-...
+1. **Goliath Smash**: 1 hitsplat
+2. **Goliath Smash**: 1 hitsplat
+3. **Whirlwind Spin**: 3 hitsplats `3x ~0.25DMG`
 
 ## Abyss
 
@@ -246,7 +264,7 @@ Missing:
 
 ### Clander (player 1st; OTK:13)
 1. **Goliath Smash**: 1 hitsplat
-2. Whirlwind Spin: 3 hitsplats `3x ~0.45DMG`<br>
+2. **Whirlwind Spin**: 3 hitsplats `3x ~0.45DMG`<br>
 *Enemy buff: Increases cast speed by 25%, lasts 15 turns, stackable to 6.*
 3. **Goliath Smash**: 1 hitsplat
 
