@@ -1,9 +1,5 @@
-# All boss patterns
-> Or at least whenever I get to doing them all
-
-Missing:
-- C3
-- Azzar
+# Forbidden Land Boss - Patterns
+> A pattern, OTK (One Turn Kill) turn number and whether the player or boss makes the 1st move.
 
 ## Normal
 
@@ -151,7 +147,7 @@ Missing:
 5. **Piercing Lance**: 1 hitsplat
 6. **Piercing Lance**: 1 hitsplat
 
-## Cave
+## Forbidden Cave
 
 ### Karegos (player 1st; OTK:13)
 1. **Purple Piercing**: 1 hitsplat
@@ -168,7 +164,7 @@ Missing:
 2. **Goliath Smash**: 1 hitsplat
 3. **Whirlwind Spin**: 3 hitsplats `3x ~0.25DMG`
 
-## Abyss
+## Forbidden Abyss
 
 ### Aibolamu (player 1st; OTK:9)
 1. **Thunder Wave**: 1 hitsplat
@@ -177,7 +173,20 @@ Missing:
 <br>-- OTK after 2nd **Thunder Wave** --
 
 ### Azzar (; OTK:?)
-...
+1. **Dark Claws**: 2 hitsplats
+2. **Smash**: 1 hitsplat<br>
+*Enemy debuff: 3K Bleed, lasts 5 turns, stackable to 5.*
+3. **Wind Cut**: 1 hitsplat
+4. **Dark Claws**: 2 hitsplats
+5. **Smash**: 1 hitsplat<br>
+*Enemy debuff: 3K Bleed, lasts 5 turns, stackable to 5.*
+6. **Whirlwind**: 3 hitsplats
+7. **Dark Claws**: 2 hitsplats
+8. **Smash**: 1 hitsplat<br>
+*Enemy debuff: 3K Bleed, lasts 5 turns, stackable to 5.*
+9. **Dark Claws**: 2 hitsplats
+10. **Smash**: 1 hitsplat<br>
+*Enemy debuff: 3K Bleed, lasts 5 turns, stackable to 5.*
 
 ### Nevermore (player 1st; OTK:13)
 1. **Scythe Swing Stab**: 1 hitsplat *(vague animation from Final Reaper)*<br>
