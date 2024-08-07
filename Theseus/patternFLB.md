@@ -94,18 +94,18 @@ Abyss hour bosses left to bleed check:
 
 ## Nightmare
 
-### [Azgalo] (boss 1st; OTK:13)
+### [Azgalo] (boss 1st; OTK:13; DEF≈1.58K)
 1. **Scythe swipe**: 3 hitsplats
 2. **Skull-Deto**: 3 hitsplats<br>
-*Enemy debuff:] (RNG) -40% PDEF, lasts 3 turns.*
+*Enemy debuff: (RNG) -40% PDEF, lasts 3 turns.*
 3. **Scythe Swipe**: 3 hitsplats
 4. **Nerf Strike**: 1 hitsplat<br>
 *Enemy debuff: Reduces cast speed by 100%, e.g. twice as long, lasts 2 turns.*
 5. **Scythe Swipe**: 3 hitsplats
 6. **Blood Strike**: 1 hitsplat<br>
-*Enemy debuff:] (RNG?) 1K Bleed, lasts 3 turns.*
+*Enemy debuff: (RNG?) 1K Bleed, lasts 3 turns.*
 
-### [Acklena] (boss 1st; OTK:13)
+### [Acklena] (boss 1st; OTK:13; DEF≈1.96K)
 1. **Electric Shard**: 1 hitsplat
 2. **Electric Shards**: 2 hitsplats `~2x 1.5DMG`
 3. **Electric Swipe**: 1 hitsplat
@@ -117,7 +117,7 @@ Abyss hour bosses left to bleed check:
 2. **Tornado**: 1 hitsplat
 3. **Wind Shot**: 1 hitsplat
 4. **Twin Tornado**: 2 hitsplats `~1.2DMG`<br>
-*Enemy debuff:] (RNG?) Reduces cast speed by 100%, e.g. twice as long, lasts 2 turns.*
+*Enemy debuff: (RNG?) Reduces cast speed by 100%, e.g. twice as long, lasts 2 turns.*
 5. **Tornado**: 1 hitsplat
 <br>-- OTK after **Tornado** --
 
@@ -255,7 +255,7 @@ Abyss hour bosses left to bleed check:
 4. **Invisible Strike**: 1 hitsplat `~2.75DMG`
 5. **Dragon Breath**: 3 hitsplats `3x ~250DMG`<br>
 *Enemy debuff: -40% PDEF, lasts 3 turns.*<br>
-*Enemy debuff:] (>50% RNG) 6M Bleed, lasts 'up to 5 turns. Status removes itself upon resolving Bleed effect once.*
+*Enemy debuff: (>50% RNG) 6M Bleed, lasts 'up to 5 turns. Status removes itself upon resolving Bleed effect once.*
 6. **Invisible Strike**: 1 hitsplat `~2.75DMG`
 
 ### [Cyclopes] (player 1st; OTK:13)
@@ -321,9 +321,9 @@ Abyss hour bosses left to bleed check:
 1. **Tsunami**: 1 hitsplat `~0.8DMG`<br>
 *Enemy debuff: -40% MDEF, lasts 5 turns.*
 2. **Hydro Slam**: 1 hitsplat<br>
-*(Enemy debuff: Randomly locks up to 4 skills, lasts 2 turns)*
+*Enemy debuff: Randomly locks up to 4 skills, lasts 2 turns*
 3. **Icicle Rain**: 1 hitsplat `~3DMG`
 4. **Hydro Slam**: 1 hitsplat<br>
-*(Enemy debuff: Randomly locks up to 4 skills, lasts 2 turns)*
+*Enemy debuff: Randomly locks up to 4 skills, lasts 2 turns*
 5. **Aqua Deto**: 1 hitsplat
 <br>-- OTK after 1st **Hydro Slam** --
