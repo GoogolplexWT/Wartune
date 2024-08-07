@@ -1,6 +1,15 @@
 # Forbidden Land Boss - Patterns
 > A pattern, OTK (One Turn Kill) turn number and whether the player or boss makes the 1st move.
 
+Abyss hour bosses left to bleed check:
+- C2
+- Bragi
+- Baha
+- Cyc
+- Art
+- Thur
+- Laki
+
 ## Normal
 
 ### [Janale] (player 1st; OTK:6)
@@ -189,7 +198,7 @@
 *Enemy debuff: 3K Bleed, lasts 5 turns, stackable to 5.*
 <br>-- OTK after 1st **Smash** --
 
-### [Nevermore] (player 1st; OTK:13)
+### [Nevermore] (player 1st; OTK:13; DEF≈8.1K)
 1. **Scythe Swing Stab**: 1 hitsplat *(vague animation from Final Reaper)*<br>
 *Self-buff: DMG dealt +10%, lasts 4 turns, stackable to 10.*
 2. Invisible Strikes: 3 hitsplats `3x ~1/3DMG`
@@ -215,7 +224,7 @@
 *Self-buff: DMG dealt +100%, lasts 3 turns.*
 <br>-- OTK after **Fiery Claw + Reflect** --
 
-### [Saydi] (player 1st; OTK:13)
+### [Saydi] (player 1st; OTK:13; DEF≈9.4K)
 1. **Thunder Blade + buff**: 1 hitsplat<br>
 *Self-buff: DMG dealt +10%, lasts 2 turns.*
 2. **Flash Storm**: 1 hitsplat<br>
