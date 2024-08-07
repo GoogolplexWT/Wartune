@@ -2,13 +2,9 @@
 > A pattern, OTK (One Turn Kill) turn number and whether the player or boss makes the 1st move.
 
 Abyss hour bosses left to bleed check:
-- C2
-- Bragi
+- Aib (not sure)
 - Baha
 - Cyc
-- Art
-- Thur
-- Laki
 
 ## Normal
 
@@ -163,7 +159,7 @@ Abyss hour bosses left to bleed check:
 2. **Chaos Lightning**: 1 hitsplat `~1.33DMG`<br>
 *Enemy debuff: 2,5K Bleed, lasts 2 turns.*
 
-### [Brutalus] (boss 1st; OTK:13)
+### [Brutalus] (boss 1st; OTK:13; DEF≈5.35K; HP≈19.4M)
 1. **Fiery Swipe**: 1 hitsplat
 2. **Fiery Swipe**: 1 hitsplat
 3. **Fiery Whirl**: 1 hitsplat `~1.15DMG`
@@ -175,7 +171,7 @@ Abyss hour bosses left to bleed check:
 
 ## Forbidden Abyss
 
-### [Aibolamu] (player 1st; OTK:9; DEF≈6.7K)
+### [Aibolamu] (player 1st; OTK:9; DEF≈6.7K?)
 1. **Thunder Wave**: 1 hitsplat
 2. **Thunder Wave**: 1 hitsplat
 3. **Flash Storm**: 1 hitsplat
@@ -237,7 +233,7 @@ Abyss hour bosses left to bleed check:
 7. **Thunder Blade**: 1 hitsplat
 <br>-- OTK after **DMG Buff** --
 
-### [Bragi] (player 1st; OTK:13)
+### [Bragi] (player 1st; OTK:13; DEF≈9.4K)
 1. **Light Arrows**: 3 hitsplats<br>
 *Enemy debuff: DMG dealt -15%, lasts 3 turns.*
 2. **Light Beam**: 1 hitsplat<br>
@@ -268,7 +264,7 @@ Abyss hour bosses left to bleed check:
 3. **Eye Glow**: 1 hitsplat
 4. **Eye Beam**: 1 hitsplat `~2.5DMG`
 
-### [Arthas] (boss 1st; OTK:13)
+### [Arthas] (boss 1st; OTK:13; DEF≈16.5K)
 1. **Piercing Strike**: 1 hitsplat
 2. **Piercing Strike**: 1 hitsplat
 3. **Chaos Lightning**: 1 hitsplat
@@ -299,7 +295,7 @@ Abyss hour bosses left to bleed check:
 8. **Axe Swing**: 1 hitsplat
 <br>-- OTK after 3rd **Axe Swing** --
 
-### [Thurside] (player 1st; OTK:13)
+### [Thurside] (player 1st; OTK:13; DEF≈20.8K)
 1. **Spear Stab**: 1 hitsplat
 2. **Spear Stab**: 1 hitsplat
 3. **Quick-Protection**: 0 hitsplat `quicker than slow-cast`<br>
@@ -317,7 +313,7 @@ Abyss hour bosses left to bleed check:
 *Enemy debuff: Reduces cast speed by 50%, lasts 2 turns.*
 <br>-- OTK after 3rd **Slash** --
 
-### [Laki] (player 1st; OTK:13)
+### [Laki] (player 1st; OTK:13; DEF≈25.6K)
 1. **Tsunami**: 1 hitsplat `~0.8DMG`<br>
 *Enemy debuff: -40% MDEF, lasts 5 turns.*
 2. **Hydro Slam**: 1 hitsplat<br>
