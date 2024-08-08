@@ -1,6 +1,21 @@
 # Forbidden Land Boss - Patterns
 > A pattern, OTK (One Turn Kill) turn number and whether the player or boss makes the 1st move.
 
+Bosses to HP check:
+- c1
+- c3
+- Aib
+- Azzar
+- Say
+- Bragi
+- Cyc
+- Art
+- Clan
+- Mino
+- Thur
+- Pall
+- Lakfi
+
 ## Normal
 
 ### [Janale] (player 1st; OTK:6)
@@ -47,26 +62,26 @@
 *Enemy debuff: Applies 2K Bleed, lasts 5 turns, stackable to 5.*
 <br>-- OTK after **Ground Root** --
 
-### [Lucas] (boss 1st; OTK:13; DEF≈-1.35K)
+### [Lucas] (boss 1st; OTK:13; DEF≈-1.35K; HP≈3.673M)
 1. **Punch**: 1 hitsplat
 2. **Purple Blast**: 2 hitsplats `2x ~0.4DMG`
 3. **DMG Buff**: 0 hitsplat<br>
 *Self-buff: DMG dealt +20%, lasts 3 turns.*
 
-### [Karaseth] (boss 1st; OTK:13; DEF≈-1.1K)
+### [Karaseth] (boss 1st; OTK:13; DEF≈-1.1K; HP≈4.859M)
 1. **Lava Palm**: 1 hitsplat
 2. **Lava Slam**: 1 hitsplat `~1.5DMG`
 3. **Lava Slam**: 1 hitsplat `~1.5DMG`
 
-### [Morogre] (player 1st; OTK:13; DEF≈-883)
+### [Morogre] (player 1st; OTK:13; DEF≈-883; HP≈5.131M)
 1. **Headbang**: 1 hitsplat
 2. **Headbang**: 1 hitsplat
 3. **Explosion**: 1 hitsplat
 
-### [Rekki] (player 1st; OTK:13; DEF≈650)
+### [Rekki] (player 1st; OTK:13; DEF≈650; HP≈5.4M)
 1. **Lava whip**: 1 hitsplat
 
-### [Anacaino] (player 1st; OTK:9; DEF≈814)
+### [Anacaino] (player 1st; OTK:9; DEF≈814; HP≈7.343M)
 1. **Mouth Beam**: 1 hitsplat
 2. **Mouth Beam**: 1 hitsplat
 3. **Explosion**: 1 hitsplat
@@ -85,7 +100,7 @@
 
 ## Nightmare
 
-### [Azgalo] (boss 1st; OTK:13; DEF≈1.58K)
+### [Azgalo] (boss 1st; OTK:13; DEF≈1.58K; HP≈9.920M)
 1. **Scythe swipe**: 3 hitsplats
 2. **Skull-Deto**: 3 hitsplats<br>
 *Enemy debuff: (RNG) -40% PDEF, lasts 3 turns.*
@@ -96,13 +111,13 @@
 6. **Blood Strike**: 1 hitsplat<br>
 *Enemy debuff: (RNG?) 1K Bleed, lasts 3 turns.*
 
-### [Acklena] (boss 1st; OTK:13; DEF≈1.96K)
+### [Acklena] (boss 1st; OTK:13; DEF≈1.96K; HP≈10.463M)
 1. **Electric Shard**: 1 hitsplat
 2. **Electric Shards**: 2 hitsplats `~2x 1.5DMG`
 3. **Electric Swipe**: 1 hitsplat
 4. **Electric Shard**: 1 hitsplat
 
-### [Garcillo] (player 1st; OTK:13; DEF≈2.35K)
+### [Garcillo] (player 1st; OTK:13; DEF≈2.35K; HP≈11M)
 1. **Twin Tornado**: 2 hitsplats<br>
 *Enemy debuff: Reduces DMG dealt by 5%, last 10 turns, stackable to 18.*
 2. **Tornado**: 1 hitsplat
@@ -112,7 +127,7 @@
 5. **Tornado**: 1 hitsplat
 <br>-- OTK after **Tornado** --
 
-### [Selger] (player 1st; OTK:13; DEF≈2.35K)
+### [Selger] (player 1st; OTK:13; DEF≈2.35K; HP≈11M)
 1. **Breeze Blade**: 1 hitsplat
 2. **Tornado**: 2 hitsplats
 3. **Amnesia Windblade**: 2 hitsplats<br>
@@ -124,7 +139,7 @@
 *(Enemy debuff: Randomly locks up to 4 skills, lasts 5 turns, **cannot be removed!**)*
 <br>-- OTK after **Tornado** --
 
-### [Velez] (player 1st; OTK:13; DEF≈4.28K)
+### [Velez] (player 1st; OTK:13; DEF≈4.28K; HP≈15M)
 1. **Cross Slam**: 1 hitsplat<br>
 *Enemy debuff: 5% Bleed, stackable to 10, lasts 50 turns.*
 2. **Cross Slam**: 1 hitsplat<br>
@@ -138,7 +153,7 @@
 6. **Endless Engulf**: 2 hitsplats<br>
 *Enemy debuff: 5% Bleed, stackable to 10, lasts 50 turns.*
 
-### [Krach] (boss 1st; OTK:13; DEF≈4.8K)
+### [Krach] (boss 1st; OTK:13; DEF≈4.8K; HP≈15.825M)
 1. **Piercing Lance**: 1 hitsplat
 2. **Magic Buff**: 0 hitsplats<br>
 *Self-buff: MATK +15%, lasts 3 turns.*
@@ -166,7 +181,7 @@
 
 ## Forbidden Abyss
 
-### [Aibolamu] (player 1st; OTK:9; DEF≈6.7K?)
+### [Aibolamu] (player 1st; OTK:9; DEF≈6.7K)
 1. **Thunder Wave**: 1 hitsplat
 2. **Thunder Wave**: 1 hitsplat
 3. **Flash Storm**: 1 hitsplat
@@ -308,7 +323,7 @@
 *Enemy debuff: Reduces cast speed by 50%, lasts 2 turns.*
 <br>-- OTK after 3rd **Slash** --
 
-### [Laki] (player 1st; OTK:13; DEF≈25.6K)
+### [Lakfi] (player 1st; OTK:13; DEF≈25.6K)
 1. **Tsunami**: 1 hitsplat `~0.8DMG`<br>
 *Enemy debuff: -40% MDEF, lasts 5 turns.*
 2. **Hydro Slam**: 1 hitsplat<br>
