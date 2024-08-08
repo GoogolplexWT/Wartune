@@ -23,7 +23,7 @@ Abyss hour bosses left to bleed check:
 
 ## Hero
 
-### [Lakras] (player 1st; OTK:13; DEF≈-1.8K)
+### [Lakras] (player 1st; OTK:13; DEF≈-1.8K; HP≈3.239M)
 1. **Chaos Mark**: 1 hitsplat<br>
 *Enemy debuff: Applies Chaos, lasts 2 turns, cannot be removed!*
 2. **Nerf Mark**: 1 hitsplat<br>
@@ -76,7 +76,7 @@ Abyss hour bosses left to bleed check:
 2. **Mouth Beam**: 1 hitsplat
 3. **Explosion**: 1 hitsplat
 
-### [Kazlorol] (player 1st; OTK:13; DEF≈1.2K)
+### [Kazlorol] (player 1st; OTK:13; DEF≈1.2K; HP≈7.804M)
 1. **Flail Swing**: 2 hitsplats
 2. **Flail Slam**: 1 hitsplat
 3. **Flail Slam**: 1 hitsplat
@@ -159,7 +159,7 @@ Abyss hour bosses left to bleed check:
 2. **Chaos Lightning**: 1 hitsplat `~1.33DMG`<br>
 *Enemy debuff: 2,5K Bleed, lasts 2 turns.*
 
-### [Brutalus] (boss 1st; OTK:13; DEF≈5.35K; HP≈19.4M)
+### [Brutalus] (boss 1st; OTK:13; DEF≈5.35K; HP≈19.404M)
 1. **Fiery Swipe**: 1 hitsplat
 2. **Fiery Swipe**: 1 hitsplat
 3. **Fiery Whirl**: 1 hitsplat `~1.15DMG`
