@@ -1,17 +1,12 @@
 # Forbidden Land Boss - Patterns
 > A pattern, OTK (One Turn Kill) turn number and whether the player or boss makes the 1st move.
 
-Abyss hour bosses left to bleed check:
-- Aib (not sure)
-- Baha
-- Cyc
-
 ## Normal
 
 ### [Janale] (player 1st; OTK:6)
 1. **Auto Attack**: 1 hitsplat
 
-### [King Haraz] (player 1st; OTK:13; DEF≈-2K)
+### [King Haraz] (player 1st; OTK:13; DEF≈-2K; HP≈968K)
 1. **Slasher**: 1 hitsplat
 2. **Invisible Strike**: 1 hitsplat `~2.25DMG`
 3. **Slasher**: 1 hitsplat
@@ -36,7 +31,7 @@ Abyss hour bosses left to bleed check:
 *Enemy debuff: Applies Chaos, lasts 2 turns, cannot be removed!*
 6. **Massive Pain**: 1 hitsplat `~4DMG`
 
-### [Tree Monster Zukin] (boss 1st; OTK:13; DEF≈-1.58K)
+### [Tree Monster Zukin] (boss 1st; OTK:13; DEF≈-1.58K; HP≈3.455M)
 1. **Tree Arm**: 1 hitsplat
 2. **Ground Root**: 1 hitsplat
 3. **Tree Arm**: 1 hitsplat
@@ -194,7 +189,7 @@ Abyss hour bosses left to bleed check:
 *Enemy debuff: 3K Bleed, lasts 5 turns, stackable to 5.*
 <br>-- OTK after 1st **Smash** --
 
-### [Nevermore] (player 1st; OTK:13; DEF≈8.1K)
+### [Nevermore] (player 1st; OTK:13; DEF≈8.1K; HP≈29.422M?)
 1. **Scythe Swing Stab**: 1 hitsplat *(vague animation from Final Reaper)*<br>
 *Self-buff: DMG dealt +10%, lasts 4 turns, stackable to 10.*
 2. Invisible Strikes: 3 hitsplats `3x ~1/3DMG`
@@ -205,7 +200,7 @@ Abyss hour bosses left to bleed check:
 6. Shadow Swipe: 1 hitsplat `~0.5DMG`<br>
 *Self-buff: All Elemental RES +300, lasts 2 turns.*
 
-### [Gauguin] (player 1st; OTK:13; DEF≈8.1K)
+### [Gauguin] (player 1st; OTK:13; DEF≈8.1K; HP≈25.990M)
 1. **Lava Explosion**: 1 hitsplat<br>
 *Enemy debuff: -100 Fire RES, lasts 3 turns.*
 2. **Ground Slam + Bleed**: 1 hitsplat<br>
@@ -244,7 +239,7 @@ Abyss hour bosses left to bleed check:
 6. **Rear Ray**: 1 hitsplat<br>
 *Self-buff: All Elemental RES +300, lasts 3 turns.*
 
-### [Bahamut] (player 1st; OTK:13)
+### [Bahamut] (player 1st; OTK:13; DEF≈9.26K; HP≈30.577K)
 1. **Ground Slash**: 1 hitsplat
 2. **Invisible Strike**: 1 hitsplat `~2.75DMG`
 3. **Ground Slash**: 1 hitsplat
@@ -254,7 +249,7 @@ Abyss hour bosses left to bleed check:
 *Enemy debuff: (>50% RNG) 6M Bleed, lasts 'up to 5 turns. Status removes itself upon resolving Bleed effect once.*
 6. **Invisible Strike**: 1 hitsplat `~2.75DMG`
 
-### [Cyclopes] (player 1st; OTK:13)
+### [Cyclopes] (player 1st; OTK:13; DEF≈11.09K)
 1. **Eye Glow**: 1 hitsplat
 2. **Triple Hit**: 3 hitsplats `3x ~1/3DMG`<br>
 *Enemy debuff: Reduces cast speed by 100%, lasts 5 turns.*
