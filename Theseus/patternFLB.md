@@ -3,18 +3,12 @@
 
 Bosses to HP check:
 - c1
-- c3
-- Aib
-- Azzar
-- Say
-- Bragi
-- Cyc
-- Art
-- Clan
-- Mino
 - Thur
-- Pall
 - Lakfi
+
+Bosses with huge error range:
+- Mino
+- Pall
 
 ## Normal
 
@@ -174,20 +168,20 @@ Bosses to HP check:
 2. **Fiery Swipe**: 1 hitsplat
 3. **Fiery Whirl**: 1 hitsplat `~1.15DMG`
 
-### [Kuros] (player 1st; OTK:13; DEF≈7.4K)
+### [Kuros] (player 1st; OTK:13; DEF≈7.4K; HP≈24.742M)
 1. **Goliath Smash**: 1 hitsplat
 2. **Goliath Smash**: 1 hitsplat
 3. **Whirlwind Spin**: 3 hitsplats `3x ~0.25DMG`
 
 ## Forbidden Abyss
 
-### [Aibolamu] (player 1st; OTK:9; DEF≈6.7K)
+### [Aibolamu] (player 1st; OTK:9; DEF≈6.7K; HP≈23.049M?)
 1. **Thunder Wave**: 1 hitsplat
 2. **Thunder Wave**: 1 hitsplat
 3. **Flash Storm**: 1 hitsplat
 <br>-- OTK after 2nd **Thunder Wave** --
 
-### [Azzar] (boss 1st; OTK:13; DEF≈7.4K)
+### [Azzar] (boss 1st; OTK:13; DEF≈7.4K; HP≈25.162M)
 1. **Dark Claws**: 2 hitsplats
 2. **Smash**: 1 hitsplat<br>
 *Enemy debuff: 3K Bleed, lasts 5 turns, stackable to 5.*
@@ -230,7 +224,7 @@ Bosses to HP check:
 *Self-buff: DMG dealt +100%, lasts 3 turns.*
 <br>-- OTK after **Fiery Claw + Reflect** --
 
-### [Saydi] (player 1st; OTK:13; DEF≈9.4K)
+### [Saydi] (player 1st; OTK:13; DEF≈9.4K; HP≈32.904M)
 1. **Thunder Blade + buff**: 1 hitsplat<br>
 *Self-buff: DMG dealt +10%, lasts 2 turns.*
 2. **Flash Storm**: 1 hitsplat<br>
@@ -243,7 +237,7 @@ Bosses to HP check:
 7. **Thunder Blade**: 1 hitsplat
 <br>-- OTK after **DMG Buff** --
 
-### [Bragi] (player 1st; OTK:13; DEF≈9.4K)
+### [Bragi] (player 1st; OTK:13; DEF≈9.4K; HP≈30.222M)
 1. **Light Arrows**: 3 hitsplats<br>
 *Enemy debuff: DMG dealt -15%, lasts 3 turns.*
 2. **Light Beam**: 1 hitsplat<br>
@@ -254,7 +248,7 @@ Bosses to HP check:
 6. **Rear Ray**: 1 hitsplat<br>
 *Self-buff: All Elemental RES +300, lasts 3 turns.*
 
-### [Bahamut] (player 1st; OTK:13; DEF≈9.26K; HP≈30.577K)
+### [Bahamut] (player 1st; OTK:13; DEF≈9.26K; HP≈30.577M)
 1. **Ground Slash**: 1 hitsplat
 2. **Invisible Strike**: 1 hitsplat `~2.75DMG`
 3. **Ground Slash**: 1 hitsplat
@@ -264,7 +258,7 @@ Bosses to HP check:
 *Enemy debuff: (>50% RNG) 6M Bleed, lasts 'up to 5 turns. Status removes itself upon resolving Bleed effect once.*
 6. **Invisible Strike**: 1 hitsplat `~2.75DMG`
 
-### [Cyclopes] (player 1st; OTK:13; DEF≈11.09K)
+### [Cyclopes] (player 1st; OTK:13; DEF≈11.09K; HP≈33.196M)
 1. **Eye Glow**: 1 hitsplat
 2. **Triple Hit**: 3 hitsplats `3x ~1/3DMG`<br>
 *Enemy debuff: Reduces cast speed by 100%, lasts 5 turns.*
@@ -274,7 +268,7 @@ Bosses to HP check:
 3. **Eye Glow**: 1 hitsplat
 4. **Eye Beam**: 1 hitsplat `~2.5DMG`
 
-### [Arthas] (boss 1st; OTK:13; DEF≈16.5K)
+### [Arthas] (boss 1st; OTK:13; DEF≈16.5K; HP≈37.697M)
 1. **Piercing Strike**: 1 hitsplat
 2. **Piercing Strike**: 1 hitsplat
 3. **Chaos Lightning**: 1 hitsplat
@@ -287,13 +281,13 @@ Bosses to HP check:
 10. **Nothing**: 0 hitsplat `might be quicker`
 <br>-- OTK after 2nd **Piercing Strike** --
 
-### [Clander] (player 1st; OTK:13; DEF≈16.5K)
+### [Clander] (player 1st; OTK:13; DEF≈16.5K; HP≈39.887M)
 1. **Goliath Smash**: 1 hitsplat
 2. **Whirlwind Spin**: 3 hitsplats `3x ~0.45DMG`<br>
 *Enemy buff: Increases cast speed by 25%, lasts 15 turns, stackable to 6.*
 3. **Goliath Smash**: 1 hitsplat
 
-### [Minotaur] (player 1st; OTK:13; DEF≈20.8K)
+### [Minotaur] (player 1st; OTK:13; DEF≈20.8K; HP≈55.560M!)
 1. **Axe Swing**: 1 hitsplat
 2. **Axe Swing**: 1 hitsplat
 3. **Double Axe**: 2 hitsplats `2x ~0.65DMG`
@@ -312,7 +306,7 @@ Bosses to HP check:
 *Self-buff: DMG received -30%, lasts 2 turns.*
 4. **Spear Stab**: 1 hitsplat
 
-### [Pallasdine] (boss 1st; OTK:13; DEF≈25.6K)
+### [Pallasdine] (boss 1st; OTK:13; DEF≈25.6K; HP≈43.280M - 86.560M)
 1. **Slash**: 1 hitsplat
 2. **Slash**: 1 hitsplat
 3. **Blade Swipe**: 1 hitsplat `~1.4DMG`
