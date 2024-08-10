@@ -158,7 +158,7 @@ Bosses with huge error range:
 
 ## Forbidden Cave
 
-### [Karegos] (player 1st; OTK:13; DEF≈5.35K)
+### [Karegos] (player 1st; OTK:13; DEF≈5.35K; HP≈19.431M)
 1. **Purple Piercing**: 1 hitsplat
 2. **Chaos Lightning**: 1 hitsplat `~1.33DMG`<br>
 *Enemy debuff: 2,5K Bleed, lasts 2 turns.*
@@ -299,7 +299,7 @@ Bosses with huge error range:
 8. **Axe Swing**: 1 hitsplat
 <br>-- OTK after 3rd **Axe Swing** --
 
-### [Thurside] (player 1st; OTK:13; DEF≈20.8K)
+### [Thurside] (player 1st; OTK:13; DEF≈20.8K; HP≈59.675M)
 1. **Spear Stab**: 1 hitsplat
 2. **Spear Stab**: 1 hitsplat
 3. **Quick-Protection**: 0 hitsplat `quicker than slow-cast`<br>
@@ -317,13 +317,13 @@ Bosses with huge error range:
 *Enemy debuff: Reduces cast speed by 50%, lasts 2 turns.*
 <br>-- OTK after 3rd **Slash** --
 
-### [Lakfi] (player 1st; OTK:13; DEF≈25.6K)
+### [Lakfi] (player 1st; OTK:13; DEF≈25.6K; HP≈65.173M)
 1. **Tsunami**: 1 hitsplat `~0.8DMG`<br>
 *Enemy debuff: -40% MDEF, lasts 5 turns.*
-2. **Hydro Slam**: 1 hitsplat<br>
+2. **Hydro Slam**!?: 1 hitsplat<br>
 *Enemy debuff: Randomly locks up to 4 skills, lasts 2 turns*
-3. **Icicle Rain**: 1 hitsplat `~3DMG`
+3. **Icicle Rain**!?: 1 hitsplat `~3DMG`
 4. **Hydro Slam**: 1 hitsplat<br>
 *Enemy debuff: Randomly locks up to 4 skills, lasts 2 turns*
-5. **Aqua Deto**: 1 hitsplat
+5. **Aqua Deto**!?: 1 hitsplat
 <br>-- OTK after 1st **Hydro Slam** --
