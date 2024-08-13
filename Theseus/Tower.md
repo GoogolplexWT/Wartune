@@ -2,6 +2,7 @@
 > Slow-grind towards a complete wave listing, will be a mutli-year goal if I can ever finish it at all.
 
 ## Special bosses
+- **Lesterin (Elise)**: 2.5M Bleed 4th turn (attacks first and can double attack, Fack this boss)
 - **Jarnica (Warlock)**: 5th turn = OTK
 - **Landor (Knight)**: 5th turn = OTK
 - **Yabina the Phantom (Angel)**: Has some form of OTK
@@ -67,7 +68,7 @@
 106. Zane (Demonic Knight)
 107. Mortis (Landos Champ)
 108. Nemrut (DT 1st boss)
-109. Jarnica (Warlock)
+109. **Jarnica (Warlock)**
 110. Nevermore (Nevermore)
 111. Moffitt (pure-dps fire boss)
 112. Apocalypse Shadow (Badlands boss)
@@ -77,4 +78,5 @@
 116. Lesale (Marsh NM 1st boss)
 117. Razor (electro stun boss)
 118. **Landor (Knight)**
-119. 
+119. Karjaya (Armored flail boss)
+120. **Lesterin (Elise)**
