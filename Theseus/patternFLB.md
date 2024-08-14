@@ -287,7 +287,7 @@ Bosses with huge error range:
 *Enemy buff: Increases cast speed by 25%, lasts 15 turns, stackable to 6.*
 3. **Goliath Smash**: 1 hitsplat
 
-### [Minotaur] (player 1st; OTK:13; DEF≈20.8K; HP≈55.560M!)
+### [Minotaur] (player 1st; OTK:13; DEF≈20.8K; HP≈59.735M; ❗)
 1. **Axe Swing**: 1 hitsplat
 2. **Axe Swing**: 1 hitsplat
 3. **Double Axe**: 2 hitsplats `2x ~0.65DMG`
@@ -306,7 +306,7 @@ Bosses with huge error range:
 *Self-buff: DMG received -30%, lasts 2 turns.*
 4. **Spear Stab**: 1 hitsplat
 
-### [Pallasdine] (boss 1st; OTK:13; DEF≈25.6K; HP≈43.280M - 86.560M)
+### [Pallasdine] (boss 1st; OTK:13; DEF≈25.6K; HP≈64.471M)
 1. **Slash**: 1 hitsplat
 2. **Slash**: 1 hitsplat
 3. **Blade Swipe**: 1 hitsplat `~1.4DMG`
@@ -317,7 +317,7 @@ Bosses with huge error range:
 *Enemy debuff: Reduces cast speed by 50%, lasts 2 turns.*
 <br>-- OTK after 3rd **Slash** --
 
-### [Lakfi] (player 1st; OTK:13; DEF≈25.6K; HP≈65.173M)
+### [Lakfi] (player 1st; OTK:13; DEF≈25.6K; HP≈65.173M; ❗)
 1. **Tsunami**: 1 hitsplat `~0.8DMG`<br>
 *Enemy debuff: -40% MDEF, lasts 5 turns.*
 2. **Hydro Slam**!?: 1 hitsplat<br>
