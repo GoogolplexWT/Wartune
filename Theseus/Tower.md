@@ -1,12 +1,21 @@
 # Warspirit Tower
 > Slow-grind towards a complete wave listing, will be a mutli-year goal if I can ever finish it at all.
 
-## Special bosses
+## Deadly bosses
 - **Lesterin (Elise)**: 2.5M Bleed 4th turn (attacks first and can double attack, Fack this boss)
 - **Jarnica (Warlock)**: 5th turn = OTK
 - **Landor (Knight)**: 5th turn = OTK
-- **Yabina the Phantom (Angel)**: Has some form of OTK
 - **Demon Lord Xemul**: Self-explanatory xD
+- **Yabina the Phantom (Angel)**: Has some form of OTK (I think)
+- **Jilan (Dinah)**: Might also have some form of OTK (I think)
+- **Pheora (Warlock)**: Might have some OTK
+
+# Other special bosses
+- **Coronius (Tornado/wind boss)**: Stackable DMG debuff, lasts 10 turns, removable
+- **Blacktooth (MeD 2nd boss)**: Stackable incoming DMG increase, lasts 50 turns, non-removable
+- **Boracus (red wing beast)**: 50K Bleed + stun
+- **Sycorax (blue wing beast)**: 10K Bleed, lasts 3 turns
+- **Andola (Undead Gladiator)**: Massive heals
 
 ## Per wave
 50. Toros Lead (Tauren Elite)
@@ -80,3 +89,28 @@
 118. **Landor (Knight)**
 119. Karjaya (Armored flail boss)
 120. **Lesterin (Elise)**
+121. Larnot (Demonic Angel)
+122. Kronos (Mino)
+123. Coronius (Tornado/wind boss)
+124. Clander (Clander)
+125. Karlan (Thur)
+126. Karnatog (Mino)
+127. Spiny Serpentus (Lizard)
+128. Jarlor (Undead Gladiator)
+129. Githlander (Armored flail boss)
+130. Jilan (Dinah)
+131. Mosino (Demonic Angel)
+132. Blacktooth (MeD 2nd boss)
+133. Fayden (Reaper)
+134. **Pheora (Warlock)**
+135. Farinel (Paladin)
+136. Anotar (Landos Warrior)
+137. Toros Lead (Tauren Elite)
+138. Bragi (Bragi)
+139. Boracus (red wing beast)
+140. Sycorax (blue wing beast)
+141. Kytra (Cyc)
+142. Headless Maurader (Demonic Knight)
+143. Andola (Undead Gladiator)
+144. Voser (Demon Lord Xemul)
+145. Azakar (DT last boss)
