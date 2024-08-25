@@ -112,5 +112,22 @@
 141. Kytra (Cyc)
 142. Headless Maurader (Demonic Knight)
 143. Andola (Undead Gladiator)
-144. Voser (Demon Lord Xemul)
+144. **Voser (Demon Lord Xemul)**
 145. Azakar (DT last boss)
+146. Sycorax (blue wing beast)
+147. Agorfa (Mummy)
+148. Spiny Serpentus (Lizard)
+149. Kartanog (Mino)
+150. Headless Maurader (Demonic Knight)
+151. Arlos (blue wing beast)
+152. Azakar (DT last boss)
+153. **Voser (Demon Lord Xemul)**
+154. Karlan (Thur)
+155. Clander (Clander)
+156. Coronius (Tornado/wind boss)
+157. Kronos (Mino)
+158. Larnot (Demonic Angel)
+159. **Lesterin (Elise)**
+160. Karjaya (Armored flail boss)
+161. **Landor (Knight)**
+162. 
