@@ -18,6 +18,55 @@
 - **Andola (Undead Gladiator)**: Massive heals
 
 ## Per wave
+1. Krankor (Small Worm)
+2. Abyssal Beast (big/red worm)
+3. Sodo (Bleed Dragon)
+4. Tyrath (Bleed Dragon)
+5. Wormageddon (self-explanatory xD)
+6. Karnova (Mummy)
+7. Sezmar (Templar)
+8. Viscount Remus (Templar)
+9. Bloodlands Flyer (red wing beast)
+10. Yass (Treasure Thief)
+11. Yaros (Yaros)
+12. Merloch (Yaros)
+13. Bantashee (Demonic Angel)
+14. **Yabina the Phantom (Angel)**
+15. Agorfa (Mummy)
+16. Andola (Undead Gladiator)
+17. Kytra (Cyc)
+18. Sycorax (blue wing beast)
+19. Boracus (red wing beast)
+20. Bragi (Bragi)
+21. Toros Lead (Tauren Elite)
+22. Anotar (Landos Warrior)
+23. Farinel (Paladin)
+24. **Pheora (Warlock)**
+25. Fayden (Reaper)
+26. Blacktooth (MeD 2nd boss)
+27. Mosino (Demonic Angel)
+28. **Jilan (Dinah)**
+29. Githlander (Armored flail boss)
+30. Jarlor (Undead Gladiator)
+31. Wulfgar (The Wolf)
+32. Toros Lead (Tauren Elite)
+33. Viscount Remus (Templar)
+34. Anotar (Landos Warrior)
+35. Sycorax (blue wing beast)
+36. Abyssal Beast (big/red worm)
+37. Larnot (Demonic Angel)
+38. Lesale (Marsh NM 1st boss)
+39. Fayden (Reaper)
+40. Blacktooth (MeD 2nd boss)
+41. Sezmar (Templar)
+42. **Jarnica (Warlock)**
+43. ?
+44. ?
+45. ?
+46. ?
+47. ?
+48. ?
+49. ?
 50. Toros Lead (Tauren Elite)
 51. Sycorax (blue wing beast)
 52. Blacktooth (MeD 2nd boss)
