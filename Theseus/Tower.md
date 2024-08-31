@@ -179,4 +179,41 @@
 159. **Lesterin (Elise)**
 160. Karjaya (Armored flail boss)
 161. **Landor (Knight)**
-162. 
+162. Razor (electro stun boss)
+163. Lesale (Marsh NM 1st boss)
+164. Wulfgar (The Wolf)
+165. Rooftrellen (Tree)
+166. Rubia (AA final boss)
+167. Apocalypse Shadow (Badlands boss)
+168. Moffitt (pure-dps fire boss)
+169. Nevermore (Nevermore)
+170. **Jarnica (Warlock)**
+171. Nemrut (DT 1st boss)
+172. Mortis (Landos Champ)
+173. Zane (Demonic Knight)
+174. Narosa (The Wolf)
+175. Krankor (Small Worm)
+176. Abyssal Beast (big/red worm)
+177. Sodo (Bleed Dragon)
+178. Tyrath (Bleed Dragon)
+179. Wormageddon (self-explanatory xD)
+180. Karnova (Mummy)
+181. Sezmar (Templar)
+182. Viscount Remus (Templar)
+183. Bloodlands Flyer (red wing beast)
+184. Yass (Treasure Thief)
+185. Yaros (Yaros)
+186. Merloch (Yaros)
+187. Bantashee (Demonic Angel)
+188. **Yabina the Phantom (Angel)**
+189. Agorfa (Mummy)
+190. Andola (Undead Gladiator)
+191. Kytra (Cyc)
+192. Sycorax (blue wing beast)
+193. Boracus (red wing beast)
+194. Bragi (Bragi)
+195. Toros Lead (Tauren Elite)
+196. Anotar (Landos Warrior)
+197. Farinel (Paladin)
+198. **Pheora (Warlock)**
+199. 
