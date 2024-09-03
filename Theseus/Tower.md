@@ -11,7 +11,7 @@
 - **Coronius (Tornado/wind boss)**: Stackable DMG debuff, lasts 10 turns, removable
 - **Blacktooth (MeD 2nd boss)**: Stackable incoming DMG increase, lasts 50 turns, non-removable
 - **Bloodlands Flyer & Boracus (50K Bleed, 1 turn)**
-- **Sycorax (10K Bleed, 3 turns)**
+- **Sycorax & Arlos (10K Bleed, 3 turns)**
 - **Karnova & Agorfa (-30% current HP)**
 - **Razor (stuns + DMG debuff + -50% DMG taken)**
 - **Moffitt (Massive DPS, non-OTK)**
@@ -67,13 +67,13 @@
 40. Blacktooth (MeD 2nd boss)
 41. Sezmar (Templar)
 42. **Jarnica (Warlock)**
-43. ?
-44. ?
-45. ?
-46. ?
-47. ?
-48. ?
-49. ?
+43. Agorfa (-30% current HP)
+44. Jarlor (Undead Gladiator)
+45. Mortis (Landos Champ)
+46. Arlos (10K Bleed, 3 turns)
+47. Mosino (Demonic Angel)
+48. Tyrath (Bleed Dragon)
+49. Rubia (Steals 5 Rage / hit)
 50. Toros Lead (Tauren Elite)
 51. Sycorax (10K Bleed, 3 turns)
 52. Blacktooth (MeD 2nd boss)
