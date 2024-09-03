@@ -2,20 +2,27 @@
 > Slow-grind towards a complete wave listing, will be a mutli-year goal if I can ever finish it at all.
 
 ## Deadly bosses
-- **Lesterin (Elise)**: 2.5M Bleed 4th turn (attacks first and can double attack, Fack this boss)
-- **Jarnica (Warlock)**: 5th turn = OTK
+- **Lesterlin (Elise)**: 2.5M Bleed 4th turn (attacks first and can double attack, Fack this boss)
+- **Jarnica & Pheora (Warlock)**: 5th turn = OTK
 - **Landor (Knight)**: 5th turn = OTK
 - **Demon Lord Xemul**: Self-explanatory xD
-- **Yabina the Phantom (Angel)**: Has some form of OTK (I think)
-- **Jilan (Dinah)**: Might also have some form of OTK (I think)
-- **Pheora (Warlock)**: Might have some OTK
 
-# Other special bosses
+# Special bosses
 - **Coronius (Tornado/wind boss)**: Stackable DMG debuff, lasts 10 turns, removable
 - **Blacktooth (MeD 2nd boss)**: Stackable incoming DMG increase, lasts 50 turns, non-removable
-- **Boracus (50K Bleed, 1 turn)**
+- **Bloodlands Flyer & Boracus (50K Bleed, 1 turn)**
 - **Sycorax (10K Bleed, 3 turns)**
-- **Andola (Undead Gladiator)**: Massive heals
+- **Karnova & Agorfa (-30% current HP)**
+- **Razor (stuns + DMG debuff + -50% DMG taken)**
+- **Moffitt (Massive DPS, non-OTK)**
+- **Lesale (Massive DPS)**
+- **Andola & Jarlor (1,5M heal)**
+- **Rubia (5 Rage steal / turn)**
+- **Clander (gives +100 Rage)**
+
+# False alarms
+- **Yabina the Phantom (Angel)**: Has OTKs in Warspirit Path
+- **Jilan (Dinah)**: Has OTKs in Warspirit Path
 
 ## Per wave
 1. Krankor (Small Worm)
@@ -23,7 +30,7 @@
 3. Sodo (Bleed Dragon)
 4. Tyrath (Bleed Dragon)
 5. Wormageddon (self-explanatory xD)
-6. Karnova (Mummy)
+6. Karnova (-30% current HP)
 7. Sezmar (Templar)
 8. Viscount Remus (Templar)
 9. Bloodlands Flyer (50K Bleed, 1 turn)
@@ -31,8 +38,8 @@
 11. Yaros (Yaros)
 12. Merloch (Yaros)
 13. Bantashee (Demonic Angel)
-14. **Yabina the Phantom (Angel)**
-15. Agorfa (Mummy)
+14. Yabina the Phantom (Angel)
+15. Agorfa (-30% current HP)
 16. Andola (Undead Gladiator)
 17. Kytra (Cyc)
 18. Sycorax (10K Bleed, 3 turns)
@@ -45,7 +52,7 @@
 25. Fayden (Reaper)
 26. Blacktooth (MeD 2nd boss)
 27. Mosino (Demonic Angel)
-28. **Jilan (Dinah)**
+28. Jilan (Dinah)
 29. Githlander (Armored flail boss)
 30. Jarlor (Undead Gladiator)
 31. Wulfgar (The Wolf)
@@ -72,7 +79,7 @@
 52. Blacktooth (MeD 2nd boss)
 53. Sezmar (Templar)
 54. **Jarnica (Warlock)**
-55. Agorfa (Mummy)
+55. Agorfa (-30% current HP)
 56. Jarlor (Undead Gladiator)
 57. Mortis (Landos Champ)
 58. Arlos (10K Bleed, 3 turns)
@@ -87,12 +94,12 @@
 67. Sezmar (Templar)
 68. **Jarnica (Warlock)**
 69. Krankor (Small Worm)
-70. Agorfa (Mummy)
+70. Agorfa (-30% current HP)
 71. Wormageddon (self-explanatory xD)
 72. Sodo (Bleed Dragon)
 73. **Jarnica (Warlock)**
 74. Apocalypse Shadow (Badlands boss)
-75. Agorfa (Mummy)
+75. Agorfa (-30% current HP)
 76. Fayden (Reaper)
 77. Zane (Demonic Knight)
 78. Wormageddon (self-explanatory xD)
@@ -108,7 +115,7 @@
 88. Nevermore (Nevermore)
 89. Rubia (Steals 5 Rage / hit)
 90. Yass (Treasure Thief)
-91. **Yabina the Phantom (Angel)**
+91. Yabina the Phantom (Angel)
 92. Bantashee (Demonic Angel)
 93. Merloch (Yaros)
 94. Yaros (Yaros)
@@ -116,7 +123,7 @@
 96. Bloodlands Flyer (50K Bleed, 1 turn)
 97. Viscount Remus (Templar)
 98. Sezmar (Templar)
-99. Karnova (Mummy)
+99. Karnova (-30% current HP)
 100. Wormageddon (self-explanatory xD)
 101. Tyrath (Bleed Dragon)
 102. Sodo (Bleed Dragon)
@@ -134,10 +141,10 @@
 114. Rooftrellen (Tree)
 115. Wulfgar (The Wolf)
 116. Lesale (Marsh NM 1st boss)
-117. Razor (electro stun boss)
+117. Razor (electro stun tank)
 118. **Landor (Knight)**
 119. Karjaya (Armored flail boss)
-120. **Lesterin (Elise)**
+120. **Lesterlin (Elise)**
 121. Larnot (Demonic Angel)
 122. Kronos (Mino)
 123. Coronius (Tornado/wind boss)
@@ -164,7 +171,7 @@
 144. **Voser (Demon Lord Xemul)**
 145. Azakar (DT last boss)
 146. Sycorax (10K Bleed, 3 turns)
-147. Agorfa (Mummy)
+147. Agorfa (-30% current HP)
 148. Spiny Serpentus (Lizard)
 149. Kartanog (Mino)
 150. Headless Marauder (Demonic Knight)
@@ -176,10 +183,10 @@
 156. Coronius (Tornado/wind boss)
 157. Kronos (Mino)
 158. Larnot (Demonic Angel)
-159. **Lesterin (Elise)**
+159. **Lesterlin (Elise)**
 160. Karjaya (Armored flail boss)
 161. **Landor (Knight)**
-162. Razor (electro stun boss)
+162. Razor (electro stun tank)
 163. Lesale (Marsh NM 1st boss)
 164. Wulfgar (The Wolf)
 165. Rooftrellen (Tree)
@@ -197,7 +204,7 @@
 177. Sodo (Bleed Dragon)
 178. Tyrath (Bleed Dragon)
 179. Wormageddon (self-explanatory xD)
-180. Karnova (Mummy)
+180. Karnova (-30% current HP)
 181. Sezmar (Templar)
 182. Viscount Remus (Templar)
 183. Bloodlands Flyer (50K Bleed, 1 turn)
@@ -205,8 +212,8 @@
 185. Yaros (Yaros)
 186. Merloch (Yaros)
 187. Bantashee (Demonic Angel)
-188. **Yabina the Phantom (Angel)**
-189. Agorfa (Mummy)
+188. Yabina the Phantom (Angel)
+189. Agorfa (-30% current HP)
 190. Andola (Undead Gladiator)
 191. Kytra (Cyc)
 192. Sycorax (10K Bleed, 3 turns)
@@ -229,7 +236,7 @@
 209. Sodo (Bleed Dragon)
 210. Tyrath (Bleed Dragon)
 211. Wormageddon (self-explanatory xD)
-212. Karnova (Mummy)
+212. Karnova (-30% current HP)
 213. Sezmar (Templar)
 214. Viscount Remus (Templar)
 215. Bloodlands Flyer (50K Bleed, 1 turn)
@@ -243,7 +250,7 @@
 223. Moffitt (pure-dps fire boss)
 224. Wulfgar (The Wolf)
 225. Lesale (Marsh NM 1st boss)
-226. **Lesterin (Elise)**
+226. **Lesterlin (Elise)**
 227. Kronos (Mino)
 228. Karlan (Thur)
 229. Mosino (Demonc Angel)
@@ -273,4 +280,64 @@
 253. **Landor (Knight)**
 254. Rooftrellen (Tree)
 255. Jilan (Dinah)
-256. 
+256. Coronius (Tornado/wind boss)
+257. Mosino (Demonic Angel)
+258. Razor (electro stun tank)
+259. **Voser (Demon Lord Xemul)**
+260. Wulfgar (The Wolf)
+261. Toros Lead (Tauren Elite)
+262. Sycorax (10K Bleed, 3 turns)
+263. Larnot (Demonic Angel)
+264. Bloodlands Flyer (50K Bleed, 1 turn)
+265. Krankor (Small Worm)
+266. Zane (Demonic Knight)
+267. Farinel (Paladin)
+268. Moffitt (pure-dps fire boss)
+269. Razor (electro stun tank)
+270. Spiny Serpentus (Lizard)
+271. Headless Marauder (Demonic Knight)
+272. Sycorax (10K Bleed, 3 turns)
+273. Karnatog (Mino)
+274. Larnot (Demonic Angel)
+275. Bloodlands Flyer (50K Bleed, 1 turn)
+276. Lesale (Marsh NM 1st boss)
+277. Yaros (Yaros)
+278. Agorfa (-30% current HP)
+279. Karjaya (Armored flail boss)
+280. Kanova (-30% current HP)
+281. Farinel (Paladin)
+282. **Lesterlin (Elise)**
+283. Yabina the Phantom (Angel)
+284. Arlos (10K Bleed, 3 turns)
+285. Moffitt (pure-dps fire boss)
+286. Azakar (DT last boss)
+287. Razor (electro stun tank)
+288. Clander (Clander)
+289. Rubia (Steals 5 Rage / hit)
+290. **Voser (Demon Lord Xemul)**
+291. Spiny Serpentus (Lizard)
+292. Headless Marauder (Demonic Knight)
+293. Sycorax (10K Bleed, 3 turns)
+294. Karnatog (Mino)
+295. Abyssal Beast (big/red worm)
+296. Blacktooth (MeD 2nd boss)
+297. Merloch (Yaros)
+298. Larnot (Demonic Angel)
+299. Boracus (50K Bleed, 1 turn)
+300. Kytra (Cyc)
+301. Sezmar (Templar)
+302. Karjaya (Armored flail boss)
+303. Zane (Demonic Knight)
+304. Karnova (-30% current HP)
+305. Wormageddon (self-explanatory xD)
+306. Jarlor (Undead Gladiator)
+307. Sodo (Bleed Dragon)
+308. Farinel (Paladin)
+309. Larnot (Demonic Angel)
+310. Boracus (50K Bleed, 1 turn)
+311. Kytra (Cyc)
+312. Sezmar (Templar)
+313. Bloodlands Flyer (50K Bleed, 1 turn)
+314. Lesale (Marsh NM 1st boss)
+315. **Jarnica (Warlock)**
+316. 
