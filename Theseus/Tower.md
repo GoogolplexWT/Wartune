@@ -1,30 +1,45 @@
 # Warspirit Tower
 > Slow-grind towards a complete wave listing, will be a mutli-year goal if I can ever finish it at all.
 
+## Changes compared to release date
+- Greater Ricochet (Grico) nerf
+- Opponent's %-based received DMG reductions work against stat-based bleeds
+- Meteoric Assault nerf: 100% -> 20% stun chance
+- Released red devil pearls: Lvl 1 red's effect = lvl 6 orange's effect, e.g. less grindy
+- Demon Lord Xemul with 1 separate bleed from stack
+
+# Boss info
 ## Deadly bosses
 - **Lesterlin (Elise)**: 2.5M Bleed 4th turn (attacks first and can double attack, Fack this boss)
 - **Jarnica & Pheora (Warlock)**: 5th turn = OTK
 - **Landor (Knight)**: 5th turn = OTK
 - **Demon Lord Xemul**: Self-explanatory xD
 
-# Special bosses
+## Special bosses
+### Debuffs
 - **Coronius (Tornado/wind boss)**: Stackable DMG debuff, lasts 10 turns, removable
 - **Blacktooth (MeD 2nd boss)**: Stackable incoming DMG increase, lasts 50 turns, non-removable
+### Bleeds
 - **Bloodlands Flyer & Boracus (50K Bleed, 1 turn)**
 - **Sycorax & Arlos (10K Bleed, 3 turns)**
+### Massive DMG
 - **Karnova & Agorfa (-30% current HP)**
-- **Razor (stuns + DMG debuff + -50% DMG taken)**
 - **Moffitt (Massive DPS, non-OTK)**
 - **Lesale (Massive DPS)**
+### Slow to kill
+- **Razor (stuns + DMG debuff + -50% DMG taken)**
 - **Andola & Jarlor (1,5M heal)**
+### Rage related
 - **Rubia (5 Rage steal / turn)**
 - **Clander (gives +100 Rage)**
 
-# False alarms
-- **Yabina the Phantom (Angel)**: Has OTKs in Warspirit Path
-- **Jilan (Dinah)**: Has OTKs in Warspirit Path
+## False alarms
+- **Yabina the Phantom (Angel)**
+- **Jilan (Dinah)**
 
-## Per wave
+The above bosses have OTKs in Warspirit Path, but are safe in Tower.
+
+# Boss per wave
 1. Krankor (Small Worm)
 2. Abyssal Beast (big/red worm)
 3. Sodo (Bleed Dragon)
