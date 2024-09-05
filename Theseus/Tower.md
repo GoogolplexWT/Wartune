@@ -20,17 +20,17 @@
 - **Coronius (Tornado/wind boss)**: Stackable DMG debuff, lasts 10 turns, removable
 - **Blacktooth (MeD 2nd boss)**: Stackable incoming DMG increase, lasts 50 turns, non-removable
 ### Bleeds
-- **Bloodlands Flyer & Boracus (50K Bleed, 1 turn)**
-- **Sycorax & Arlos (10K Bleed, 3 turns)**
+- **Bloodlands Flyer & Boracus (red winged beast)**: 50K Bleed, 1 turn
+- **Sycorax & Arlos (blue winged beast)**: 10K Bleed, 3 turns
 ### Massive DMG
-- **Karnova & Agorfa (-30% current HP)**
-- **Moffitt (Massive DPS, non-OTK)**
-- **Lesale (Massive DPS)**
+- **Karnova & Agorfa (Mummy)**: -30% current HP
+- **Moffitt (Gau)**: Massive DPS, non-OTK
+- **Lesale (Marsh NM 1st boss)**: Massive DPS
 ### Slow to kill
-- **Razor (stuns + DMG debuff + -50% DMG taken)**
-- **Andola & Jarlor (1,5M heal)**
+- **Razor (Say)**: Stuns + DMG debuff + -50% DMG taken
+- **Andola & Jarlor (Undead Gladiator)**: 1,5M heal on random target
 ### Rage related
-- **Rubia (5 Rage steal / turn)**
+- **Rubia (AA final boss)**: 5 Rage steal / turn
 - **Clander (gives +100 Rage)**
 
 ## False alarms
