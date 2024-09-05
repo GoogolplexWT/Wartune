@@ -65,7 +65,7 @@ The above bosses have OTKs in Warspirit Path, but are safe in Tower.
 23. Farinel (Paladin)
 24. **Pheora (Warlock)**
 25. Fayden (Reaper)
-26. Blacktooth (MeD 2nd boss)
+26. Blacktooth (non-rem reveived DMG debuff, stackable)
 27. Mosino (Demonic Angel)
 28. Jilan (Dinah)
 29. Githlander (Armored flail boss)
@@ -79,7 +79,7 @@ The above bosses have OTKs in Warspirit Path, but are safe in Tower.
 37. Larnot (Demonic Angel)
 38. Lesale (Marsh NM 1st boss)
 39. Fayden (Reaper)
-40. Blacktooth (MeD 2nd boss)
+40. Blacktooth (non-rem reveived DMG debuff, stackable)
 41. Sezmar (Templar)
 42. **Jarnica (Warlock)**
 43. Agorfa (-30% current HP)
@@ -91,7 +91,7 @@ The above bosses have OTKs in Warspirit Path, but are safe in Tower.
 49. Rubia (Steals 5 Rage / hit)
 50. Toros Lead (Tauren Elite)
 51. Sycorax (10K Bleed, 3 turns)
-52. Blacktooth (MeD 2nd boss)
+52. Blacktooth (non-rem reveived DMG debuff, stackable)
 53. Sezmar (Templar)
 54. **Jarnica (Warlock)**
 55. Agorfa (-30% current HP)
@@ -171,7 +171,7 @@ The above bosses have OTKs in Warspirit Path, but are safe in Tower.
 129. Githlander (Armored flail boss)
 130. Jilan (Dinah)
 131. Mosino (Demonic Angel)
-132. Blacktooth (MeD 2nd boss)
+132. Blacktooth (non-rem reveived DMG debuff, stackable)
 133. Fayden (Reaper)
 134. **Pheora (Warlock)**
 135. Farinel (Paladin)
@@ -239,7 +239,7 @@ The above bosses have OTKs in Warspirit Path, but are safe in Tower.
 197. Farinel (Paladin)
 198. **Pheora (Warlock)**
 199. Fayden (Reaper)
-200. Blacktooth (MeD 2nd boss)
+200. Blacktooth (non-rem reveived DMG debuff, stackable)
 201. Mosino (Demonic Angel)
 202. Jilan (Dinah)
 203. Githlander (Armored flail boss)
@@ -335,7 +335,7 @@ The above bosses have OTKs in Warspirit Path, but are safe in Tower.
 293. Sycorax (10K Bleed, 3 turns)
 294. Karnatog (Mino)
 295. Abyssal Beast (big/red worm)
-296. Blacktooth (MeD 2nd boss)
+296. Blacktooth (non-rem reveived DMG debuff, stackable)
 297. Merloch (Yaros)
 298. Larnot (Demonic Angel)
 299. Boracus (50K Bleed, 1 turn)
@@ -355,4 +355,10 @@ The above bosses have OTKs in Warspirit Path, but are safe in Tower.
 313. Bloodlands Flyer (50K Bleed, 1 turn)
 314. Lesale (Marsh NM 1st boss)
 315. **Jarnica (Warlock)**
-316. 
+316. Andola (Undead Gladiator)
+317. Yaros (Yaros)
+318. Apocalypse Shadow (Badlands boss)
+319. Blacktooth (non-rem reveived DMG debuff, stackable)
+320. Sezmar (Templar)
+321. **Jarnica (Warlock)**
+322. 
