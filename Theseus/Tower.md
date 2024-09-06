@@ -153,7 +153,7 @@ The above bosses have OTKs in Warspirit Path, but are safe in Tower.
 108. Nemrut (DT 1st boss)
 109. **<p style="color: #b22222">Jarnica (Warlock)<p>**
 110. Nevermore (Nevermore)
-111. Moffitt (pure-dps fire boss)
+111. <span style="color: #CC5500">Moffitt (pure-dps fire boss)<span>
 112. Apocalypse Shadow (Badlands boss)
 113. Rubia (Steals 5 Rage / hit)
 114. Rooftrellen (Tree)
@@ -210,7 +210,7 @@ The above bosses have OTKs in Warspirit Path, but are safe in Tower.
 165. Rooftrellen (Tree)
 166. Rubia (Steals 5 Rage / hit)
 167. Apocalypse Shadow (Badlands boss)
-168. Moffitt (pure-dps fire boss)
+168. <span style="color: #CC5500">Moffitt (pure-dps fire boss)<span>
 169. Nevermore (Nevermore)
 170. **<p style="color: #b22222">Jarnica (Warlock)<p>**
 171. Nemrut (DT 1st boss)
@@ -265,7 +265,7 @@ The above bosses have OTKs in Warspirit Path, but are safe in Tower.
 220. <span style="color: #CC5500">Boracus (50K Bleed, 1 turn)<span>
 221. Bragi (Bragi)
 222. Toros Lead (Tauren Elite)
-223. Moffitt (pure-dps fire boss)
+223. <span style="color: #CC5500">Moffitt (pure-dps fire boss)<span>
 224. Wulfgar (The Wolf)
 225. <span style="color: #CC5500">Lesale (Marsh NM 1st boss)<span>
 226. **<p style="color: #b22222">Lesterlin (Elise)<p>**
@@ -310,7 +310,7 @@ The above bosses have OTKs in Warspirit Path, but are safe in Tower.
 265. Krankor (Small Worm)
 266. Zane (Demonic Knight)
 267. Farinel (Paladin)
-268. Moffitt (pure-dps fire boss)
+268. <span style="color: #CC5500">Moffitt (pure-dps fire boss)<span>
 269. Razor (electro stun tank)
 270. Spiny Serpentus (Lizard)
 271. Headless Marauder (Demonic Knight)
@@ -327,7 +327,7 @@ The above bosses have OTKs in Warspirit Path, but are safe in Tower.
 282. **<p style="color: #b22222">Lesterlin (Elise)<p>**
 283. Yabina the Phantom (Angel)
 284. <span style="color: #CC5500">Arlos (10K Bleed, 3 turns)<span>
-285. Moffitt (pure-dps fire boss)
+285. <span style="color: #CC5500">Moffitt (pure-dps fire boss)<span>
 286. Azakar (DT last boss)
 287. Razor (electro stun tank)
 288. Clander (Clander)
@@ -364,4 +364,60 @@ The above bosses have OTKs in Warspirit Path, but are safe in Tower.
 319. <span style="color: #b8bc86">Blacktooth (non-rem reveived DMG debuff, stackable)<span>
 320. Sezmar (Templar)
 321. **<p style="color: #b22222">Jarnica (Warlock)<p>**
-322. 
+322. <span style="color: #CC5500">Agorfa (-30% current HP)<span>
+323. Jarlor (Undead Gladiator)
+324. Mortis (Landos Champ)
+325. .
+326. .
+327. .
+328. .
+329. .
+330. .
+331. .
+332. .
+333. .
+334. .
+335. **<p style="color: #b22222">Jarnica (Warlock)<p>**
+336. .
+337. .
+338. .
+339. .
+340. .
+341. .
+342. .
+343. .
+344. .
+345. .
+346. .
+347. **<p style="color: #b22222">Jarnica (Warlock)<p>**
+348. .
+349. Fayden (Reaper)
+350. Karjaya (Armored flail boss)
+351. <span style="color: #CC5500">Karnova (-30% current HP)<span>
+352. Jarlor (Undead Gladiator)
+353. **<p style="color: #b22222">Landor (Knight)<p>**
+354. Yabina the Phantom (Angel)
+355. <span style="color: #b8bc86">Coronius (Tornado/wind boss)<span>
+356. <span style="color: #CC5500">Boracus (50K Bleed, 1 turn)<span>
+357. **<p style="color: #b22222">Pheora (Warlock)<p>**
+358. Githlander (Armored flail boss)
+359. Krankor (Small Worm)
+360. Sodo (Bleed Dragon)
+361. Sezmar (Templar)
+362. <span style="color: #CC5500">Bloodlands Flyer (50K Bleed, 1 turn)<span>
+363. <span style="color: #CC5500">Sycorax (10K Bleed, 3 turns)<span>
+364. Farinel (Paladin)
+365. Kartanog (Mino)
+366. <span style="color: #CC5500">Bloodlands Flyer (50K Bleed, 1 turn)<span>
+367. <span style="color: #CC5500">Karnova (-30% current HP)<span>
+368. <span style="color: #CC5500">Moffitt (pure-dps fire boss)<span>
+369. Headless Marauder (Demonic Knight)
+370. Larnot (Demonic Angel)
+371. Karjaya (Armored flail boss)
+372. Sodo (Bleed Dragon)
+373. Sezmar (Templar)
+374. <span style="color: #CC5500">Agorfa (-30% current HP)<span>
+375. Tyrath (Bleed Dragon)
+376. Yabina the Phantom (Angel)
+377. **<p style="color: #b22222">Pheora (Warlock)<p>**
+378. 
