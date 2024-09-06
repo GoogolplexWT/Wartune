@@ -468,4 +468,24 @@ The above bosses have OTKs in Warspirit Path, but are safe in Tower.
 389. Clander (Clander)
 390. Merloch (Merloch)
 391. **<p style="color: #b22222">Jarnica (Warlock)<p>**
-392. 
+392. <span style="color: #7CFC00">Andola (Undead Gladiator)<span>
+393. Yaros (Yaros)
+394. Apocalypse Shadow (Badlands boss)
+395. <span style="color: #b8bc86">Blacktooth (non-rem reveived DMG debuff, stackable)<span>
+396. Abyssal Beast (big/red worm)
+397. <span style="color: #CC5500">Sycorax (10K Bleed, 3 turns)<span>
+398. <span style="color: #b8bc86">Blacktooth (non-rem reveived DMG debuff, stackable)<span>
+399. <span style="color: #CC5500">Bloodlands Flyer (50K Bleed, 1 turn)<span>
+400. Wulfgar (The Wolf)
+401. <span style="color: #7CFC00">Andola (Undead Gladiator)<span>
+402. Karjaya (Armored flail boss)
+403. Krankor (Small Worm)
+404. Headless Marauder (Demonic Knight)
+405. Mosino (Demonic Angel)
+406. <span style="color: #CC5500">Sycorax (10K Bleed, 3 turns)<span>
+407. Yabina the Phantom (Angel)
+408. Headless Marauder (Demonic Knight)
+409. <span style="color: #CC5500">Boracus (50K Bleed, 1 turn)<span>
+410. <span style="color: #CC5500">Karnova (-30% current HP) + extra-fragile to troll Rage/Warspirit building<span>
+411. **<p style="color: #b22222">Lesterlin (Elise) + 5 stages = probably another OTK-boss<p>**
+412. 
