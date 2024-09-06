@@ -12,25 +12,59 @@
 ## <span style="color: #b22222">Deadly bosses<span>
 - **Lesterlin (Elise)**: 2.5M Bleed 4th turn (attacks first and can double attack, Fack this boss)
 - **Jarnica & Pheora (Warlock)**: 5th turn = OTK
+  > Attacks first (most of the time)
+  - Turn 1: Magic ATK
+  - Turn 2: Magic ATK
+  - Turn 3: Skill-based Draining
+  - Turn 4: Magic ATK
+  - Turn 5: Direct DMG OTK
 - **Landor (Knight)**: 5th turn = OTK
 - **Demon Lord Xemul**: Self-explanatory xD
 
 ## Special bosses
 ### <span style="color: #CC5500">Bleeds<span>
 - **Bloodlands Flyer & Boracus (red winged beast)**: 50K Bleed, 1 turn
+  > Might attack first
+  - Turn 1: Auto ATK
+  - Turn 2: 50K Bleed, 1 tick in 3 turns
+  - Turn 3: Auto ATK
 - **Anotar (Landos Warrior)**: 50K Bleed, 1 turn
-- **Sycorax & Arlos (blue winged beast)**: 10K Bleed, 3 turns
+- **Sycorax & Arlos (blue winged beast)**: 10K Bleed, 3 
+  > Incomplete skill data yet
+  - Turn 1: Auto ATK
+  - Turn 2: 10K Bleed, lasts 3 turns.
+  - Turn 3: Auto ATK
+  - Turn 4: Auto ATK
+  - Turn 5: AUto ATK
 - **Narosa (The Wolf)**: 25K Bleed, 1 turn
 ### <span style="color: #CC5500">Massive DMG<span>
 - **Karnova & Agorfa (Mummy)**: -30% current HP (effect) + normal hit
+  > Player might attack first, data incomplete yet
+  - Turn 1: Magic ATK
+  - Turn 2: Magic ATK
+  - Turn 3: -30% current HP + hits
 - **Moffitt (Gau)**: Massive DPS, non-OTK
 - **Lesale (Marsh NM 1st boss)**: Massive DPS
 ### <span style="color: #b8bc86">Debuffs<span>
 - **Coronius (Tornado/wind boss)**: Stackable DMG debuff, lasts 10 turns, removable
-- **Blacktooth (MeD 2nd boss)**: Stackable incoming DMG increase, lasts 50 turns, non-removable
-### Slow to kill
+- **Blacktooth (MeD 2nd boss)**: 
+  > Stackable incoming DMG increase, lasts 50 turns, non-removable
+  - Turn 1: Melee ATK
+  - *Turn 2: Debuff*
+  - *Turn 3: Debuff*
+  - *Turn 4: Debuff*
+  - Turn 5: Melee ATK
+  - Turn 6: Melee ATK
+  - *Turn 7: Debuff*
+  - *Turn 8: Debuff*
+### <span style="color: #7CFC00">Slow to kill<span>
 - **Razor (Say)**: Stuns + DMG debuff + -50% DMG taken
-- **Andola & Jarlor (Undead Gladiator)**: 1,5M heal on random target
+- **Andola & Jarlor (Undead Gladiator)<span>**:
+  > Can "visually" perma-bug the boss' HP bar if bleed-killed on self-HoT.
+  - Turn 1: Slow speed + ATK-stat reduction debuff
+  - Turn 2: Magic ATK
+  - *Turn 3: 1,5M HoT effect on random targtet (self-target = resolved same turn)*
+  - Turn 4: Melee ATK
 - **Rooftrellen (Tree)**: -50% DMG debuff, 3 turns
 ### Rage related
 - **Rubia (AA final boss)**: 5 Rage steal / turn
@@ -58,7 +92,7 @@ The above bosses have OTKs in Warspirit Path, but are safe in Tower.
 13. Bantashee (Demonic Angel)
 14. Yabina the Phantom (Angel)
 15. <span style="color: #CC5500">Agorfa (-30% current HP)<span>
-16. Andola (Undead Gladiator)
+16.  <span style="color: #7CFC00">Andola (Undead Gladiator)<span>
 17. Kytra (Cyc)
 18. <span style="color: #CC5500">Sycorax (10K Bleed, 3 turns)<span>
 19. <span style="color: #CC5500">Boracus (50K Bleed, 1 turn)<span>
@@ -72,7 +106,7 @@ The above bosses have OTKs in Warspirit Path, but are safe in Tower.
 27. Mosino (Demonic Angel)
 28. Jilan (Dinah)
 29. Githlander (Armored flail boss)
-30. Jarlor (Undead Gladiator)
+30.  <span style="color: #7CFC00">Jarlor (Undead Gladiator)<span>
 31. Wulfgar (The Wolf)
 32. Toros Lead (Tauren Elite)
 33. Viscount Remus (Templar)
@@ -86,7 +120,7 @@ The above bosses have OTKs in Warspirit Path, but are safe in Tower.
 41. Sezmar (Templar)
 42. **<p style="color: #b22222">Jarnica (Warlock)<p>**
 43. <span style="color: #CC5500">Agorfa (-30% current HP)<span>
-44. Jarlor (Undead Gladiator)
+44.  <span style="color: #7CFC00">Jarlor (Undead Gladiator)<span>
 45. Mortis (Landos Champ)
 46. <span style="color: #CC5500">Arlos (10K Bleed, 3 turns)<span>
 47. Mosino (Demonic Angel)
@@ -98,7 +132,7 @@ The above bosses have OTKs in Warspirit Path, but are safe in Tower.
 53. Sezmar (Templar)
 54. **<p style="color: #b22222">Jarnica (Warlock)<p>**
 55. <span style="color: #CC5500">Agorfa (-30% current HP)<span>
-56. Jarlor (Undead Gladiator)
+56.  <span style="color: #7CFC00">Jarlor (Undead Gladiator)<span>
 57. Mortis (Landos Champ)
 58. <span style="color: #CC5500">Arlos (10K Bleed, 3 turns)<span>
 59. Mosino (Demonic Angel)
@@ -121,10 +155,10 @@ The above bosses have OTKs in Warspirit Path, but are safe in Tower.
 76. Fayden (Reaper)
 77. Zane (Demonic Knight)
 78. Wormageddon (self-explanatory xD)
-79. Jarlor (Undead Gladiator)
+79.  <span style="color: #7CFC00">Jarlor (Undead Gladiator)<span>
 80. Farinel (Paladin)
 81. Mortis (Landos Champ)
-82. Rooftrellen (Tree)
+82.  <span style="color: #7CFC00">Rooftrellen (Tree)<span>
 83. Nemrut (DT 1st boss)
 84. <span style="color: #b8bc86">Coronius (Tornado/wind boss)<span>
 85. Githlander (Armored flail boss)
@@ -156,10 +190,10 @@ The above bosses have OTKs in Warspirit Path, but are safe in Tower.
 111. <span style="color: #CC5500">Moffitt (pure-dps fire boss)<span>
 112. Apocalypse Shadow (Badlands boss)
 113. Rubia (Steals 5 Rage / hit)
-114. Rooftrellen (Tree)
+114.  <span style="color: #7CFC00">Rooftrellen (Tree)<span>
 115. Wulfgar (The Wolf)
 116. <span style="color: #CC5500">Lesale (Marsh NM 1st boss)<span>
-117. Razor (electro stun tank)
+117.  <span style="color: #7CFC00">Razor (electro stun tank)<span>
 118. **<p style="color: #b22222">Landor (Knight)<p>**
 119. Karjaya (Armored flail boss)
 120. **<p style="color: #b22222">Lesterlin (Elise)<p>**
@@ -170,7 +204,7 @@ The above bosses have OTKs in Warspirit Path, but are safe in Tower.
 125. Karlan (Thur)
 126. Karnatog (Mino)
 127. Spiny Serpentus (Lizard)
-128. Jarlor (Undead Gladiator)
+128.  <span style="color: #7CFC00">Jarlor (Undead Gladiator)<span>
 129. Githlander (Armored flail boss)
 130. Jilan (Dinah)
 131. Mosino (Demonic Angel)
@@ -185,7 +219,7 @@ The above bosses have OTKs in Warspirit Path, but are safe in Tower.
 140. <span style="color: #CC5500">Sycorax (10K Bleed, 3 turns)<span>
 141. Kytra (Cyc)
 142. Headless Marauder (Demonic Knight)
-143. Andola (Undead Gladiator)
+143.  <span style="color: #7CFC00">Andola (Undead Gladiator)<span>
 144. **<p style="color: #b22222">Voser (Demon Lord Xemul)<p>**
 145. Azakar (DT last boss)
 146. <span style="color: #CC5500">Sycorax (10K Bleed, 3 turns)<span>
@@ -204,10 +238,10 @@ The above bosses have OTKs in Warspirit Path, but are safe in Tower.
 159. **<p style="color: #b22222">Lesterlin (Elise)<p>**
 160. Karjaya (Armored flail boss)
 161. **<p style="color: #b22222">Landor (Knight)<p>**
-162. Razor (electro stun tank)
+162.  <span style="color: #7CFC00">Razor (electro stun tank)<span>
 163. <span style="color: #CC5500">Lesale (Marsh NM 1st boss)<span>
 164. Wulfgar (The Wolf)
-165. Rooftrellen (Tree)
+165.  <span style="color: #7CFC00">Rooftrellen (Tree)<span>
 166. Rubia (Steals 5 Rage / hit)
 167. Apocalypse Shadow (Badlands boss)
 168. <span style="color: #CC5500">Moffitt (pure-dps fire boss)<span>
@@ -232,7 +266,7 @@ The above bosses have OTKs in Warspirit Path, but are safe in Tower.
 187. Bantashee (Demonic Angel)
 188. Yabina the Phantom (Angel)
 189. <span style="color: #CC5500">Agorfa (-30% current HP)<span>
-190. Andola (Undead Gladiator)
+190.  <span style="color: #7CFC00">Andola (Undead Gladiator)<span>
 191. Kytra (Cyc)
 192. <span style="color: #CC5500">Sycorax (10K Bleed, 3 turns)<span>
 193. <span style="color: #CC5500">Boracus (50K Bleed, 1 turn)<span>
@@ -246,7 +280,7 @@ The above bosses have OTKs in Warspirit Path, but are safe in Tower.
 201. Mosino (Demonic Angel)
 202. Jilan (Dinah)
 203. Githlander (Armored flail boss)
-204. Jarlor (Undead Gladiator)
+204.  <span style="color: #7CFC00">Jarlor (Undead Gladiator)<span>
 205. Zane (Demonic Knight)
 206. <span style="color: #CC5500">Narosa (25K Bleed, 1 turn)<span>
 207. Krankor (Small Worm)
@@ -259,7 +293,7 @@ The above bosses have OTKs in Warspirit Path, but are safe in Tower.
 214. Viscount Remus (Templar)
 215. <span style="color: #CC5500">Bloodlands Flyer (50K Bleed, 1 turn)<span>
 216. Yass (Treasure Thief)
-217. Andola (Undead Gladiator)
+217.  <span style="color: #7CFC00">Andola (Undead Gladiator)<span>
 218. Kytra (Cyc)
 219. <span style="color: #CC5500">Sycorax (10K Bleed, 3 turns)<span>
 220. <span style="color: #CC5500">Boracus (50K Bleed, 1 turn)<span>
@@ -275,7 +309,7 @@ The above bosses have OTKs in Warspirit Path, but are safe in Tower.
 230. Farinel (Paladin)
 231. Bragi (Bragi)
 232. <span style="color: #CC5500">Sycorax (10K Bleed, 3 turns)<span>
-233. Andola (Undead Gladiator)
+233.  <span style="color: #7CFC00">Andola (Undead Gladiator)<span>
 234. <span style="color: #CC5500">Arlos (10K Bleed, 3 turns)<span>
 235. Spiny Serpentus (Lizard)
 236. **<p style="color: #b22222">Voser (Demon Lord Xemul)<p>**
@@ -296,11 +330,11 @@ The above bosses have OTKs in Warspirit Path, but are safe in Tower.
 251. Zane (Demonic Knight)
 252. Sodo (Bleed Dragon)
 253. **<p style="color: #b22222">Landor (Knight)<p>**
-254. Rooftrellen (Tree)
+254.  <span style="color: #7CFC00">Rooftrellen (Tree)<span>
 255. Jilan (Dinah)
 256. <span style="color: #b8bc86">Coronius (Tornado/wind boss)<span>
 257. Mosino (Demonic Angel)
-258. Razor (electro stun tank)
+258.  <span style="color: #7CFC00">Razor (electro stun tank)<span>
 259. **<p style="color: #b22222">Voser (Demon Lord Xemul)<p>**
 260. Wulfgar (The Wolf)
 261. Toros Lead (Tauren Elite)
@@ -311,7 +345,7 @@ The above bosses have OTKs in Warspirit Path, but are safe in Tower.
 266. Zane (Demonic Knight)
 267. Farinel (Paladin)
 268. <span style="color: #CC5500">Moffitt (pure-dps fire boss)<span>
-269. Razor (electro stun tank)
+269.  <span style="color: #7CFC00">Razor (electro stun tank)<span>
 270. Spiny Serpentus (Lizard)
 271. Headless Marauder (Demonic Knight)
 272. <span style="color: #CC5500">Sycorax (10K Bleed, 3 turns)<span>
@@ -329,7 +363,7 @@ The above bosses have OTKs in Warspirit Path, but are safe in Tower.
 284. <span style="color: #CC5500">Arlos (10K Bleed, 3 turns)<span>
 285. <span style="color: #CC5500">Moffitt (pure-dps fire boss)<span>
 286. Azakar (DT last boss)
-287. Razor (electro stun tank)
+287.  <span style="color: #7CFC00">Razor (electro stun tank)<span>
 288. Clander (Clander)
 289. Rubia (Steals 5 Rage / hit)
 290. **<p style="color: #b22222">Voser (Demon Lord Xemul)<p>**
@@ -348,7 +382,7 @@ The above bosses have OTKs in Warspirit Path, but are safe in Tower.
 303. Zane (Demonic Knight)
 304. <span style="color: #CC5500">Karnova (-30% current HP)<span>
 305. Wormageddon (self-explanatory xD)
-306. Jarlor (Undead Gladiator)
+306.  <span style="color: #7CFC00">Jarlor (Undead Gladiator)<span>
 307. Sodo (Bleed Dragon)
 308. Farinel (Paladin)
 309. Larnot (Demonic Angel)
@@ -358,14 +392,14 @@ The above bosses have OTKs in Warspirit Path, but are safe in Tower.
 313. <span style="color: #CC5500">Bloodlands Flyer (50K Bleed, 1 turn)<span>
 314. <span style="color: #CC5500">Lesale (Marsh NM 1st boss)<span>
 315. **<p style="color: #b22222">Jarnica (Warlock)<p>**
-316. Andola (Undead Gladiator)
+316.  <span style="color: #7CFC00">Andola (Undead Gladiator)<span>
 317. Yaros (Yaros)
 318. Apocalypse Shadow (Badlands boss)
 319. <span style="color: #b8bc86">Blacktooth (non-rem reveived DMG debuff, stackable)<span>
 320. Sezmar (Templar)
 321. **<p style="color: #b22222">Jarnica (Warlock)<p>**
 322. <span style="color: #CC5500">Agorfa (-30% current HP)<span>
-323. Jarlor (Undead Gladiator)
+323.  <span style="color: #7CFC00">Jarlor (Undead Gladiator)<span>
 324. Mortis (Landos Champ)
 325. .
 326. .
@@ -394,7 +428,7 @@ The above bosses have OTKs in Warspirit Path, but are safe in Tower.
 349. Fayden (Reaper)
 350. Karjaya (Armored flail boss)
 351. <span style="color: #CC5500">Karnova (-30% current HP)<span>
-352. Jarlor (Undead Gladiator)
+352.  <span style="color: #7CFC00">Jarlor (Undead Gladiator)<span>
 353. **<p style="color: #b22222">Landor (Knight)<p>**
 354. Yabina the Phantom (Angel)
 355. <span style="color: #b8bc86">Coronius (Tornado/wind boss)<span>
