@@ -491,4 +491,20 @@ The above bosses have OTKs in Warspirit Path, but are safe in Tower.
 409. <code style="color: #CC5500">Boracus (50K Bleed, 1 turn)</code>
 410. <code style="color: #CC5500">Karnova (-30% current HP) + extra-fragile to ruin Rage/Warspirit building</code>
 411. <code style="color: #b22222">Lesterlin (Elise) + 5 stages = probably another OTK-boss</code><br>.
-412. 
+412. Azakar (DT last boss)
+413. Rubia (Steals 5 Rage / hit)
+414. Merloch (Yaros)
+415. Wormageddon (self-explanatory xD)
+416. Kytra (Cyc)
+417. Apocalypse Shadow (Badlands boss)
+418. <code style="color: #b22222">Jarnica (Warlock)</code><br>.
+419. Mosino (Demonic Angel)
+420. Krankor (Small Worm)
+421. Karnatog (Mino)
+422. Sezmar (Templar)
+423. <code style="color: #b22222">Landor (Knight) + **cursed death!!!**</code><br>.
+424. Githlander (Armored flail boss)
+425. Sodo (Bleed Dragon)
+426. <code style="color: #b22222">Pheora (Warlock) + DMG debuff mobs</code><br>.
+427. <code style="color: #b22222">Jarnica (Warlock) + stun mob</code><br>.
+428. 
