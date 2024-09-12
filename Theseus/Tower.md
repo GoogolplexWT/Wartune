@@ -404,23 +404,23 @@ The above bosses have OTKs in Warspirit Path, but are safe in Tower.
 322. <code style="color: #CC5500">Agorfa (-30% current HP)</code>
 323. <code style="color: #7CFC00">Jarlor (Undead Gladiator)</code>
 324. Mortis (Landos Champ)
-325. .
-326. .
-327. .
-328. .
-329. .
-330. .
-331. .
-332. .
-333. .
-334. .
+325. <code style="color: #CC5500">Arlos (10K Bleed, 3 turns)</code>
+326. Mosino (Demonic Angel)
+327. Tyrath (Bleed Dragon)
+328. Rubia (Steals 5 Rage / hit)
+329. Toros Lead (Tauren Elite)
+330. <code style="color: #CC5500">Anotar (50K Bleed, 1 turn)</code>
+331. <code style="color: #CC5500">Sycorax (10K Bleed, 3 turns)</code>
+332. Merloch (Yaros)
+333. <code style="color: #CC5500">Boracus (50K Bleed, 1 turn)</code>
+334. Sezmar (Templar)
 335. <code style="color: red">Jarnica (Warlock)</code><br>.
-336. .
-337. .
-338. .
-339. .
-340. .
-341. .
+336. Krankor (Small Worm)
+337. <code style="color: #CC5500">Agorfa (-30% current HP)</code>
+338. Wormageddon (self-explanatory xD)
+339. Sodo (Bleed Dragon)
+340. Kronos (Mino)
+341. Spiny Serpentus (Lizard)
 342. Karnatog (Mino)
 343. Merloch (Yaros)
 344. <code style="color: #CC5500">Boracus (50K Bleed, 1 turn)</code>
