@@ -79,6 +79,19 @@
 
 The above bosses have OTKs in Warspirit Path, but are safe in Tower.
 
+# Known bugs
+> Cause too many losers at 7Road
+
+### HoT-Bleed bug
+If the "Undead Gladiator"like boss dies to a Bleed on the self-HoT action, the boss bar will become permanently bugged into displaying double the amount of bars. Refreshing the game mid-fight doesn't fix the issue.
+
+### Stun icon bug
+If your character gets stunned during a mid-fight refresh at a certain reload moment, the stun icon will remain permanently visible. This icon bug can perpetually randomly cancel or "not respect" your skill queueings. Refreshing the game again can fix the issue.
+
+### Warspirit lock bug
+A mid-fight refresh could result in your Warspirit skill icons being locked from user interaction. Toggling Auto mode to have a random Warspirit skill cast will fix the issue.
+
+
 # Boss per wave
 1. Krankor (Small Worm)
 2. Abyssal Beast (big/red worm)
