@@ -91,6 +91,9 @@ If your character gets stunned during a mid-fight refresh at a certain reload mo
 ### Warspirit lock bug
 A mid-fight refresh could result in your Warspirit skill icons being locked from user interaction. Toggling Auto mode to have a random Warspirit skill cast will fix the issue.
 
+### Light Spirit heal bug
+If multiple enemies are present, this skill will cause 1 random foe to receive a 1,5M heal.<br> 
+*(In the main game something similar will happen, as well as all enemies taking significantly less DMG for the next turn.)*
 
 # Boss per wave
 1. Krankor (Small Worm)
