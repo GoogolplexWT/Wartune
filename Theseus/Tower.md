@@ -359,7 +359,7 @@ The above bosses have OTKs in Warspirit Path, but are safe in Tower.
 277. Yaros (Yaros)
 278. <code style="color: #CC5500">Agorfa (-30% current HP)</code>
 279. Karjaya (Armored flail boss)
-280. Kanova (-30% current HP)
+280. <code style="color: #CC5500">Karnova (-30% current HP)</code>
 281. Farinel (Paladin)
 282. <code style="color: red">Lesterlin (Elise)</code><br>.
 283. Yabina the Phantom (Angel)
