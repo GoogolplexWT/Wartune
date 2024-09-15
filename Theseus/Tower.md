@@ -95,6 +95,9 @@ A mid-fight refresh could result in your Warspirit skill icons being locked from
 If multiple enemies are present, this skill will cause 1 random foe to receive a 1,5M heal.<br> 
 *(In the main game something similar will happen, as well as all enemies taking significantly less DMG for the next turn.)*
 
+### Animation despawn bug
+An enemy's animation model doesn't disappear after defeat. Can be fixed by refreshing.
+
 # Boss per wave
 1. Krankor (Small Worm)
 2. Abyssal Beast (big/red worm)
@@ -506,7 +509,7 @@ If multiple enemies are present, this skill will cause 1 random foe to receive a
 408. Headless Marauder (Demonic Knight)
 409. <code style="color: #CC5500">Boracus (50K Bleed, 1 turn)</code>
 410. <code style="color: #CC5500">Karnova (-30% current HP) + extra-fragile to ruin Rage/Warspirit building</code>
-411. <code style="color: red">Lesterlin (Elise) + 5 stages = probably another OTK-boss</code><br>.
+411. <code style="color: red">Lesterlin (Elise)</code><br>.
 412. Azakar (Azakar)
 413. Rubia (Steals 5 Rage / hit)
 414. Merloch (Yaros)
